@@ -2087,5 +2087,5 @@
 
 - Banking wave (thinktank APPROVE_B_WITH_EDITS): paper-l0 + related-open-tools + geroscience-epistemics
 - Honesty guards: operational D(t); illustrative sex sim; adjacency != causal DAG
-- Corpus +6 landscape/paper cites; public GitHub publish gated on status+pytest
+- Corpus 1353 -> 1359 (+6 landscape/paper cites); public GitHub publish gated on status+pytest
 - Ralph sentinel climb continues (OASIS / ER-100 / Deciduous top of queue)
