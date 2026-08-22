@@ -1,15 +1,16 @@
-# LIVE-FOREVER — FULL BACKLOG (2026-08-22 evening + Wave-1)
+# LIVE-FOREVER — FULL BACKLOG (2026-08-22 night)
 
 Living list. `open_gaps == 0` does **not** mean empty backlog. Source of truth for Ralph: this file + [`SENTINEL_BOARD.md`](SENTINEL_BOARD.md) + `docs/gap_register.json` + `scripts/ralph_tick.py` `NEXT_QUERIES`.
 
-Last CEO update: [`ceo-update-2026-08-22-eve.md`](ceo-update-2026-08-22-eve.md).  
+Last CEO update: [`ceo-update-2026-08-22-night.md`](ceo-update-2026-08-22-night.md).  
+Prior eve: [`ceo-update-2026-08-22-eve.md`](ceo-update-2026-08-22-eve.md).  
 Jr runbook: [`JR_ANALYST_RUNBOOK.md`](JR_ANALYST_RUNBOOK.md).  
 Wave-1 plan: [`../superpowers/plans/2026-08-22-enterprise-hardening-wave1.md`](../superpowers/plans/2026-08-22-enterprise-hardening-wave1.md).  
-Snapshot: corpus **1474**; wake **#276**; tick **#282**; `GOAL_MET`; public GitHub `oimiragieo/live-forever`.
+Snapshot: corpus **1499**; wake **#281**; tick **#287**; `GOAL_MET`; tests **47**; public GitHub `oimiragieo/live-forever`.
 
-### Honesty (Wave-1)
+### Honesty (Wave-1 + night)
 
-**Software can ship. Sentinel clinical pins cannot be closed by inventing milligrams.** D1–D5 stay OPEN under Ralph until CT.gov/preprint receipts.
+**Software can ship. Sentinel clinical pins cannot be closed by inventing milligrams.** D1–D5 stay OPEN under Ralph until CT.gov/preprint receipts. (L33)
 
 ---
 
@@ -100,8 +101,8 @@ Bank “still absent” every wake — do not invent.
 | 26 | Cyclarity **UDP-003 Ph2 NCT** + ACS **CCTA interim** (**7KC PD ≠ plaque**; Series B gated) |
 | 27 | TRIIM-X **peer-reviewed package** (**RECRUITING past 2025-12**; **TRIIM 2019 ≠ TRIIM-X**; not M2 awardee) |
 | 28 | XPRIZE **3rd immune response-to-challenge** assay vendor / SOP (**Rules pending proxy**; Stein live; Landscape silent) |
-| 29 | Deciduous **iNKT IND** public filing (**still absent**; patents = IP ≠ IND; **fobi Jul 2026 preclinical**) |
-| 30 | ER-100 **second-patient / DSMB** public update (**still absent**; first dose **2026-06-09** only; **NCT07290244**) |
+| 29 | Deciduous **iNKT IND** public filing (**still absent**; patents = IP ≠ IND; **US patent 12655171 Jun 2026 ≠ IND**; **fobi Jul 2026 preclinical**) |
+| 30 | ER-100 **second-patient / DSMB** public update (**still absent**; first dose **2026-06-09** only; **NCT07290244** still RECRUITING) |
 
 ### D5. Mechanism / assay tensions still open
 
@@ -109,7 +110,7 @@ Bank “still absent” every wake — do not invent.
 |---|-----|
 | 31 | Queuine / **STL-101** plasma age-decline **reconciliation** (**UNSETTLED**; bioRxiv drop claim vs PLOS **2021 flat 50–90**; **PMC11493786** LOQ **0.3 nM** — **assay/cohort mismatch**) |
 | 32 | Human **queuine longevity supplementation NCT/mg** (**still absent**; **bioRxiv mouse +15.3% ≠ human NCT**; **Sapience ST101 ≠ STL-101**) |
-| 33 | Nitazoxanide **human aging / FOXN1** dose NCT (**still absent**; Genah 2026 post-IR mouse only; review ≠ NCT) |
+| 33 | Nitazoxanide **human aging / FOXN1** dose NCT (**still absent**; Genah 2026 post-IR mouse only; Sewell 2026 review not-demonstrated; review ≠ NCT) |
 | 34 | Oral sema **25/50** vs VITAL-H | OASIS studied **25+50 mg**; neither invents VITAL-H aging arm mg |
 | 35 | Selective **B2M / CCL11** aging depletion IND (**still absent**; **CCL11 trials vacant**; **CAT-213 inflammatory only**) |
 
@@ -128,12 +129,14 @@ Bank “still absent” every wake — do not invent.
 | 42 | **Dossier append hygiene** — unique `## Update (Ralph wake #N)` or EOF; never bare "negatives held" StrReplace; dedupe same turn |
 | 43 | **Windows TEMP Python** for multi-line wake scripts — `$env:TEMP\lf_wakeN.py` then run (L26) |
 | 44 | **Unique hillclimb `## Tick N` headers** every wake (L28) |
-| 45 | **WSL cursor-agent auth** — `agent login` or `CURSOR_API_KEY` required before free micro-subagents / thinktank cursor seat (finding 2026-08-22) |
-| 46 | **Thinktank headless file-read** — agy/codex may deny plan inspection under policy; use in-session adversarial review fallback |
+| 45 | **WSL cursor-agent auth** — `agent login` or `CURSOR_API_KEY` required before free micro-subagents / thinktank cursor seat (L34) |
+| 46 | **Thinktank headless file-read** — agy/codex may deny plan inspection under policy; use in-session adversarial review fallback (L35) |
+| 47 | **Run `scripts/validate_corpus.py`** in CI + after big corpus edits (Wave-1 / L36) |
+| 48 | **Stacked Ralph ticks** — multi-wake catch-up same turn when notifications pile (L37) |
 
 ---
 
-## G. Software Wave-1 (enterprise hardening) — DONE on branch when CI green
+## G. Software Wave-1 (enterprise hardening) — DONE on master
 
 | Item | Artifact |
 |------|----------|
@@ -160,7 +163,8 @@ Bank “still absent” every wake — do not invent.
 - Scaffold / two-pathway sim / ITP ingest / parabiosis ingest / pro-aging catalog v1 — **closed**  
 - `thymic-restoration` as separate deferred gap — **mapped/closed** into L3  
 - Inventing milligrams from adjacency ladders — **forbidden**, not a gap to “fill”  
-- L0 paper brief / related-open-tools / geroscience-epistemics / public GitHub scaffold — **shipped** (tick 259)
+- L0 paper brief / related-open-tools / geroscience-epistemics / public GitHub scaffold — **shipped** (tick 259)  
+- Wave-1 enterprise hardening — **shipped** on `master`
 
 ---
 
@@ -172,6 +176,6 @@ Bank “still absent” every wake — do not invent.
 | Ultra-design deferred bullets | 5 (overlap with dossiers) |
 | Hallmark seeds | 1 |
 | Research pins (D1–D5) | 35 |
-| Ops items | 11 |
-| Software Wave-1 | DONE (when merged) |
-| **Enumerated open rows** | **~52 unique** open (dossiers + seed + pins + ops); Wave-1 software tracked in §G as DONE |
+| Ops items | 13 |
+| Software Wave-1 | DONE |
+| **Enumerated open rows** | **~54 unique** open (dossiers + seed + pins + ops); Wave-1 software tracked in §G as DONE |

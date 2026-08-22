@@ -2,8 +2,8 @@
 
 **Purpose:** Jr-analyst-visible board of pins that stay **OPEN** until external disclosure. Software Wave-1 does **not** close these.
 
-**As of:** 2026-08-22 (Ralph wake #276 / corpus 1474).  
-**Rule:** Bank negatives; never invent mg. Absence = searched sources as of date.
+**As of:** 2026-08-22 night (Ralph wake #281 / corpus 1499 / tick #287).  
+**Rule:** Bank negatives; never invent mg. Absence = searched sources as of date. Software Wave-1 does not close these (L33).
 
 ## D1 — Highest priority
 
