@@ -13119,3 +13119,44 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = STL-101 in-vitro!=NCT + queuine UNSETTLED + RESTOR OD opacity."
+
+- id: shape-daily-mg-results-still-absent-wake289
+  title: "SHAPE NCT07275424 daily elamipretide milligrams and Results wake #289 negative recheck - still RECRUITING; 80 mg/mL vial only; No Results Posted; Marcinek lab recruitment page"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol milligrams. RECRUITING != Results Posted."
+- id: everlast-results-still-absent-wake289
+  title: "EVERLAST NCT05835999 Results wake #289 negative recheck - COMPLETED completion 2026-07-22; protocol doses 0.5 mg/day and 5 mg/week known; No Results Posted; Konopka Lab page still recruitment copy"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED status != Results Posted. Protocol dose labels != outcome tables. Stale lab page != Results."
+- id: konopka-everlast-recruitment-copy-wake289
+  title: "Konopka Lab EVERLAST page wake #289 negative recheck - still recruitment/compensation copy; does not disclose Results tables"
+  url: https://konopkalab.medicine.wisc.edu/clinical-trials/everlast/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Stale recruitment page != Results Posted after CT.gov COMPLETED."
+- id: vital-h-nct-arm-mg-still-absent-wake289
+  title: "VITAL-H NCT and arm milligrams wake #289 negative recheck - ARPA-H/Barshop press; Barshop clinical-trials lists VITAL-H; recruitment not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://barshopinstitute.uthscsa.edu/clinical-trials/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Institute listing/press != NCT registration. Named drugs != invent arm milligrams."
+- id: wake289-negatives
+  title: "Negatives wake #289 - SHAPE daily mg/Results still absent; EVERLAST Results still absent; VITAL-H NCT/arm mg still absent"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = SHAPE vial!=daily-mg + EVERLAST COMPLETED-no-Results + VITAL-H press!=NCT."

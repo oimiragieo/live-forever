@@ -2329,3 +2329,10 @@
 - STL-101 human longevity NCT still absent (PLOS in-vitro only; Sapience ST101 != Stellate)
 - Queuine plasma age-decline still UNSETTLED (PLOS flat vs decline claims)
 - RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+
+## Tick 295 - 2026-08-22 (SHAPE / EVERLAST / VITAL-H still absent)
+
+- Ralph wake #289: GOAL_MET; corpus 1536 -> 1541
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted; still RECRUITING
+- EVERLAST: COMPLETED Jul 2026; protocol 0.5/5 mg known; No Results Posted; Konopka recruitment copy
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
