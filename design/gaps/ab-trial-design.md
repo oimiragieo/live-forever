@@ -1409,3 +1409,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #279 negative recheck** — **PMC11868897** notes **CCL11 clinical trials currently vacant**; anti-CCL11 adjacency ≠ selective aging-depletion IND. **Parabiosis factor literature ≠ human longevity IND.**
 - **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #279 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished). **No matching VITAL-H NCT in searched sources as of 2026-08-22.**
 - **ER-100 DSMB / Deciduous IND / EVERLAST Results / RESTOR OD** negatives held.
+
+## Update (Ralph wake #280)
+- **ER-100 DSMB second-patient outcome still absent:** **Wake #280 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.** **First-dose press ≠ DSMB outcome.**
+- **Deciduous iNKT IND still absent:** **Wake #280 negative recheck** — **deciduoustx.com** still **preclinical**; **US patent 12655171** (**Jun 2026**) grant only; **no CT.gov**. **Patent/IP ≠ IND filed.**
+- **STL-101 human longevity NCT still absent:** **Wake #280 negative recheck** — **PLOS ONE 2021** in-vitro; **bioRxiv 713446** mouse **+15.3%**; **no matching Stellate STL-101 CT.gov** longevity NCT in searched sources as of **2026-08-22**. **Mouse paper ≠ human NCT.**
+- **Queuine unsettled / RESTOR OD / SHAPE / EVERLAST / VITAL-H** negatives held.

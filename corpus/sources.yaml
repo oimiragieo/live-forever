@@ -12734,3 +12734,44 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = NTZ mouse-only + B2M/CCL11 IND vacant + OASIS!=VITAL-H fence triple negative recheck."
+
+- id: er100-dsmb-second-patient-still-absent-wake280
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #280 negative recheck - still RECRUITING; CT.gov updated May 15 2026; sentinel 28-day DSMB gate described; no public second-patient or DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Protocol DSMB language != public DSMB outcome. Intravitreal OSK != systemic longevity Finals. First-dose press != DSMB clearance."
+- id: lifebio-er100-first-dose-only-wake280
+  title: "Life Biosciences ER-100 first-patient press wake #280 negative recheck - Jun 9 2026 first dose only; no second-patient or DSMB clearance disclosed"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-dose announcement != DSMB second-patient clearance. Ocular FIH != systemic longevity protocol."
+- id: deciduous-inkt-ind-still-absent-wake280
+  title: "Deciduous iNKT IND wake #280 negative recheck - deciduoustx.com still preclinical; US patent 12655171 Jun 2026 grant; no CT.gov"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Patent/IP grant != IND filed. Preclinical site != CT.gov registration."
+- id: stl101-human-longevity-nct-still-absent-wake280
+  title: "STL-101 human longevity supplementation NCT wake #280 negative recheck - PLOS 2021 in-vitro; bioRxiv 713446 mouse +15.3 percent; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-22"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse lifespan preprint != human supplementation NCT. In-vitro uM != invent oral longevity milligrams."
+- id: wake280-negatives
+  title: "Negatives wake #280 - ER-100 DSMB second-patient still opaque; Deciduous IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = ER-100 DSMB opacity + Deciduous patent-only + STL-101 NCT absence triple negative."
