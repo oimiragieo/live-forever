@@ -2168,3 +2168,10 @@
 - NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
 - B2M/CCL11 selective aging-depletion IND still absent
 - OASIS ≠ VITAL-H fence held (25/50 mg obesity only)
+## Tick 271 - 2026-08-22 (OASIS≠VITAL-H / ER-100 DSMB / Deciduous / STL-101 still absent)
+
+- Ralph wake #265: GOAL_MET; corpus 1414 -> 1419
+- OASIS ≠ VITAL-H fence held (25/50 mg obesity only; no matching VITAL-H NCT in searched sources as of 2026-08-22)
+- ER-100 DSMB second-patient outcome still opaque
+- Deciduous iNKT IND still absent (preclinical; patents only)
+- STL-101 human longevity NCT/mg still absent

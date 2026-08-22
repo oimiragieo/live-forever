@@ -1325,3 +1325,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **B2M/CCL11 selective aging depletion IND still absent:** **Wake #264 negative recheck** — **RCM 2025** / **Pharmaceuticals** reviews; **CAT-213** inflammatory adjacency only; **no CT.gov selective aging-depletion IND.** **Mechanism ≠ longevity IND.** **Review ≠ NCT.**
 - **OASIS ≠ VITAL-H fence held:** **Wake #264 recheck** — **OASIS 1 NCT05035095** oral **50 mg** and **OASIS 4 NCT05564117** oral **25 mg** remain **COMPLETED obesity** readouts. **OASIS obesity oral 25/50 mg ≠ invent VITAL-H healthy-older semaglutide arm mg.**
 - **ER-100 DSMB / Deciduous IND / RESTOR OD / EVERLAST Results** negatives held.
+## Update (Ralph wake #265)
+- **OASIS ≠ VITAL-H fence held:** **Wake #265 recheck** — **OASIS 1 NCT05035095** oral **50 mg** and **OASIS 4 NCT05564117** oral **25 mg** remain **COMPLETED obesity** readouts. **VITAL-H**: **no matching NCT in searched sources as of 2026-08-22**; **recruitment not begun**. **OASIS obesity oral 25/50 mg ≠ invent VITAL-H healthy-older semaglutide arm mg.**
+- **ER-100 DSMB second-patient outcome still absent:** **Wake #265 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.** **First-dose press ≠ DSMB outcome.**
+- **Deciduous iNKT IND still absent:** **Wake #265 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; patents only; **fobi Jul 2026** preclinical. **Patent/IP ≠ IND filed.**
+- **STL-101 human longevity NCT still absent:** **Wake #265 negative recheck** — **bioRxiv 713446** mouse **+15.3%** / fly **+47%**; **PLOS 2021** in-vitro µM; **no CT.gov** longevity supplementation NCT. **Mouse paper ≠ human NCT.**
+- **RESTOR OD / SHAPE daily mg / EVERLAST Results / queuine plasma** negatives held.

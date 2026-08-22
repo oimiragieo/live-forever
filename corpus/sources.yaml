@@ -12131,3 +12131,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = VITAL-H press!=NCT + NTZ mouse!=human + B2M/CCL11 review!=IND + OASIS obesity!=VITAL-H quadruple negative recheck."
+- id: oasis-vs-vital-h-fence-wake265
+  title: "OASIS oral semaglutide 25/50 mg vs VITAL-H aging arm fence wake #265 - NCT05035095 OASIS 1 50 mg; NCT05564117 OASIS 4 25 mg COMPLETED obesity only; no matching VITAL-H NCT in searched sources as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity oral 25/50 mg != invent VITAL-H healthy-older semaglutide arm milligrams. Press != NCT. OASIS != VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake265
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #265 negative recheck - first dose Jun 9 2026 only; still RECRUITING; CT.gov updated May 15 2026; no public DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sentinel 28-day DSMB gate still opaque. Intravitreal OSK != systemic longevity Finals. First-dose press != DSMB outcome."
+- id: deciduous-inkt-ind-still-absent-wake265
+  title: "Deciduous iNKT IND wake #265 negative recheck - still preclinical per deciduoustx.com and fobi Jul 2026; no CT.gov; patents only; Series A toward FIH not filed"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Patent/IP != IND filed. Preclinical != CT.gov. fobi Jul 2026 still labels program preclinical. Longevity Forum != IND."
+- id: stl101-human-longevity-nct-still-absent-wake265
+  title: "Stellate STL-101 human longevity NCT wake #265 negative recheck - bioRxiv 713446 mouse +15.3% and fly +47%; PLOS 2021 in-vitro uM; no CT.gov supplementation trial"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse paper != human NCT. In-vitro uM != protocol milligrams."
+- id: wake265-negatives
+  title: "Negatives wake #265 - OASIS!=VITAL-H fence held; ER-100 DSMB still opaque; Deciduous IND still absent; STL-101 human NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS obesity!=VITAL-H + ER-100 DSMB opacity + Deciduous patent-only + STL-101 mouse-only quadruple negative recheck."
