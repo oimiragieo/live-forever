@@ -1,10 +1,15 @@
-# LIVE-FOREVER — FULL BACKLOG (2026-08-22 PM)
+# LIVE-FOREVER — FULL BACKLOG (2026-08-22 evening + Wave-1)
 
-Living list. `open_gaps == 0` does **not** mean empty backlog. Source of truth for Ralph: this file + `docs/gap_register.json` + `scripts/ralph_tick.py` `NEXT_QUERIES`.
+Living list. `open_gaps == 0` does **not** mean empty backlog. Source of truth for Ralph: this file + [`SENTINEL_BOARD.md`](SENTINEL_BOARD.md) + `docs/gap_register.json` + `scripts/ralph_tick.py` `NEXT_QUERIES`.
 
-Last CEO update: [`ceo-update-2026-08-22-pm.md`](ceo-update-2026-08-22-pm.md).  
-Paper / OSS moat (2026-08-22): [`../ideation/paper-l0-control-instrumentation.md`](../ideation/paper-l0-control-instrumentation.md) · [`related-open-tools.md`](related-open-tools.md) · [`../../design/gaps/geroscience-epistemics.md`](../../design/gaps/geroscience-epistemics.md).  
-Snapshot: corpus climbs via Ralph; `GOAL_MET` is a floor; tests **42** green when suite passes.
+Last CEO update: [`ceo-update-2026-08-22-eve.md`](ceo-update-2026-08-22-eve.md).  
+Jr runbook: [`JR_ANALYST_RUNBOOK.md`](JR_ANALYST_RUNBOOK.md).  
+Wave-1 plan: [`../superpowers/plans/2026-08-22-enterprise-hardening-wave1.md`](../superpowers/plans/2026-08-22-enterprise-hardening-wave1.md).  
+Snapshot: corpus **1474**; wake **#276**; tick **#282**; `GOAL_MET`; public GitHub `oimiragieo/live-forever`.
+
+### Honesty (Wave-1)
+
+**Software can ship. Sentinel clinical pins cannot be closed by inventing milligrams.** D1–D5 stay OPEN under Ralph until CT.gov/preprint receipts.
 
 ---
 
@@ -52,11 +57,11 @@ Bank “still absent” every wake — do not invent.
 
 | # | Pin | Status |
 |---|-----|--------|
-| 1 | **EVERLAST NCT05835999 Results** | **COMPLETED 2026-07-22** (n=106 ACTUAL); **No Results Posted**; no Konopka preprint; Konopka lab **stale recruitment copy**; Syfrah Protocol Version bumps **≠ Results** |
-| 2 | **VITAL-H NCT** | n≈726 four-arm oral hybrid; ARPA-H award Feb 2026; San Antonio Report **start later 2026/early 2027**; **recruitment not begun**; **no CT.gov NCT** |
+| 1 | **EVERLAST NCT05835999 Results** | **COMPLETED 2026-07-22**; **No Results Posted**; no Konopka preprint; Konopka lab **stale recruitment copy**; Protocol Version bumps **≠ Results** |
+| 2 | **VITAL-H NCT** | n≈726 four-arm oral hybrid; ARPA-H award Feb 2026; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22** (CT.gov + Barshop + ARPA-H press) |
 | 3 | **VITAL-H arm milligrams** | Oral route; **OASIS 4 25 mg + OASIS 1 50 mg** obesity COMPLETED — **≠ VITAL-H arm mg** (still unpublished) |
-| 4 | **RESTOR NCT06658093 OD mg** | **Started 2026-03-04**; RECRUITING adaptive PK/PD (MedPath Jun 2026) — **OD mg still unpublished** |
-| 5 | **SHAPE NCT07275424 daily SC mg** | RECRUITING; CT.gov **2026-06-15**; vial **80 mg/mL** — **mg/day unpublished**; No Results; **Forzinity Barth 40 mg ≠ invent SHAPE** |
+| 4 | **RESTOR NCT06658093 OD mg** | **Started 2026-03-04**; still RECRUITING adaptive PK/PD — **OD mg still unpublished** |
+| 5 | **SHAPE NCT07275424 daily SC mg** | RECRUITING; vial **80 mg/mL** — **mg/day unpublished**; No Results; **Forzinity Barth 40 mg ≠ invent SHAPE** |
 
 ### D2. XPRIZE M2 / Finals dose & NCT gaps
 
@@ -95,18 +100,18 @@ Bank “still absent” every wake — do not invent.
 | 26 | Cyclarity **UDP-003 Ph2 NCT** + ACS **CCTA interim** (**7KC PD ≠ plaque**; Series B gated) |
 | 27 | TRIIM-X **peer-reviewed package** (**RECRUITING past 2025-12**; **TRIIM 2019 ≠ TRIIM-X**; not M2 awardee) |
 | 28 | XPRIZE **3rd immune response-to-challenge** assay vendor / SOP (**Rules pending proxy**; Stein live; Landscape silent) |
-| 29 | Deciduous **iNKT IND** public filing (**still absent**; **US20250381206 Dec 2025 + US12655171 = IP ≠ IND**; **fobi Jul 2026 preclinical ~$6.5M**; MBC BioLabs Apr 2026; **2023 timeline missed**) |
-| 30 | ER-100 **second-patient / DSMB** public update (**still absent**; first dose **2026-06-09** only; CT.gov **2026-05-15**; doses **2e11/6e11 vg/eye**; **NCT07290244**) |
+| 29 | Deciduous **iNKT IND** public filing (**still absent**; patents = IP ≠ IND; **fobi Jul 2026 preclinical**) |
+| 30 | ER-100 **second-patient / DSMB** public update (**still absent**; first dose **2026-06-09** only; **NCT07290244**) |
 
 ### D5. Mechanism / assay tensions still open
 
 | # | Pin |
 |---|-----|
-| 31 | Queuine / **STL-101** plasma age-decline **reconciliation** (**UNSETTLED**; bioRxiv **713446 drop claim** vs PLOS **2021 flat 50–90**; **PMC11493786** LOQ **0.3 nM** n=44 flat — **assay/cohort mismatch**) |
-| 32 | Human **queuine longevity supplementation NCT/mg** (**still absent**; **bioRxiv 713446 Mar 2026 mouse +15.3% lifespan ≠ human NCT**; **Sapience ST101 ≠ STL-101**; **2021 timeline missed**) |
-| 33 | Nitazoxanide **human aging / FOXN1** dose NCT (**still absent**; Genah 2026 post-IR mouse only; Immun Ageing Jul 2026 review ≠ NCT; **PCT/IT2025/050304** patent; Alinia 500 BID×3d / ELICIT pediatric / G1090N PK / oncology 200 mg/kg all ≠ aging) |
-| 34 | Oral sema **25/50** vs VITAL-H | **Wegovy pill 25 mg** FDA+**EC approved** (Jul 2026); OASIS studied **25+50 mg** but only **25 marketed**; neither invents VITAL-H aging arm mg (**Coming Soon**, no NCT) |
-| 35 | Selective **B2M / CCL11** aging depletion IND (**still absent**; **2025 review: CCL11 trials vacant**; **CAT-213 inflammatory only**; **NCT07713680** ESRD β2M observational **≠** depletion) |
+| 31 | Queuine / **STL-101** plasma age-decline **reconciliation** (**UNSETTLED**; bioRxiv drop claim vs PLOS **2021 flat 50–90**; **PMC11493786** LOQ **0.3 nM** — **assay/cohort mismatch**) |
+| 32 | Human **queuine longevity supplementation NCT/mg** (**still absent**; **bioRxiv mouse +15.3% ≠ human NCT**; **Sapience ST101 ≠ STL-101**) |
+| 33 | Nitazoxanide **human aging / FOXN1** dose NCT (**still absent**; Genah 2026 post-IR mouse only; review ≠ NCT) |
+| 34 | Oral sema **25/50** vs VITAL-H | OASIS studied **25+50 mg**; neither invents VITAL-H aging arm mg |
+| 35 | Selective **B2M / CCL11** aging depletion IND (**still absent**; **CCL11 trials vacant**; **CAT-213 inflammatory only**) |
 
 ---
 
@@ -117,10 +122,30 @@ Bank “still absent” every wake — do not invent.
 | 36 | Keep Ralph tick loop healthy (~600s; sentinel `AGENT_LOOP_TICK_liveforever`) |
 | 37 | Refresh `NEXT_QUERIES` every wake toward highest-value absent pin |
 | 38 | Append ≥3–5 corpus sources per wake; update hillclimb + ab-trial-design |
-| 39 | Run `status.py` + `pytest tests -q --cache-clear` after corpus edits |
-| 40 | Never commit unless CEO asks (repo historically non-git / no auto-commit) |
+| 39 | Run `status.py` + `pytest tests -q --cache-clear` **after** corpus settle (L27) |
+| 40 | **Public repo era:** commit+push the four wake files each wake (`sources.yaml`, `hillclimb.md`, `ab-trial-design.md`, `ralph_tick.py`); PowerShell `$msg=…; git commit -m $msg` — no bash heredoc; no secrets (L30) |
 | 41 | Safety boundary: literature/systems only — no DIY biotech, synthesis, or personal dosing |
-| 42 | **Dossier append hygiene** — unique `## Update (Ralph wake #N)` anchor or EOF append; never bare "negatives held" StrReplace; dedupe duplicates same turn |
+| 42 | **Dossier append hygiene** — unique `## Update (Ralph wake #N)` or EOF; never bare "negatives held" StrReplace; dedupe same turn |
+| 43 | **Windows TEMP Python** for multi-line wake scripts — `$env:TEMP\lf_wakeN.py` then run (L26) |
+| 44 | **Unique hillclimb `## Tick N` headers** every wake (L28) |
+| 45 | **WSL cursor-agent auth** — `agent login` or `CURSOR_API_KEY` required before free micro-subagents / thinktank cursor seat (finding 2026-08-22) |
+| 46 | **Thinktank headless file-read** — agy/codex may deny plan inspection under policy; use in-session adversarial review fallback |
+
+---
+
+## G. Software Wave-1 (enterprise hardening) — DONE on branch when CI green
+
+| Item | Artifact |
+|------|----------|
+| Corpus schema + unique-id validator | `scripts/validate_corpus.py` + `tests/test_validate_corpus.py` |
+| Packaging / ruff / pytest config | `pyproject.toml`, `requirements-dev.txt` |
+| GitHub Actions CI + gitleaks | `.github/workflows/ci.yml` |
+| pre-commit | `.pre-commit-config.yaml` |
+| Jr analyst runbook | `docs/reference/JR_ANALYST_RUNBOOK.md` |
+| Sentinel board | `docs/reference/SENTINEL_BOARD.md` |
+| Contributing | `CONTRIBUTING.md` |
+
+**Not done by Wave-1 (future):** full Clinical Trials KG / MCP fleet (arxiv Samyama-scale); auto EligMeta meta-analysis; closing any D-pin without disclosure.
 
 ---
 
@@ -128,7 +153,8 @@ Bank “still absent” every wake — do not invent.
 
 - Scaffold / two-pathway sim / ITP ingest / parabiosis ingest / pro-aging catalog v1 — **closed**  
 - `thymic-restoration` as separate deferred gap — **mapped/closed** into L3  
-- Inventing milligrams from adjacency ladders — **forbidden**, not a gap to “fill”
+- Inventing milligrams from adjacency ladders — **forbidden**, not a gap to “fill”  
+- L0 paper brief / related-open-tools / geroscience-epistemics / public GitHub scaffold — **shipped** (tick 259)
 
 ---
 
@@ -140,5 +166,6 @@ Bank “still absent” every wake — do not invent.
 | Ultra-design deferred bullets | 5 (overlap with dossiers) |
 | Hallmark seeds | 1 |
 | Research pins (D1–D5) | 35 |
-| Ops items | 7 |
-| **Enumerated backlog rows** | **~48 unique** (dossiers + seed + pins + ops; ultra-design overlaps dossiers) |
+| Ops items | 11 |
+| Software Wave-1 | DONE (when merged) |
+| **Enumerated open rows** | **~52 unique** open (dossiers + seed + pins + ops); Wave-1 software tracked in §G as DONE |

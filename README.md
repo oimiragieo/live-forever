@@ -26,9 +26,14 @@ docs/            # loop status / hill-climb logs
 
 ```powershell
 cd C:\dev\projects\live-forever
+pip install -r requirements-dev.txt
 python -m algorithms.damage_control --years 120 --plot-ascii
 python scripts\status.py
+python scripts\validate_corpus.py
+pytest -q --cache-clear
 ```
+
+Jr analysts: start at [`docs/reference/JR_ANALYST_RUNBOOK.md`](docs/reference/JR_ANALYST_RUNBOOK.md). Sentinel pins (not closable by code): [`docs/reference/SENTINEL_BOARD.md`](docs/reference/SENTINEL_BOARD.md).
 
 ## Research focus (2026-08-22)
 
@@ -53,6 +58,8 @@ Agent rules: `AGENTS.md` · skill `live-forever-ralph-hillclimb`.
 
 | Doc | Path |
 |-----|------|
-| Latest CEO update | [`docs/reference/ceo-update-2026-08-22-pm.md`](docs/reference/ceo-update-2026-08-22-pm.md) (AM: [`ceo-update-2026-08-22.md`](docs/reference/ceo-update-2026-08-22.md)) |
+| Latest CEO update | [`docs/reference/ceo-update-2026-08-22-eve.md`](docs/reference/ceo-update-2026-08-22-eve.md) (PM / AM siblings in same folder) |
 | Full backlog | [`docs/reference/BACKLOG.md`](docs/reference/BACKLOG.md) |
-| Lessons retained | [`docs/reference/lessons-learned-2026-08-22-pm.md`](docs/reference/lessons-learned-2026-08-22-pm.md) (L19–L25) + [`2026-08-22`](docs/reference/lessons-learned-2026-08-22.md) (L11–L18) + [`2026-08-21`](docs/reference/lessons-learned-2026-08-21.md) foundation |
+| Sentinel board | [`docs/reference/SENTINEL_BOARD.md`](docs/reference/SENTINEL_BOARD.md) |
+| Lessons retained | eve (L26–L32) + PM (L19–L25) + AM (L11–L18) + foundation (L1–L10) under `docs/reference/lessons-learned-*.md` |
+| Contributing | [`CONTRIBUTING.md`](CONTRIBUTING.md) |

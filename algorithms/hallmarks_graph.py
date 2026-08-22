@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, List
 
 
 @dataclass(frozen=True)
@@ -14,7 +13,7 @@ class Hallmark:
     stack_layers: tuple[str, ...]
 
 
-HALLMARKS: List[Hallmark] = [
+HALLMARKS: list[Hallmark] = [
     Hallmark("genomic_instability", "Genomic instability", "primary", ("L2", "L5")),
     Hallmark("telomere_attrition", "Telomere attrition", "primary", ("L2", "L4", "L6")),
     Hallmark("epigenetic_alterations", "Epigenetic alterations", "primary", ("L4", "L5")),
@@ -32,7 +31,7 @@ HALLMARKS: List[Hallmark] = [
 
 # Mechanistic drivers -> hallmarks they feed (Ralph wake #48).
 # Edges inform L1/L3 target priority; not a full systems biology model.
-DRIVER_EDGES: Dict[str, tuple[str, ...]] = {
+DRIVER_EDGES: dict[str, tuple[str, ...]] = {
     "line1_rt": ("genomic_instability", "inflammation", "cellular_senescence"),
     "galectin3": ("inflammation", "intercellular", "loss_of_proteostasis"),
     "7kc": ("mitochondrial", "inflammation", "intercellular"),
@@ -47,7 +46,7 @@ DRIVER_EDGES: Dict[str, tuple[str, ...]] = {
 # wake #77 adds L3 clinical modalities). These do NOT upgrade stack coverage;
 # dysbiosis remains an uncovered() seed until a second stack layer is earned
 # by evidence (not by renaming L1).
-INTERVENTION_EDGES: Dict[str, tuple[str, ...]] = {
+INTERVENTION_EDGES: dict[str, tuple[str, ...]] = {
     "fiber_prebiotic": ("dysbiosis", "inflammation"),
     "polyphenol_diet": ("dysbiosis", "inflammation"),
     "avoid_chronic_abx": ("dysbiosis",),
@@ -61,7 +60,8 @@ INTERVENTION_EDGES: Dict[str, tuple[str, ...]] = {
     "goda_super_exosome": ("cellular_senescence", "stem_cell", "inflammation"),
     "minicircle_fst_klotho": ("stem_cell", "intercellular", "inflammation"),
     "nyc_vita_combo": ("deregulated_nutrient", "inflammation", "mitochondrial"),
-    "gi102_gib7": ("inflammation", "dysbiosis", "stem_cell"),  # GI-102 0.02 mg/kg + GIB-7 ~5e8 CFU/day synbiotic
+    # GI-102 0.02 mg/kg + GIB-7 ~5e8 CFU/day synbiotic
+    "gi102_gib7": ("inflammation", "dysbiosis", "stem_cell"),
     # HGPS/progerin binder (PRG); aligns with nuclear_envelope DRIVER_EDGES targets
     "progerinin": ("epigenetic_alterations", "genomic_instability", "stem_cell"),
     # Oral selective GPER agonist (oncology RP2D 125 mg QD; PROSPR/ITP dose TBD)
@@ -69,23 +69,23 @@ INTERVENTION_EDGES: Dict[str, tuple[str, ...]] = {
 }
 
 
-def coverage_matrix() -> Dict[str, List[str]]:
-    m: Dict[str, List[str]] = {}
+def coverage_matrix() -> dict[str, list[str]]:
+    m: dict[str, list[str]] = {}
     for h in HALLMARKS:
         for layer in h.stack_layers:
             m.setdefault(layer, []).append(h.id)
     return m
 
 
-def driver_targets(driver: str) -> List[str]:
+def driver_targets(driver: str) -> list[str]:
     return list(DRIVER_EDGES.get(driver, ()))
 
 
-def intervention_targets(intervention: str) -> List[str]:
+def intervention_targets(intervention: str) -> list[str]:
     return list(INTERVENTION_EDGES.get(intervention, ()))
 
 
-def uncovered() -> List[str]:
+def uncovered() -> list[str]:
     """Hallmarks with only weak stack coverage - research backlog seeds.
 
     Seed candidates are dysbiosis and telomere_attrition, but only those with

@@ -20,7 +20,6 @@ from __future__ import annotations
 import argparse
 import json
 from dataclasses import asdict, dataclass, field
-from typing import List, Optional, Tuple
 
 
 @dataclass
@@ -36,7 +35,7 @@ class Params:
     cancer_risk_gain: float = 0.15  # repair-without-derisk penalty on B growth
     derisk: bool = False
     # Optional (start_year, end_year_exclusive, repair_a) windows; empty = constant.
-    repair_a_schedule: Tuple[Tuple[int, int, float], ...] = field(default_factory=tuple)
+    repair_a_schedule: tuple[tuple[int, int, float], ...] = field(default_factory=tuple)
     # Sex split: "" = unspecified (multiplier 1.0). "male" / "female" use fields below.
     sex: str = ""
     sex_clearance_male: float = 1.0
@@ -44,7 +43,7 @@ class Params:
     # If set, female effective RA is scaled by female_late_clearance_mult from this year.
     # NOT ITP-cana calibrated: female plasma ~3.7x male yet lifespan benefit is male-only
     # (Miller JCI Insight 2020) — see design/gaps/age-matrix.md wake #65.
-    female_late_toxicity_start: Optional[int] = None
+    female_late_toxicity_start: int | None = None
     female_late_clearance_mult: float = 1.0
 
 
@@ -104,9 +103,9 @@ def step(a: float, b: float, p: Params, t: int = 0) -> tuple[float, float]:
     return a_next, b_next
 
 
-def simulate(p: Params) -> List[YearState]:
+def simulate(p: Params) -> list[YearState]:
     a, b = p.a0, p.b0
-    out: List[YearState] = []
+    out: list[YearState] = []
     for t in range(p.years + 1):
         ra = effective_repair_a(t, p)
         d = a + b
@@ -124,7 +123,7 @@ def simulate(p: Params) -> List[YearState]:
     return out
 
 
-def ascii_plot(states: List[YearState], width: int = 60) -> str:
+def ascii_plot(states: list[YearState], width: int = 60) -> str:
     mx = max(s.d for s in states) or 1.0
     lines = ["year | D(t) damage burden", "-" * (width + 12)]
     for s in states:

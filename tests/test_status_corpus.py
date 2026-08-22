@@ -18,6 +18,7 @@ from status import (  # noqa: E402
     load_sources,
 )
 
+
 class TestCorpusCountOracle(unittest.TestCase):
     def test_live_corpus_count_matches_yaml_len(self) -> None:
         """Positive: exit_criteria corpus_count equals len(load_sources())."""
@@ -86,8 +87,9 @@ class TestCorpusCountOracle(unittest.TestCase):
 
     def test_exit_criteria_corpus_ok_false_when_sources_empty(self) -> None:
         """Bidirectional via exit_criteria: empty load_sources must fail corpus_ok."""
-        import status as status_mod
         from unittest import mock
+
+        import status as status_mod
 
         with mock.patch.object(status_mod, "load_sources", return_value=[]):
             c = status_mod.exit_criteria()
@@ -97,8 +99,9 @@ class TestCorpusCountOracle(unittest.TestCase):
 
     def test_goal_met_false_when_deferred_empty(self) -> None:
         """Wake #76: goal_met requires deferred_with_evidence >= 1 (bidirectional)."""
-        import status as status_mod
         from unittest import mock
+
+        import status as status_mod
 
         live = status_mod.exit_criteria()
         self.assertGreaterEqual(live["deferred_gaps"], 1)
