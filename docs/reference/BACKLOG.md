@@ -145,6 +145,12 @@ Bank “still absent” every wake — do not invent.
 | Sentinel board | `docs/reference/SENTINEL_BOARD.md` |
 | Contributing | `CONTRIBUTING.md` |
 
+**Dogfood findings (Wave-1, 2026-08-22):**
+- Fixed `nih-cc-drug-dev` `year: null` → `2024`
+- Deduped 3 corpus ids (`triim-x-nct04375657`, `sahu-2024-cdkn2a-osk`, `arpa-h-2026-prospr-awards`) via `-rebank` suffixes
+- Accepted legacy `confidence: med` as alias of medium in validator
+- External thinktank/`cursor-agent` blocked by auth/policy → documented E45–E46
+
 **Not done by Wave-1 (future):** full Clinical Trials KG / MCP fleet (arxiv Samyama-scale); auto EligMeta meta-analysis; closing any D-pin without disclosure.
 
 ---
