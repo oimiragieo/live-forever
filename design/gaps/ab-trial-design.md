@@ -1386,3 +1386,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **NTZ FOXN1 human aging NCT still absent:** **Wake #275 negative recheck** — **Genah et al. Cell Death Differ 2026** mouse post-IR FOXN1/thymic regeneration only; **no human aging thymus NCT milligrams**.
 - **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #275 negative recheck** — reviews note **CCL11 clinical trials currently vacant**; **CAT-213** adjacency ≠ selective aging-depletion IND. **Parabiosis factor literature ≠ human longevity IND.**
 - **OASIS≠VITAL-H / ER-100 DSMB / EVERLAST Results / RESTOR OD** negatives held.
+## Update (Ralph wake #276)
+- **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #276 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished). **No matching VITAL-H NCT in searched sources as of 2026-08-22.**
+- **ER-100 DSMB second-patient outcome still absent:** **Wake #276 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.**
+- **Deciduous iNKT IND still absent:** **Wake #276 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; patents only; **fobi Jul 2026** preclinical. **Patent/IP ≠ IND filed.** **SAB news ≠ IND.**
+- **STL-101 NCT / queuine unsettled / EVERLAST Results / RESTOR OD** negatives held.
