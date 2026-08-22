@@ -1,0 +1,62 @@
+{
+  "updated": "2026-08-21T07:11:00-04:00",
+  "open": [],
+  "deferred_with_evidence": [
+    {
+      "id": "human-osk-safety",
+      "dossier": "design/gaps/human-osk-safety.md",
+      "note": "FIH ER-100 AAV-OSK eye trial live; systemic OSK deferred pending ocular safety"
+    },
+    {
+      "id": "nad-human-healthspan",
+      "dossier": "design/gaps/nad-human-healthspan.md",
+      "note": "Target engagement yes; causal healthspan no — Nat Metab 2025 + PRISMA 2026"
+    },
+    {
+      "id": "senolytic-cart-human",
+      "dossier": "design/gaps/senolytic-cart-human.md",
+      "note": "Mouse aged/prophylactic success; human aging CAR-T not yet published"
+    },
+    {
+      "id": "ab-trial-design",
+      "dossier": "design/gaps/ab-trial-design.md",
+      "note": "CHIP clinic + CHRS blueprints adopted as Pathway B gate template"
+    },
+    {
+      "id": "age-matrix",
+      "dossier": "design/gaps/age-matrix.md",
+      "note": "ALT-711 class proves concept; glucosepane-scale longevity Rx still R&D"
+    }
+  ],
+  "closed": [
+    {
+      "id": "scaffold-repo",
+      "note": "Codebase + ultra-design + medicine pipeline + corpus seeded"
+    },
+    {
+      "id": "two-pathway-sim",
+      "note": "damage_control.py: natural fails; repair-only fails; A+B+derisk bounds D(t)"
+    },
+    {
+      "id": "itp-ingest",
+      "note": "NIA ITP rapamycin/acarbose/combo evidence ingested"
+    },
+    {
+      "id": "parabiosis-ingest",
+      "note": "Young/old blood systemic milieu literature folded into L1"
+    },
+    {
+      "id": "pro-aging-factor-catalog",
+      "note": "design/pro-aging-factor-catalog.md — B2M, CCL11, TGF-β, sVCAM1, inflammaging cytokines prioritized"
+    },
+    {
+      "id": "gap-wave-osk-nad-cart-chip-ecm",
+      "note": "All prior open scientific gaps mapped to evidence dossiers and deferred or closed"
+    },
+    {
+      "id": "thymic-restoration",
+      "dossier": "design/gaps/thymic-restoration.md",
+      "note": "L3 addendum MAPPED/CLOSED wake #72 — TRIIM-X tracked under senolytic-cart + medicine-pipeline; not a separate deferred unknown"
+    }
+  ]
+}
