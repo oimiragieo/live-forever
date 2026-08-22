@@ -2147,3 +2147,10 @@
 - OASIS ≠ VITAL-H fence held (25/50 mg obesity only; no matching VITAL-H NCT in searched sources as of 2026-08-22)
 - ER-100 DSMB second-patient outcome still opaque
 - Deciduous iNKT IND still absent (preclinical; patents only)
+## Tick 268 - 2026-08-22 (Deciduous IND / STL-101 NCT / queuine / RESTOR still absent)
+
+- Ralph wake #262: GOAL_MET; corpus 1399 -> 1404
+- Deciduous iNKT IND still absent (preclinical; patents only)
+- STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
+- Queuine plasma still unsettled; Sapience ST101 ≠ Stellate STL-101 held
+- RESTOR adaptive OD milligrams still unpublished
