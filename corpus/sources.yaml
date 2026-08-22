@@ -11931,3 +11931,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = queuine assay mismatch + name-collision fence + RESTOR OD opacity + SHAPE vial!=dose quadruple negative recheck."
+- id: everlast-results-still-absent-wake260
+  title: "EVERLAST NCT05835999 Results wake #260 negative recheck - COMPLETED Jul 22 2026; primary Jun 30 2026; No Results Posted; Protocol Version != Results; Konopka lab page still recruitment copy"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol Version updates != Results. Stale Konopka recruitment page != Results. Arms remain 0.5 mg/day or 5 mg/week everolimus."
+- id: vital-h-nct-still-absent-wake260
+  title: "VITAL-H NCT search-limited absence wake #260 - ARPA-H + Barshop + UT Health Mar 4 press only; no matching NCT in searched sources as of 2026-08-22; recruitment not begun"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press != NCT. Phrase as search-limited absence not absolute nonexistence. OASIS obesity oral 25/50 mg != invent VITAL-H aging-arm mg."
+- id: ntz-foxn1-human-nct-still-absent-wake260
+  title: "Nitazoxanide FOXN1 human aging NCT wake #260 negative recheck - Genah Cell Death Differ Mar 2026 mouse post-IR; Sewell Immun Ageing Jul 2026 review; no aging IND/NCT/protocol milligrams"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse thymic regeneration != human aging NCT. Review says controlled clinical benefits not demonstrated. In-vitro FOXN1 != protocol milligrams."
+- id: b2m-ccl11-aging-ind-still-absent-wake260
+  title: "B2M/CCL11 selective aging depletion IND wake #260 negative recheck - reviews vacant for CCL11 aging trials; CAT-213 inflammatory adjacency; no CT.gov aging-depletion IND"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mechanism != longevity IND. Review != NCT. CAT-213 adjacency != selective aging depletion trial."
+- id: wake260-negatives
+  title: "Negatives wake #260 - EVERLAST Results still absent; VITAL-H NCT search-limited; NTZ FOXN1 human NCT still absent; B2M/CCL11 aging IND still absent"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = EVERLAST COMPLETED!=Results + VITAL-H press!=NCT + NTZ mouse!=human + B2M/CCL11 review!=IND quadruple negative recheck."

@@ -2133,3 +2133,10 @@
 - Sapience ST101 ≠ Stellate STL-101 fence held (ASCO 2026 GBM update)
 - RESTOR adaptive OD milligrams still unpublished
 - SHAPE daily elamipretide mg and Results still absent
+## Tick 266 - 2026-08-22 (EVERLAST Results / VITAL-H NCT / NTZ still absent)
+
+- Ralph wake #260: GOAL_MET; corpus 1389 -> 1394
+- EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted; Protocol Version != Results)
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22 (press != NCT)
+- NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
+- B2M/CCL11 selective aging-depletion IND still absent
