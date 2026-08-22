@@ -2154,3 +2154,10 @@
 - STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
 - Queuine plasma still unsettled; Sapience ST101 ≠ Stellate STL-101 held
 - RESTOR adaptive OD milligrams still unpublished
+## Tick 269 - 2026-08-22 (RESTOR OD / SHAPE / EVERLAST / VITAL-H still absent)
+
+- Ralph wake #263: GOAL_MET; corpus 1404 -> 1409
+- RESTOR adaptive OD milligrams still unpublished
+- SHAPE daily elamipretide mg and Results still absent
+- EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted)
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22
