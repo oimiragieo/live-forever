@@ -1457,3 +1457,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **ER-100 DSMB second-patient still absent:** **Wake #287 negative recheck** — **NCT07290244** still **RECRUITING**; Life Bio **Jun 9 2026** first-patient press only; **no public second-patient or DSMB clearance**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
 - **Deciduous iNKT IND still absent:** **Wake #287 negative recheck** — site still preclinical; **US 12655171** Jun 2026 grant; **no CT.gov** in searched sources as of **2026-08-22**. **Patent != IND.**
 - **Queuine / STL-101 / RESTOR / SHAPE / EVERLAST / VITAL-H NCT** negatives held.
+
+## Update (Ralph wake #288)
+- **STL-101 human longevity NCT still absent:** **Wake #288 negative recheck** — PLOS ONE 2021 in-vitro neuroprotection only; Stellate press plans further research; **no Stellate CT.gov longevity NCT in searched sources as of 2026-08-22**. **In-vitro != human longevity NCT.**
+- **Queuine plasma age-decline still UNSETTLED:** **Wake #288** — PLOS n=160 ages 50-90 **no significant decline** vs circulating-decline claims elsewhere; **assay/cohort mismatch UNSETTLED**. **Sapience ST101 (NCT04478279 GBM) != Stellate STL-101** fence held.
+- **RESTOR adaptive OD milligrams still absent:** **Wake #288 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
+- **SHAPE / EVERLAST / VITAL-H** negatives held.
