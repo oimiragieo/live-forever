@@ -11851,3 +11851,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = NTZ mouse!=human + B2M/CCL11 review!=IND + OASIS obesity!=VITAL-H + ER-100 DSMB opacity quadruple negative recheck."
+- id: er100-dsmb-second-patient-still-absent-wake258
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #258 negative recheck - first dose Jun 9 2026 only; still RECRUITING; CT.gov updated May 15 2026; no public DSMB clearance or cohort expansion"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sentinel 28-day DSMB gate still opaque. Intravitreal OSK != systemic longevity Finals. First-dose press != DSMB outcome. Protocol describes sentinel then 2 more after DSMB - outcome unpublished."
+- id: deciduous-inkt-ind-still-absent-wake258
+  title: "Deciduous iNKT IND wake #258 negative recheck - still preclinical per deciduoustx.com and fobi Jul 2026; no CT.gov; patents only; Series A toward FIH not filed"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Patent/IP != IND filed. Preclinical != CT.gov. fobi Jul 2026 still labels program preclinical. Longevity Forum != IND."
+- id: stl101-human-longevity-nct-still-absent-wake258
+  title: "Stellate STL-101 human longevity NCT wake #258 negative recheck - bioRxiv 713446 mouse +15.3% and fly +47%; PLOS 2021 in-vitro uM; no CT.gov supplementation trial or protocol milligrams"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse paper != human NCT. In-vitro uM != protocol milligrams. Sept 2021 Stellate press planned trials still unmet for longevity supplementation."
+- id: queuine-plasma-sapience-fence-wake258
+  title: "Queuine plasma unsettled + Sapience ST101 vs Stellate STL-101 fence wake #258 - PLOS flat vs bioRxiv decline; NCT04478279 GBM oncology != longevity queuine"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Assay/cohort mismatch unresolved. Sapience ST101 != Stellate STL-101. Name collision fence held. Queuine unsettled law holds."
+- id: wake258-negatives
+  title: "Negatives wake #258 - ER-100 DSMB still opaque; Deciduous IND still absent; STL-101 human NCT still absent; queuine plasma unsettled; Sapience!=Stellate held"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = ER-100 sentinel DSMB opacity + Deciduous patent-only + STL-101 mouse-only + queuine assay mismatch quadruple negative recheck."
