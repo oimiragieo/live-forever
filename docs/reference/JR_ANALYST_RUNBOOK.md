@@ -53,8 +53,8 @@ See `docs/reference/SENTINEL_BOARD.md` and BACKLOG sections D1–D5. Those stay 
 | Need | File |
 |------|------|
 | Full backlog | `docs/reference/BACKLOG.md` |
-| Latest CEO update | `docs/reference/ceo-update-2026-08-22-eve.md` |
-| Lessons L1–L32 | `docs/reference/lessons-learned-*.md` |
+| Latest CEO update | `docs/reference/ceo-update-2026-08-22-night.md` |
+| Lessons L1–L39 | `docs/reference/lessons-learned-*.md` (night = L33–L39) |
 | Paper brief | `docs/ideation/paper-l0-control-instrumentation.md` |
 | This wave plan | `docs/superpowers/plans/2026-08-22-enterprise-hardening-wave1.md` |
 
