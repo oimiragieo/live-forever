@@ -1403,3 +1403,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **EVERLAST Results still absent:** **Wake #278 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Konopka Lab** page still recruitment copy. Arms remain **0.5 mg/day** or **5 mg/week** everolimus. **COMPLETED ≠ Results Posted.**
 - **VITAL-H NCT / protocol milligrams still absent:** **Wake #278 negative recheck** — **ARPA-H PROSPR** / **Barshop** press; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22**. Named arms (**rapamycin**, **dapagliflozin**, **semaglutide**) **≠ protocol milligrams**.
 - **STL-101 NCT / queuine unsettled / RESTOR OD** negatives held.
+
+## Update (Ralph wake #279)
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #279 negative recheck** — **Genah et al. Cell Death Differ 2026** mouse post-IR FOXN1/thymic regeneration only; **Sewell Immun Ageing 2026** review: controlled clinical benefits **not yet demonstrated**. **Mouse ≠ human aging NCT milligrams.** **Review "not demonstrated" corroborates absence — does not invent a trial.**
+- **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #279 negative recheck** — **PMC11868897** notes **CCL11 clinical trials currently vacant**; anti-CCL11 adjacency ≠ selective aging-depletion IND. **Parabiosis factor literature ≠ human longevity IND.**
+- **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #279 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished). **No matching VITAL-H NCT in searched sources as of 2026-08-22.**
+- **ER-100 DSMB / Deciduous IND / EVERLAST Results / RESTOR OD** negatives held.
