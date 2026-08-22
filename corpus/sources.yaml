@@ -11891,3 +11891,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = ER-100 sentinel DSMB opacity + Deciduous patent-only + STL-101 mouse-only + queuine assay mismatch quadruple negative recheck."
+- id: queuine-plasma-still-unsettled-wake259
+  title: "Queuine plasma age-decline wake #259 recheck still UNSETTLED - PLOS ONE 2021 n=160 ages 50-90 no decline vs bioRxiv circulating decline claim; PMC11493786 LOQ 0.3 nM"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Assay/cohort mismatch unresolved. Queuine unsettled law holds."
+- id: sapience-st101-stl101-fence-wake259
+  title: "Sapience lucicebtide ST101 vs Stellate STL-101 fence wake #259 - NCT04478279 ACTIVE_NOT_RECRUITING GBM; ASCO 2026 oncology update May 21; != longevity queuine NCT"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101 != Stellate STL-101. ASCO 2026 GBM data reinforces oncology-only identity. Name collision fence held."
+- id: restor-adaptive-od-milligrams-still-absent-wake259
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #259 negative recheck - still RECRUITING started Mar 4 2026; MedPath Jun 1; Hipa May 2026; OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "CT.gov describes OD in mg but posts no dose values. Trial start != OD disclosed. Adaptive dose-finding still opaque."
+- id: shape-daily-mg-results-still-absent-wake259
+  title: "SHAPE NCT07275424 daily elamipretide mg and Results wake #259 negative recheck - still RECRUITING; 80 mg/mL vial only; No Results Posted; primary completion est Mar 15 2026"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol dose. Est. completion != Results. Forzinity Barth != SHAPE healthy-aging dose."
+- id: wake259-negatives
+  title: "Negatives wake #259 - queuine plasma unsettled; Sapience!=Stellate held; RESTOR OD mg still absent; SHAPE daily mg/Results still absent"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = queuine assay mismatch + name-collision fence + RESTOR OD opacity + SHAPE vial!=dose quadruple negative recheck."

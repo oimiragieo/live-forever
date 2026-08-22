@@ -2126,3 +2126,10 @@
 - Deciduous iNKT IND still absent (preclinical; patents only)
 - STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
 - Queuine plasma still unsettled; Sapience ST101 ≠ Stellate STL-101 held
+## Tick 265 - 2026-08-22 (queuine unsettled / RESTOR OD / SHAPE still absent)
+
+- Ralph wake #259: GOAL_MET; corpus 1384 -> 1389
+- Queuine plasma age-decline still unsettled (PLOS flat vs bioRxiv drop)
+- Sapience ST101 ≠ Stellate STL-101 fence held (ASCO 2026 GBM update)
+- RESTOR adaptive OD milligrams still unpublished
+- SHAPE daily elamipretide mg and Results still absent

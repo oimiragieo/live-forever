@@ -13,9 +13,6 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from status import exit_criteria  # noqa: E402
 
 NEXT_QUERIES = [
-    "Queuine STL-101 plasma age-decline OR Sapience ST101 name collision reconciliation 2026",
-    "RESTOR NCT06658093 first enrolled cohort milligrams OR adaptive dose published 2026",
-    "SHAPE NCT07275424 Results posted OR daily elamipretide mg Marcinek 2026",
     "EVERLAST NCT05835999 Results posted OR Konopka preprint OR abstract everolimus 2026",
     "VITAL-H ClinicalTrials.gov NCT registered OR protocol milligrams Volpi Barshop 2026",
     "Nitazoxanide human aging FOXN1 thymus NCT milligrams Genah post-IR mouse",
@@ -24,6 +21,9 @@ NEXT_QUERIES = [
     "ER-100 NCT07290244 second patient DSMB outcome OR cohort expansion 2026",
     "Deciduous iNKT IND public filing OR ClinicalTrials.gov 2026",
     "Human queuine longevity supplementation NCT milligrams Stellate STL-101 2026",
+    "Queuine STL-101 plasma age-decline OR Sapience ST101 name collision reconciliation 2026",
+    "RESTOR NCT06658093 first enrolled cohort milligrams OR adaptive dose published 2026",
+    "SHAPE NCT07275424 Results posted OR daily elamipretide mg Marcinek 2026",
 ]
 
 
