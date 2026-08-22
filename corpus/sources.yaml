@@ -12491,3 +12491,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = Deciduous patent-only + STL-101 mouse-only + queuine assay mismatch + Sapience!=Stellate quadruple negative recheck."
+- id: restor-adaptive-od-milligrams-still-absent-wake274
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #274 negative recheck - still RECRUITING started Mar 4 2026; OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "CT.gov describes OD in mg but posts no dose values. Trial start != OD disclosed. Adaptive design != published OD."
+- id: shape-daily-mg-results-still-absent-wake274
+  title: "SHAPE NCT07275424 daily elamipretide mg and Results wake #274 negative recheck - still RECRUITING; 80 mg/mL vial only; no Results Posted"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol dose. Est. completion != Results. Forzinity Barth != SHAPE healthy-aging dose."
+- id: everlast-results-still-absent-wake274
+  title: "EVERLAST NCT05835999 Results wake #274 negative recheck - COMPLETED Jul 22 2026; No Results Posted; Protocol Version != Results; Konopka page still recruitment"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol Version updates != Results. Stale Konopka recruitment page != Results."
+- id: everlast-konopka-stale-recruitment-wake274
+  title: "EVERLAST Konopka Lab page wake #274 negative recheck - still recruitment copy; no preprint/abstract/Results for COMPLETED NCT05835999"
+  url: https://konopkalab.medicine.wisc.edu/clinical-trials/everlast/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Stale recruitment page != Results. Lab site != CT.gov Results Posted."
+- id: wake274-negatives
+  title: "Negatives wake #274 - RESTOR OD mg still absent; SHAPE daily mg/Results still absent; EVERLAST Results still absent"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = RESTOR OD opacity + SHAPE vial!=dose + EVERLAST COMPLETED!=Results triple negative recheck."

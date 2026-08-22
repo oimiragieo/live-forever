@@ -1376,3 +1376,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **STL-101 human longevity NCT still absent:** **Wake #273 negative recheck** — **bioRxiv 713446** mouse **+15.3%** / fly **+47%**; **PLOS 2021** in-vitro µM; **LARVOL STEL-101**; **no CT.gov** longevity supplementation NCT. **Mouse paper ≠ human NCT.**
 - **Queuine plasma still unsettled + Sapience≠Stellate fence held:** **Wake #273 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no age decline** vs **bioRxiv** circulating decline claim — **assay/cohort mismatch unresolved**. **Sapience lucicebtide (ST101) NCT04478279** GBM oncology (**ASCO 2026**) **≠ Stellate STL-101**.
 - **RESTOR OD / SHAPE daily mg / EVERLAST Results / ER-100 DSMB** negatives held.
+## Update (Ralph wake #274)
+- **RESTOR adaptive OD milligrams still absent:** **Wake #274 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #274 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Forzinity Barth ≠ SHAPE healthy-aging dose.** **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #274 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Protocol Version ≠ Results**. **Konopka Lab** page still recruitment copy. Arms remain **0.5 mg/day** or **5 mg/week** everolimus.
+- **VITAL-H NCT / Deciduous IND / queuine unsettled / ER-100 DSMB** negatives held.
