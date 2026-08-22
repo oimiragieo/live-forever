@@ -2274,3 +2274,10 @@
 - ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only; still RECRUITING)
 - Deciduous iNKT IND still absent (preclinical; patent grant Jun 2026 != IND)
 - STL-101 human longevity NCT/mg still absent (PLOS in-vitro + mouse preprint only)
+
+## Tick 287 - 2026-08-22 (queuine unsettled / RESTOR OD / SHAPE still absent)
+
+- Ralph wake #281: GOAL_MET; corpus 1494 -> 1499
+- Queuine plasma still UNSETTLED (PLOS flat vs bioRxiv decline); Sapience ST101 != Stellate STL-101
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted

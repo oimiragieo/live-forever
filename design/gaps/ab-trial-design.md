@@ -1415,3 +1415,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Deciduous iNKT IND still absent:** **Wake #280 negative recheck** — **deciduoustx.com** still **preclinical**; **US patent 12655171** (**Jun 2026**) grant only; **no CT.gov**. **Patent/IP ≠ IND filed.**
 - **STL-101 human longevity NCT still absent:** **Wake #280 negative recheck** — **PLOS ONE 2021** in-vitro; **bioRxiv 713446** mouse **+15.3%**; **no matching Stellate STL-101 CT.gov** longevity NCT in searched sources as of **2026-08-22**. **Mouse paper ≠ human NCT.**
 - **Queuine unsettled / RESTOR OD / SHAPE / EVERLAST / VITAL-H** negatives held.
+
+## Update (Ralph wake #281)
+- **Queuine plasma still unsettled + Sapience≠Stellate fence held:** **Wake #281 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no age decline** vs **bioRxiv 713446** circulating decline — **assay/cohort mismatch UNSETTLED**. **Sapience lucicebtide (ST101) NCT04478279** GBM oncology **≠ Stellate STL-101**.
+- **RESTOR adaptive OD milligrams still absent:** **Wake #281 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #281 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results / VITAL-H NCT / ER-100 DSMB / Deciduous IND** negatives held.
