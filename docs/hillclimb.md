@@ -2175,3 +2175,10 @@
 - ER-100 DSMB second-patient outcome still opaque
 - Deciduous iNKT IND still absent (preclinical; patents only)
 - STL-101 human longevity NCT/mg still absent
+## Tick 272 - 2026-08-22 (STL-101 NCT / queuine / RESTOR OD / SHAPE still absent)
+
+- Ralph wake #266: GOAL_MET; corpus 1419 -> 1424
+- STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
+- Queuine plasma still unsettled; Sapience ST101 ≠ Stellate STL-101 held
+- RESTOR adaptive OD milligrams still unpublished
+- SHAPE daily elamipretide mg and Results still absent

@@ -1331,3 +1331,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Deciduous iNKT IND still absent:** **Wake #265 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; patents only; **fobi Jul 2026** preclinical. **Patent/IP ≠ IND filed.**
 - **STL-101 human longevity NCT still absent:** **Wake #265 negative recheck** — **bioRxiv 713446** mouse **+15.3%** / fly **+47%**; **PLOS 2021** in-vitro µM; **no CT.gov** longevity supplementation NCT. **Mouse paper ≠ human NCT.**
 - **RESTOR OD / SHAPE daily mg / EVERLAST Results / queuine plasma** negatives held.
+## Update (Ralph wake #266)
+- **STL-101 human longevity NCT still absent:** **Wake #266 negative recheck** — **bioRxiv 713446** oral queuine mouse **+15.3%** mean lifespan / Drosophila **+47%** median; **PLOS ONE 2021** STL-101 **in-vitro µM** only; **LARVOL STEL-101**; **no CT.gov** longevity supplementation NCT or protocol milligrams. **Mouse paper ≠ human NCT.**
+- **Queuine plasma still unsettled + Sapience≠Stellate fence held:** **Wake #266 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no age decline** vs **bioRxiv** circulating decline claim — **assay/cohort mismatch unresolved**. **Sapience lucicebtide (ST101) NCT04478279** GBM oncology (**ASCO 2026**) **≠ Stellate STL-101**. **Name collision fence held.**
+- **RESTOR adaptive OD milligrams still absent:** **Wake #266 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #266 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Forzinity Barth ≠ SHAPE healthy-aging dose.** **Vial mg/mL ≠ daily dose.** **Est. completion ≠ Results.**
+- **EVERLAST Results / VITAL-H NCT / ER-100 DSMB / Deciduous IND** negatives held.
