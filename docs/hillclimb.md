@@ -2281,3 +2281,10 @@
 - Queuine plasma still UNSETTLED (PLOS flat vs bioRxiv decline); Sapience ST101 != Stellate STL-101
 - RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
 - SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted
+
+## Tick 288 - 2026-08-22 (EVERLAST Results / VITAL-H NCT / NTZ FOXN1 still absent)
+
+- Ralph wake #282: GOAL_MET; corpus 1499 -> 1504
+- EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka page recruitment copy
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
+- NTZ FOXN1: Genah 2026 mouse post-IR only; Sewell 2026 review not-demonstrated

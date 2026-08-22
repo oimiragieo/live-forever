@@ -1421,3 +1421,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **RESTOR adaptive OD milligrams still absent:** **Wake #281 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
 - **SHAPE daily elamipretide mg / Results still absent:** **Wake #281 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
 - **EVERLAST Results / VITAL-H NCT / ER-100 DSMB / Deciduous IND** negatives held.
+
+## Update (Ralph wake #282)
+- **EVERLAST Results still absent:** **Wake #282 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Konopka Lab** page still recruitment copy. Arms remain **0.5 mg/day** or **5 mg/week** everolimus. **COMPLETED ≠ Results Posted.**
+- **VITAL-H NCT / protocol milligrams still absent:** **Wake #282 negative recheck** — **ARPA-H PROSPR** / **Barshop** press; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22**. Named arms (**rapamycin**, **dapagliflozin**, **semaglutide**) **≠ protocol milligrams**.
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #282 negative recheck** — **Genah et al. Cell Death Differ 2026** mouse post-IR only; **Sewell Immun Ageing 2026** review: controlled clinical benefits **not yet demonstrated**. **Mouse ≠ human aging NCT milligrams.** **Review "not demonstrated" corroborates absence — does not invent a trial.**
+- **RESTOR OD / SHAPE / B2M-CCL11 / ER-100 DSMB** negatives held.

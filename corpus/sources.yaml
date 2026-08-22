@@ -12816,3 +12816,44 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = queuine UNSETTLED + ST101 collision + RESTOR OD opacity + SHAPE vial!=daily-mg."
+
+- id: everlast-results-still-absent-wake282
+  title: "EVERLAST NCT05835999 Results wake #282 negative recheck - COMPLETED completion 2026-07-22; No Results Posted; Konopka Lab page still recruitment copy; arms 0.5 mg/day or 5 mg/week everolimus"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED status != Results Posted. Protocol Version / lab page != Results tables."
+- id: vital-h-nct-still-absent-wake282
+  title: "VITAL-H NCT / protocol milligrams wake #282 negative recheck - ARPA-H award and Barshop press; recruitment not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT registered. Named drugs != protocol milligrams."
+- id: vital-h-barshop-recruitment-not-begun-wake282
+  title: "VITAL-H Barshop recruitment not begun wake #282 negative recheck - UT Health Mar 2026 press; interest list only; arm mg still unpublished"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Recruitment not begun != NCT. Named rapamycin/dapagliflozin/semaglutide != invent arm milligrams."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake282
+  title: "Nitazoxanide FOXN1 human aging NCT wake #282 negative recheck - Genah Cell Death Differ 2026 mouse post-IR only; Sewell Immun Ageing 2026 review not-demonstrated; no human aging thymus NCT milligrams"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse post-IR FOXN1 != human aging NCT. Review not-demonstrated corroborates absence; does not invent a trial."
+- id: wake282-negatives
+  title: "Negatives wake #282 - EVERLAST Results still absent; VITAL-H NCT still absent in searched sources as of 2026-08-22; NTZ FOXN1 human aging NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = EVERLAST COMPLETED-no-Results + VITAL-H press!=NCT + NTZ mouse-only triple negative."
