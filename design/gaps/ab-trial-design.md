@@ -1439,3 +1439,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **EVERLAST:** COMPLETED **2026-07-22**; **No Results Posted**; Konopka Lab still recruitment copy.
 - **VITAL-H:** **no matching NCT in searched sources as of 2026-08-22** (ARPA-H + Barshop + TPR); recruitment not begun; arm mg unpublished (OASIS 25/50 ≠ invent).
 - **Software cannot close these** (L33). Continue Ralph rotation.
+
+## Update (Ralph wake #285)
+- **RESTOR adaptive OD milligrams still absent:** **Wake #285 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #285 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #285 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Konopka Lab** page still recruitment copy. **COMPLETED ≠ Results Posted.**
+- **VITAL-H NCT / NTZ / B2M-CCL11** negatives held.

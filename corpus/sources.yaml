@@ -12955,3 +12955,44 @@ sources:
   - clinical
   confidence: high
   summary: "Full Exa recheck of EVERLAST/RESTOR/SHAPE/VITAL-H/ER-100/queuine/STL-101/Deciduous/B2M-CCL11/NTZ - all still absent or UNSETTLED."
+
+- id: restor-od-mg-still-absent-wake285
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #285 negative recheck - still RECRUITING; start 2026-03-04; OD milligrams still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive dose-finding protocol language != published OD milligrams."
+- id: shape-daily-mg-results-still-absent-wake285
+  title: "SHAPE NCT07275424 daily elamipretide milligrams and Results wake #285 negative recheck - still RECRUITING; 80 mg/mL vial only; No Results Posted"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol milligrams. RECRUITING != Results Posted."
+- id: everlast-results-still-absent-wake285
+  title: "EVERLAST NCT05835999 Results wake #285 negative recheck - COMPLETED completion 2026-07-22; No Results Posted; Konopka Lab page still recruitment copy"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED status != Results Posted. Stale lab page != Results tables."
+- id: konopka-everlast-recruitment-copy-wake285
+  title: "Konopka Lab EVERLAST page wake #285 negative recheck - still recruitment/compensation copy; does not disclose Results tables"
+  url: https://konopkalab.medicine.wisc.edu/clinical-trials/everlast/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Stale recruitment page != Results Posted after CT.gov COMPLETED."
+- id: wake285-negatives
+  title: "Negatives wake #285 - RESTOR OD mg still unpublished; SHAPE daily mg/Results still absent; EVERLAST Results still absent"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = RESTOR OD opacity + SHAPE vial!=daily-mg + EVERLAST COMPLETED-no-Results."

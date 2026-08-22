@@ -2301,3 +2301,10 @@
 - Ralph wake #284: GOAL_MET; corpus 1509 -> 1516
 - Full Exa sweep of night-CEO priority list: EVERLAST Results, RESTOR OD, SHAPE daily mg, VITAL-H NCT/mg, ER-100 DSMB, queuine UNSETTLED, STL-101 NCT, Deciduous IND, B2M/CCL11 IND, NTZ FOXN1 NCT
 - Verdict: **0 pins closed**; bank explicit negatives; do not invent milligrams (L33)
+
+## Tick 291 - 2026-08-22 (RESTOR OD / SHAPE / EVERLAST still absent)
+
+- Ralph wake #285: GOAL_MET; corpus 1516 -> 1521
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted
+- EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka page recruitment copy
