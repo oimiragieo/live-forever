@@ -1366,3 +1366,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **VITAL-H NCT / protocol milligrams still absent:** **Wake #271 negative recheck** — **ARPA-H PROSPR** / **Barshop** press; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22**. Named arms (**rapamycin**, **dapagliflozin**, **semaglutide**) **≠ protocol milligrams**.
 - **NTZ FOXN1 human aging NCT still absent:** **Wake #271 negative recheck** — **Genah et al. Cell Death Differ 2026** mouse post-IR FOXN1/thymic regeneration only; **no human aging thymus NCT milligrams**.
 - **RESTOR OD / SHAPE daily mg / queuine unsettled / ER-100 DSMB** negatives held.
+## Update (Ralph wake #272)
+- **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #272 negative recheck** — reviews / **CAT-213** anti-CCL11 adjacency; **no selective aging-depletion IND/CT.gov** in searched sources. **Parabiosis factor literature ≠ human longevity IND.**
+- **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #272 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished).
+- **ER-100 DSMB second-patient outcome still absent:** **Wake #272 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.** **First-dose press ≠ DSMB outcome.**
+- **Deciduous IND / EVERLAST Results / VITAL-H NCT** negatives held.

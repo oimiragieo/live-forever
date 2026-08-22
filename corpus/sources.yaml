@@ -12411,3 +12411,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = EVERLAST COMPLETED!=Results + VITAL-H press!=NCT + NTZ mouse-only triple negative recheck."
+- id: b2m-ccl11-selective-aging-ind-still-absent-wake272
+  title: "Selective B2M/CCL11 aging depletion human IND wake #272 negative recheck - reviews and CAT-213 adjacency; no selective aging-depletion IND/CT.gov 2026"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7558796/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Review/biomarker literature != selective aging-depletion IND. CAT-213 anti-CCL11 adjacency != longevity IND. Parabiosis factors != human trial."
+- id: oasis-25-50-mg-not-vital-h-arm-wake272
+  title: "OASIS oral semaglutide 25/50 mg != VITAL-H aging arm milligrams wake #272 fence held - NCT05564117/NCT05035095 obesity; VITAL-H arm mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != invent VITAL-H aging arm milligrams. Press naming semaglutide != protocol mg."
+- id: er100-dsmb-second-patient-still-absent-wake272
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #272 negative recheck - first dose Jun 9 2026 only; still RECRUITING; CT.gov updated May 15 2026; no public DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sentinel 28-day DSMB gate still opaque. Intravitreal OSK != systemic longevity Finals. First-dose press != DSMB outcome."
+- id: lifebio-er100-first-dose-only-wake272
+  title: "Life Biosciences ER-100 first-patient press wake #272 negative recheck - Jun 9 2026 first dose only; no second-patient or DSMB clearance disclosed"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-dose announcement != DSMB second-patient clearance. Ocular FIH != systemic longevity protocol."
+- id: wake272-negatives
+  title: "Negatives wake #272 - B2M/CCL11 selective aging IND still absent; OASIS 25/50 mg != VITAL-H arm mg; ER-100 DSMB second-patient still opaque"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = B2M/CCL11 IND absence + OASIS!=VITAL-H mg fence + ER-100 DSMB opacity triple negative recheck."
