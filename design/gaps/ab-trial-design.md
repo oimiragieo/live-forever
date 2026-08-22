@@ -1361,3 +1361,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **SHAPE daily elamipretide mg / Results still absent:** **Wake #270 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **PeptideStat**: Results not reported. **Forzinity Barth ≠ SHAPE healthy-aging dose.** **Vial mg/mL ≠ daily dose.** **Est. completion ≠ Results.**
 - **EVERLAST Results still absent:** **Wake #270 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Protocol Version ≠ Results**. Arms remain **0.5 mg/day** or **5 mg/week** everolimus.
 - **VITAL-H NCT / ER-100 DSMB / Deciduous IND / NTZ FOXN1** negatives held.
+## Update (Ralph wake #271)
+- **EVERLAST Results still absent:** **Wake #271 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Protocol Version ≠ Results**. **Konopka Lab** page still recruitment copy. Arms remain **0.5 mg/day** or **5 mg/week** everolimus.
+- **VITAL-H NCT / protocol milligrams still absent:** **Wake #271 negative recheck** — **ARPA-H PROSPR** / **Barshop** press; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22**. Named arms (**rapamycin**, **dapagliflozin**, **semaglutide**) **≠ protocol milligrams**.
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #271 negative recheck** — **Genah et al. Cell Death Differ 2026** mouse post-IR FOXN1/thymic regeneration only; **no human aging thymus NCT milligrams**.
+- **RESTOR OD / SHAPE daily mg / queuine unsettled / ER-100 DSMB** negatives held.
