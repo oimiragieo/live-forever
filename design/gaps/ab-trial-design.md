@@ -1391,3 +1391,15 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **ER-100 DSMB second-patient outcome still absent:** **Wake #276 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.**
 - **Deciduous iNKT IND still absent:** **Wake #276 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; patents only; **fobi Jul 2026** preclinical. **Patent/IP ≠ IND filed.** **SAB news ≠ IND.**
 - **STL-101 NCT / queuine unsettled / EVERLAST Results / RESTOR OD** negatives held.
+
+## Update (Ralph wake #277)
+- **STL-101 human longevity NCT still absent:** **Wake #277 negative recheck** — **PLOS ONE 2021** in-vitro µM only; **Globenewswire 2021** planned further research; **no matching Stellate STL-101 CT.gov** longevity supplementation NCT in searched sources as of **2026-08-22**. **Mouse/in-vitro ≠ human NCT.**
+- **Sapience ST101 ≠ Stellate STL-101 fence held:** **Wake #277 recheck** — **NCT04478279** lucicebtide **ST101** GBM oncology (**0.5–16 mg/kg IV**) **≠ invent Stellate queuine longevity milligrams.**
+- **Queuine plasma still unsettled:** **Wake #277 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no significant age decline** (higher in women) vs circulating-decline claims — **assay/cohort mismatch UNSETTLED.**
+- **RESTOR adaptive OD milligrams still absent:** **Wake #277 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE / EVERLAST / VITAL-H** negatives held (rechecked wake #278).
+## Update (Ralph wake #278)
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #278 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Forzinity Barth ≠ SHAPE healthy-aging dose.** **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #278 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); **No Results Posted**; **Konopka Lab** page still recruitment copy. Arms remain **0.5 mg/day** or **5 mg/week** everolimus. **COMPLETED ≠ Results Posted.**
+- **VITAL-H NCT / protocol milligrams still absent:** **Wake #278 negative recheck** — **ARPA-H PROSPR** / **Barshop** press; **recruitment not begun**; **no matching NCT in searched sources as of 2026-08-22**. Named arms (**rapamycin**, **dapagliflozin**, **semaglutide**) **≠ protocol milligrams**.
+- **STL-101 NCT / queuine unsettled / RESTOR OD** negatives held.

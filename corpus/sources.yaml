@@ -12611,3 +12611,85 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = OASIS!=VITAL-H fence + ER-100 DSMB opacity + Deciduous patent-only triple negative recheck."
+
+- id: stl101-human-longevity-nct-still-absent-wake277
+  title: "STL-101 human longevity supplementation NCT wake #277 negative recheck - Stellate PLOS ONE 2021 in-vitro only; Globenewswire 2021 planned further research; no matching Stellate STL-101 CT.gov longevity NCT in searched sources as of 2026-08-22"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2021
+  topics:
+  - preclinical
+  confidence: high
+  summary: "In-vitro uM neuroprotection != human longevity NCT milligrams. Press planning clinical != CT.gov registration."
+- id: sapience-st101-not-stellate-stl101-wake277
+  title: "Sapience lucicebtide ST101 NCT04478279 != Stellate STL-101 queuine wake #277 fence held - oncology GBM ACTIVE_NOT_RECRUITING; dose cohorts 0.5-16 mg/kg IV; not queuine longevity"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "ST101 != STL-101 name collision. Oncology IV mg/kg != invent Stellate queuine longevity oral milligrams."
+- id: queuine-plasma-age-unsettled-plos-flat-wake277
+  title: "Queuine plasma age-decline still unsettled wake #277 - PLOS ONE 2021 n=160 ages 50-90 no significant plasma decline (higher in women); assay/cohort mismatch vs decline claims held UNSETTLED"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2021
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat healthy plasma != invent age-decline pin. Sex difference != longevity supplementation NCT."
+- id: restor-od-mg-still-absent-wake277
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #277 negative recheck - still RECRUITING; start 2026-03-04; last update ~May/Jun 2026; OD milligrams still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive dose-finding protocol language != published OD milligrams. Trial start != OD disclosed."
+- id: wake277-negatives
+  title: "Negatives wake #277 - STL-101 human longevity NCT still absent; Sapience ST101 != Stellate STL-101; queuine plasma unsettled; RESTOR OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = STL-101 NCT absence + ST101 name collision + queuine UNSETTLED + RESTOR OD opacity."
+
+- id: shape-daily-mg-results-still-absent-wake278
+  title: "SHAPE NCT07275424 daily elamipretide milligrams and Results wake #278 negative recheck - still RECRUITING; 80 mg/mL vial only; No Results Posted; primary completion est Mar 2026"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial concentration 80 mg/mL != daily SC protocol milligrams. RECRUITING != Results Posted."
+- id: everlast-results-still-absent-wake278
+  title: "EVERLAST NCT05835999 Results wake #278 negative recheck - COMPLETED completion 2026-07-22; No Results Posted; Konopka Lab page still recruitment copy; arms 0.5 mg/day or 5 mg/week everolimus"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED status != Results Posted. Protocol Version / lab page != Results tables."
+- id: vital-h-nct-still-absent-wake278
+  title: "VITAL-H NCT / protocol milligrams wake #278 negative recheck - ARPA-H award and Barshop press; recruitment not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT registered. Named drugs != protocol milligrams."
+- id: vital-h-barshop-recruitment-not-begun-wake278
+  title: "VITAL-H Barshop recruitment not begun wake #278 negative recheck - UT Health Mar 2026 press; interest list only; arm mg still unpublished"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Recruitment not begun != NCT. Named rapamycin/dapagliflozin/semaglutide != invent arm milligrams."
+- id: wake278-negatives
+  title: "Negatives wake #278 - SHAPE daily mg/Results still absent; EVERLAST Results still absent; VITAL-H NCT still absent in searched sources as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = SHAPE vial!=daily-mg + EVERLAST COMPLETED-no-Results + VITAL-H press!=NCT triple negative."

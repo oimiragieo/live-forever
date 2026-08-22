@@ -2246,3 +2246,17 @@
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held
 - ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only)
 - Deciduous iNKT IND still absent (preclinical; patents only)
+
+## Tick 283 - 2026-08-22 (STL-101 NCT / queuine unsettled / RESTOR OD still absent)
+
+- Ralph wake #277: GOAL_MET; corpus 1474 -> 1479
+- STL-101 human longevity NCT/mg still absent (PLOS 2021 in-vitro; no Stellate CT.gov)
+- Sapience ST101 NCT04478279 != Stellate STL-101 fence held
+- Queuine plasma still UNSETTLED (PLOS flat vs decline claims)
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+## Tick 284 - 2026-08-22 (SHAPE daily mg / EVERLAST Results / VITAL-H NCT still absent)
+
+- Ralph wake #278: GOAL_MET; corpus 1479 -> 1484
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted; still RECRUITING
+- EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka page recruitment copy
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
