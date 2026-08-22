@@ -2161,3 +2161,10 @@
 - SHAPE daily elamipretide mg and Results still absent
 - EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted)
 - VITAL-H: no matching NCT in searched sources as of 2026-08-22
+## Tick 270 - 2026-08-22 (VITAL-H NCT / NTZ / B2M-CCL11 / OASIS≠VITAL-H still absent)
+
+- Ralph wake #264: GOAL_MET; corpus 1409 -> 1414
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22 (press != NCT)
+- NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
+- B2M/CCL11 selective aging-depletion IND still absent
+- OASIS ≠ VITAL-H fence held (25/50 mg obesity only)
