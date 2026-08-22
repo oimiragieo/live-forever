@@ -12531,3 +12531,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = RESTOR OD opacity + SHAPE vial!=dose + EVERLAST COMPLETED!=Results triple negative recheck."
+- id: vital-h-nct-still-absent-wake275
+  title: "VITAL-H NCT / protocol milligrams wake #275 negative recheck - ARPA-H PROSPR award and Barshop press; recruitment not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT registered. Recruitment not begun != protocol milligrams. Semaglutide/rapamycin/dapagliflozin named without arm mg."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake275
+  title: "Nitazoxanide FOXN1 human aging NCT wake #275 negative recheck - Genah Cell Death Differ 2026 mouse post-IR only; no human aging thymus NCT milligrams"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse post-IR FOXN1 induction != human aging NCT. FDA-approved antiparasitic label != longevity protocol milligrams."
+- id: b2m-ccl11-selective-aging-ind-still-absent-wake275
+  title: "Selective B2M/CCL11 aging depletion human IND wake #275 negative recheck - reviews and CAT-213 adjacency; clinical trials for CCL11 currently vacant per PMC11868897; no selective aging-depletion IND"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Review notes CCL11 clinical trials vacant. Parabiosis factors != human selective aging IND. CAT-213 adjacency != longevity IND."
+- id: vital-h-barshop-recruitment-not-begun-wake275
+  title: "VITAL-H Barshop recruitment not begun wake #275 negative recheck - UT Health press Mar 2026; no CT.gov NCT; arm mg still unpublished"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Recruitment not begun != NCT. Named drugs != protocol milligrams. Press != CT.gov registration."
+- id: wake275-negatives
+  title: "Negatives wake #275 - VITAL-H NCT still absent in searched sources; NTZ FOXN1 human aging NCT still absent; B2M/CCL11 selective aging IND still absent"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = VITAL-H press!=NCT + NTZ mouse-only + B2M/CCL11 IND absence triple negative recheck."

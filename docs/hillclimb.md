@@ -2234,3 +2234,9 @@
 - RESTOR adaptive OD milligrams still unpublished
 - SHAPE daily elamipretide mg and Results still absent
 - EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted)
+## Tick 281 - 2026-08-22 (VITAL-H NCT / NTZ FOXN1 / B2M-CCL11 still absent)
+
+- Ralph wake #275: GOAL_MET; corpus 1464 -> 1469
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
+- NTZ FOXN1: Genah 2026 mouse post-IR only; no human aging NCT/mg
+- Selective B2M/CCL11 aging-depletion IND still absent
