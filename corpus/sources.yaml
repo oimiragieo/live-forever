@@ -373,7 +373,7 @@ sources:
 - id: nih-cc-drug-dev
   title: NIH Clinical Center Drug Development timeline
   url: https://www.cc.nih.gov/orcs/ind/drug-development
-  year: null
+  year: 2024
   topics:
   - pharma
   - medicine-pipeline
@@ -1774,7 +1774,7 @@ sources:
   - clinical
   confidence: high
   summary: FIH AAV-OSK + doxycycline induction started; recruiting NCT07290244 — first clinical partial-reprogramming landmark for human-osk dossier.
-- id: triim-x-nct04375657
+- id: triim-x-nct04375657-rebank
   title: TRIIM-X thymus regeneration extension (GH+metformin+DHEA; Intervene Immune)
   url: https://clinicaltrials.gov/study/NCT04375657
   year: 2020
@@ -2220,7 +2220,7 @@ sources:
   - clinical
   confidence: high
   summary: 400 mg cohort flat NfL vs natural history rise; clinical lag behind biomarkers (~24 wk) — strongest human LINE-1 PoC before AD/aging arms.
-- id: sahu-2024-cdkn2a-osk
+- id: sahu-2024-cdkn2a-osk-rebank
   title: Cdkn2a promoter-driven AAV-OSK targets aged/stressed cells — lifespan without extra tumors
   url: https://www.science.org/doi/10.1126/scitranslmed.adg1777
   year: 2024
@@ -2493,7 +2493,7 @@ sources:
   - clinical
   confidence: medium
   summary: Still preclinical mouse-only publicly; Finals require first-in-human translation 2026-2029.
-- id: arpa-h-2026-prospr-awards
+- id: arpa-h-2026-prospr-awards-rebank
   title: ARPA-H PROSPR — seven teams, up to $144M; VITAL-H + IC score + biotech arms
   url: https://arpa-h.gov/news-and-events/research-teams-add-more-healthy-years-americans-lives-they-age
   year: 2026
