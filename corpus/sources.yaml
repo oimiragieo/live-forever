@@ -12898,3 +12898,60 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = B2M/CCL11 IND vacant + OASIS!=VITAL-H fence + ER-100 DSMB opacity triple negative."
+
+- id: priority-sweep-everlast-results-still-absent-wake284
+  title: "Priority research sweep wake #284 - EVERLAST NCT05835999 Results still absent - COMPLETED 2026-07-22; No Results Posted; Konopka Lab recruitment copy; Purdue CDEK No Results Posted"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Stale lab page != Results tables."
+- id: priority-sweep-restor-od-still-absent-wake284
+  title: "Priority research sweep wake #284 - RESTOR NCT06658093 OD milligrams still unpublished - still RECRUITING; start 2026-03-04; adaptive OD language only"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive OD protocol language != published OD milligrams."
+- id: priority-sweep-shape-daily-mg-still-absent-wake284
+  title: "Priority research sweep wake #284 - SHAPE NCT07275424 daily SC mg and Results still absent - still RECRUITING; 80 mg/mL vial only; No Results Posted"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol milligrams. RECRUITING != Results."
+- id: priority-sweep-vital-h-nct-still-absent-wake284
+  title: "Priority research sweep wake #284 - VITAL-H NCT and arm mg still absent - ARPA-H/Barshop/TPR press; recruitment not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT. Named drugs != invent arm milligrams."
+- id: priority-sweep-er100-dsmb-still-absent-wake284
+  title: "Priority research sweep wake #284 - ER-100 DSMB second-patient still opaque - NCT07290244 RECRUITING; Jun 9 2026 first dose only; no public DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-dose press != DSMB clearance. Intravitreal OSK != systemic Finals."
+- id: priority-sweep-queuine-stl101-deciduous-ntz-b2m-wake284
+  title: "Priority research sweep wake #284 - queuine UNSETTLED (PLOS flat vs bioRxiv decline); STL-101 human longevity NCT absent; Deciduous IND absent (patent Jun 2026 != IND); NTZ FOXN1 mouse-only; B2M/CCL11 selective aging IND absent"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mechanism/assay tensions held. Mouse/in-vitro/patent != invent human NCT or IND milligrams."
+- id: wake284-priority-research-sweep-negatives
+  title: "Negatives wake #284 priority research sweep - all 10 CEO priority pins still OPEN as of 2026-08-22; no invent milligrams"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Full Exa recheck of EVERLAST/RESTOR/SHAPE/VITAL-H/ER-100/queuine/STL-101/Deciduous/B2M-CCL11/NTZ - all still absent or UNSETTLED."

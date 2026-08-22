@@ -10,6 +10,9 @@ Snapshot: corpus **1499**; wake **#281**; tick **#287**; `GOAL_MET`; tests **47*
 
 ### Honesty (Wave-1 + night)
 
+**Priority research sweep (wake #284, 2026-08-22):** Exa rechecked all 10 night-CEO priority pins — **0 closed**. EVERLAST/RESTOR/SHAPE/VITAL-H/ER-100/queuine/STL-101/Deciduous/B2M-CCL11/NTZ still OPEN or UNSETTLED. See hillclimb Tick 290.
+
+
 **Software can ship. Sentinel clinical pins cannot be closed by inventing milligrams.** D1–D5 stay OPEN under Ralph until CT.gov/preprint receipts. (L33)
 
 ---

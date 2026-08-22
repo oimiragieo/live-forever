@@ -1433,3 +1433,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #283 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished). **No matching VITAL-H NCT in searched sources as of 2026-08-22.**
 - **ER-100 DSMB second-patient outcome still absent:** **Wake #283 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.**
 - **Deciduous IND / EVERLAST Results / RESTOR OD / SHAPE** negatives held.
+
+## Update (Ralph wake #284 — CEO priority research sweep)
+- **Full Exa recheck of night-CEO top-10 research needs (2026-08-22):** all remain **OPEN** / **UNSETTLED**. No CT.gov Results Posted, no new NCT for VITAL-H, no published RESTOR OD mg, no SHAPE daily SC mg, no ER-100 DSMB second-patient clearance, no Deciduous IND, no STL-101 human longevity NCT, no NTZ FOXN1 human aging NCT, no selective B2M/CCL11 aging-depletion IND. Queuine plasma flat (PLOS) vs decline (bioRxiv) still **assay/cohort mismatch UNSETTLED**.
+- **EVERLAST:** COMPLETED **2026-07-22**; **No Results Posted**; Konopka Lab still recruitment copy.
+- **VITAL-H:** **no matching NCT in searched sources as of 2026-08-22** (ARPA-H + Barshop + TPR); recruitment not begun; arm mg unpublished (OASIS 25/50 ≠ invent).
+- **Software cannot close these** (L33). Continue Ralph rotation.

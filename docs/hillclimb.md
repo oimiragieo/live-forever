@@ -2295,3 +2295,9 @@
 - Selective B2M/CCL11 aging-depletion IND still absent (CCL11 trials vacant)
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held
 - ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only; still RECRUITING)
+
+## Tick 290 - 2026-08-22 (CEO priority research sweep - all 10 pins still OPEN)
+
+- Ralph wake #284: GOAL_MET; corpus 1509 -> 1516
+- Full Exa sweep of night-CEO priority list: EVERLAST Results, RESTOR OD, SHAPE daily mg, VITAL-H NCT/mg, ER-100 DSMB, queuine UNSETTLED, STL-101 NCT, Deciduous IND, B2M/CCL11 IND, NTZ FOXN1 NCT
+- Verdict: **0 pins closed**; bank explicit negatives; do not invent milligrams (L33)
