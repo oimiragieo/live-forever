@@ -11691,3 +11691,83 @@ sources:
   - methods
   confidence: high
   summary: "Honesty guards applied: operational model != biological law; sim sex D illustrative; DRIVER_EDGES adjacency != causal DAG; COMPLETED != Results."
+- id: oasis-25-50-vs-vital-h-fence-wake254
+  title: "OASIS oral semaglutide 25/50 mg vs VITAL-H aging arm fence wake #254 recheck - NCT05035095 OASIS 1 50 mg; NCT05564117 OASIS 4 25 mg COMPLETED obesity only"
+  url: https://clinicaltrials.gov/study/NCT05035095
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity oral 25/50 mg != invent VITAL-H healthy-older semaglutide arm milligrams. No matching VITAL-H NCT in searched sources as of 2026-08-22. OASIS != VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake254
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #254 negative recheck - first dose Jun 9 2026 only; RECRUITING; CT.gov updated May 15 2026; no public DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sentinel 28-day DSMB gate still opaque. Intravitreal OSK != systemic longevity Finals. First-dose press != DSMB outcome."
+- id: deciduous-inkt-ind-still-absent-wake254
+  title: "Deciduous iNKT IND wake #254 negative recheck - still preclinical; no CT.gov; patents US20250381206 + US12655171; fobi Jul 2026 preclinical; SAB Bradford Jun 9"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Patent/IP != IND filed. Preclinical != CT.gov. Longevity Forum Apr 2026 != IND."
+- id: vital-h-search-limited-nct-absence-wake254
+  title: "VITAL-H NCT search-limited absence wake #254 - ARPA-H + Barshop + UT Health press only; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Phrase as search-limited absence not absolute nonexistence. Press != NCT. Recruitment not begun per Mar 4 2026 UT Health."
+- id: wake254-negatives
+  title: "Negatives wake #254 - OASIS!=VITAL-H fence held; ER-100 DSMB still opaque; Deciduous IND still absent; VITAL-H NCT search-limited"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS obesity-only fence + ER-100 sentinel DSMB opacity + Deciduous patent-only vacuum triple negative recheck."
+- id: stl101-human-longevity-nct-still-absent-wake255
+  title: "Stellate STL-101 human longevity NCT wake #255 negative recheck - bioRxiv 713446 mouse +15.3% and fly +47%; PLOS 2021 in-vitro uM; no CT.gov supplementation trial"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "LARVOL STEL-101 pipeline. Mouse paper != human NCT. Protocol milligrams absent."
+- id: queuine-plasma-still-unsettled-wake255
+  title: "Queuine plasma age-decline wake #255 recheck still UNSETTLED - PLOS ONE 2021 n=160 ages 50-90 no decline vs bioRxiv circulating decline claim; PMC11493786 LOQ 0.3 nM n=44"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Assay/cohort mismatch unresolved. Queuine unsettled law holds."
+- id: sapience-st101-stl101-fence-wake255
+  title: "Sapience lucicebtide ST101 vs Stellate STL-101 fence wake #255 recheck - NCT04478279 ACTIVE_NOT_RECRUITING GBM; ASCO oncology updates; != longevity queuine NCT"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101 != Stellate STL-101. Name collision fence held."
+- id: restor-adaptive-od-milligrams-still-absent-wake255
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #255 negative recheck - RECRUITING started Mar 4 2026; MedPath Jun 1; Hipa May 2026; OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "CT.gov describes OD in mg but posts no dose values. Trial start != OD disclosed."
+- id: wake255-negatives
+  title: "Negatives wake #255 - STL-101 human NCT still absent; queuine plasma still unsettled; RESTOR OD mg still absent; Sapience!=Stellate held"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = STL-101 mouse-only gap + queuine assay mismatch + RESTOR adaptive dose opacity triple negative recheck."

@@ -1260,3 +1260,15 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **NTZ FOXN1 human aging NCT still absent:** **Wake #253 negative recheck** — **Genah et al. Cell Death Differ (Mar 2026)** — **mouse post-IR thymic regeneration**; FOXN1 induction in murine/human primary TECs **in vitro** only. **No human aging IND/NCT/protocol milligrams.** **Mouse ≠ human NCT.**
 - **B2M/CCL11 selective aging depletion IND still absent:** **Wake #253 negative recheck** — **RCM 2025** / **Pharmaceuticals** reviews + **CAT-213** inflammatory adjacency only; **no CT.gov selective aging-depletion trial**. **NCT05237687** (UTSW sirolimus aging biomarkers, **0.5 mg** daily) **≠ B2M/CCL11 depletion IND** (**adjacency ≠ invention**). **Review ≠ NCT.**
 - **EVERLAST Results / RESTOR OD / SHAPE daily mg / ER-100 DSMB** negatives held.
+
+## Update (Ralph wake #254)
+- **OASIS ≠ VITAL-H fence held:** **Wake #254 recheck** — **OASIS 1 NCT05035095** oral **50 mg** and **OASIS 4 NCT05564117** oral **25 mg** remain **COMPLETED obesity** readouts. **VITAL-H**: **no matching NCT identifier found in searched sources as of 2026-08-22** (ARPA-H award page, Barshop clinical-trials listing, UT Health Mar 4 press); **recruitment not begun**. **OASIS obesity oral 25/50 mg ≠ invent VITAL-H healthy-older semaglutide arm mg.**
+- **ER-100 DSMB second-patient outcome still absent:** **Wake #254 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance for second **OAG** participant still **unpublished**. **Intravitreal OSK ≠ systemic Finals.** **First-dose press ≠ DSMB outcome.**
+- **Deciduous iNKT IND still absent:** **Wake #254 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; **US20250381206** / **US12655171** patents; **fobi Jul 2026** preclinical; **SAB Bradford Jun 9 2026** ≠ IND. **Patent/IP ≠ IND filed.**
+- **EVERLAST Results / RESTOR OD / SHAPE daily mg / queuine plasma** negatives held.
+
+## Update (Ralph wake #255)
+- **STL-101 human longevity NCT still absent:** **Wake #255 negative recheck** — **bioRxiv 713446** oral queuine mouse **+15.3%** mean lifespan / Drosophila **+47%** median; **PLOS ONE 2021** STL-101 **in-vitro µM** only; **LARVOL STEL-101**; **no CT.gov** longevity supplementation NCT or protocol milligrams. **Mouse paper ≠ human NCT.**
+- **Queuine plasma still unsettled + Sapience≠Stellate fence held:** **Wake #255 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no age decline** vs **bioRxiv** circulating decline claim; **PMC11493786** LOQ **0.3 nM** (**n=44**) — **assay/cohort mismatch unresolved**. **Sapience lucicebtide (ST101) NCT04478279** GBM oncology **≠ Stellate STL-101**.
+- **RESTOR adaptive OD milligrams still absent:** **Wake #255 negative recheck** — **NCT06658093** still **RECRUITING** (started **2026-03-04**); **MedPath Jun 1 2026**; **Hipa.ai** May 2026 — **OD milligrams still unpublished**. **Trial start ≠ OD disclosed.**
+- **SHAPE daily mg / EVERLAST Results / ER-100 DSMB / Deciduous IND** negatives held.

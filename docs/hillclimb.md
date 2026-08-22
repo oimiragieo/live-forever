@@ -2089,3 +2089,19 @@
 - Honesty guards: operational D(t); illustrative sex sim; adjacency != causal DAG
 - Corpus 1353 -> 1359 (+6 landscape/paper cites); public GitHub publish gated on status+pytest
 - Ralph sentinel climb continues (OASIS / ER-100 / Deciduous top of queue)
+
+## Tick 260 - 2026-08-22 (OASIS≠VITAL-H / ER-100 DSMB / Deciduous IND still absent)
+
+- Ralph wake #254: GOAL_MET; corpus 1359 -> 1364
+- OASIS 25/50 mg obesity fence held vs VITAL-H (no matching NCT in searched sources as of 2026-08-22)
+- ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only)
+- Deciduous iNKT IND still absent (preclinical; patents only)
+- EVERLAST / RESTOR / SHAPE negatives held
+
+## Tick 261 - 2026-08-22 (STL-101 NCT / queuine plasma / RESTOR OD still absent)
+
+- Ralph wake #255: GOAL_MET; corpus 1364 -> 1369
+- STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
+- Queuine plasma age-decline still unsettled (PLOS flat vs bioRxiv drop)
+- RESTOR adaptive OD milligrams still unpublished
+- Sapience ST101 ≠ Stellate STL-101 fence held
