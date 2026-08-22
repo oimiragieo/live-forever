@@ -2182,3 +2182,10 @@
 - Queuine plasma still unsettled; Sapience ST101 ≠ Stellate STL-101 held
 - RESTOR adaptive OD milligrams still unpublished
 - SHAPE daily elamipretide mg and Results still absent
+## Tick 273 - 2026-08-22 (SHAPE / EVERLAST / VITAL-H / NTZ still absent)
+
+- Ralph wake #267: GOAL_MET; corpus 1424 -> 1429
+- SHAPE daily elamipretide mg and Results still absent (RECRUITING; 80 mg/mL vial != daily SC dose)
+- EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted; Protocol Version != Results)
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22 (press != NCT)
+- NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
