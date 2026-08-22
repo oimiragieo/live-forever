@@ -12451,3 +12451,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = B2M/CCL11 IND absence + OASIS!=VITAL-H mg fence + ER-100 DSMB opacity triple negative recheck."
+- id: deciduous-inkt-ind-still-absent-wake273
+  title: "Deciduous iNKT IND wake #273 negative recheck - still preclinical per deciduoustx.com and fobi Jul 2026; patents only; no CT.gov"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Patent/IP != IND filed. Preclinical != CT.gov. fobi Jul 2026 still labels program preclinical. SAB news != IND."
+- id: stl101-human-longevity-nct-still-absent-wake273
+  title: "Stellate STL-101 human longevity NCT wake #273 negative recheck - bioRxiv 713446 mouse +15.3% and fly +47%; PLOS 2021 in-vitro uM; LARVOL STEL-101; no CT.gov supplementation trial"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - preclinical
+  confidence: high
+  summary: "Mouse paper != human NCT. In-vitro uM != protocol milligrams. Pipeline listing != longevity supplementation NCT."
+- id: queuine-plasma-still-unsettled-wake273
+  title: "Queuine plasma age-decline wake #273 recheck still UNSETTLED - PLOS ONE 2021 n=160 ages 50-90 no decline vs bioRxiv circulating decline claim; PMC11493786 LOQ 0.3 nM"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Assay/cohort mismatch unresolved. Queuine unsettled law holds."
+- id: sapience-st101-not-stellate-stl101-wake273
+  title: "Sapience lucicebtide ST101 != Stellate STL-101 fence wake #273 - NCT04478279 GBM oncology; ASCO 2026 != longevity queuine"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101 GBM oncology != Stellate STL-101 queuine. Name collision fence held."
+- id: wake273-negatives
+  title: "Negatives wake #273 - Deciduous IND still absent; STL-101 human NCT still absent; queuine plasma unsettled; Sapience!=Stellate held"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = Deciduous patent-only + STL-101 mouse-only + queuine assay mismatch + Sapience!=Stellate quadruple negative recheck."

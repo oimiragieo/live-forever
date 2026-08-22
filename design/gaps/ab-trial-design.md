@@ -1371,3 +1371,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **OASIS 25/50 mg ≠ VITAL-H aging arm milligrams fence held:** **Wake #272 recheck** — **NCT05564117** (**OASIS 4**, **25 mg**) / **NCT05035095** (**OASIS 1**, **50 mg**) obesity arms **≠ invent VITAL-H** aging arm milligrams (still unpublished).
 - **ER-100 DSMB second-patient outcome still absent:** **Wake #272 negative recheck** — **first participant dosed 2026-06-09** only; **NCT07290244** still **RECRUITING**; **CT.gov updated 2026-05-15**; **sentinel 28-day DSMB** clearance still **unpublished**. **Intravitreal OSK ≠ systemic Finals.** **First-dose press ≠ DSMB outcome.**
 - **Deciduous IND / EVERLAST Results / VITAL-H NCT** negatives held.
+## Update (Ralph wake #273)
+- **Deciduous iNKT IND still absent:** **Wake #273 negative recheck** — **deciduoustx.com** still **preclinical**; **no CT.gov**; patents only; **fobi Jul 2026** preclinical. **Patent/IP ≠ IND filed.** **SAB news ≠ IND.**
+- **STL-101 human longevity NCT still absent:** **Wake #273 negative recheck** — **bioRxiv 713446** mouse **+15.3%** / fly **+47%**; **PLOS 2021** in-vitro µM; **LARVOL STEL-101**; **no CT.gov** longevity supplementation NCT. **Mouse paper ≠ human NCT.**
+- **Queuine plasma still unsettled + Sapience≠Stellate fence held:** **Wake #273 recheck** — **PLOS ONE 2021** (**n=160**, ages **50–90**) **no age decline** vs **bioRxiv** circulating decline claim — **assay/cohort mismatch unresolved**. **Sapience lucicebtide (ST101) NCT04478279** GBM oncology (**ASCO 2026**) **≠ Stellate STL-101**.
+- **RESTOR OD / SHAPE daily mg / EVERLAST Results / ER-100 DSMB** negatives held.

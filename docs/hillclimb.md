@@ -2222,3 +2222,9 @@
 - Selective B2M/CCL11 aging-depletion IND still absent (reviews/CAT-213 adjacency only)
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held
 - ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only)
+## Tick 279 - 2026-08-22 (Deciduous IND / STL-101 NCT / queuine unsettled)
+
+- Ralph wake #273: GOAL_MET; corpus 1454 -> 1459
+- Deciduous iNKT IND still absent (preclinical; patents only)
+- STL-101 human longevity NCT/mg still absent (bioRxiv mouse +15.3% only)
+- Queuine plasma still unsettled; Sapience ST101 != Stellate STL-101 held
