@@ -2189,3 +2189,10 @@
 - EVERLAST Results still absent (COMPLETED Jul 2026; No Results Posted; Protocol Version != Results)
 - VITAL-H: no matching NCT in searched sources as of 2026-08-22 (press != NCT)
 - NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
+## Tick 274 - 2026-08-22 (NTZ / B2M-CCL11 / OASIS≠VITAL-H / ER-100 still absent)
+
+- Ralph wake #268: GOAL_MET; corpus 1429 -> 1434
+- NTZ FOXN1 human aging NCT still absent (Genah mouse + Sewell review only)
+- B2M/CCL11 selective aging-depletion IND still absent
+- OASIS ≠ VITAL-H fence held (25/50 mg obesity only; no matching VITAL-H NCT in searched sources as of 2026-08-22)
+- ER-100 DSMB second-patient outcome still opaque
