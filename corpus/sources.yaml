@@ -13201,3 +13201,44 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = NTZ mouse-only + CCL11 trials vacant + OASIS obesity fence."
+
+- id: er100-dsmb-second-patient-still-absent-wake291
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #291 negative recheck - still RECRUITING; Jun 9 2026 first-patient press only; no public second-patient or DSMB clearance"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-dose press != DSMB clearance. Protocol 28-day sentinel gate != disclosed clearance. Ocular OSK != systemic Finals."
+- id: lifebio-er100-first-dose-only-wake291
+  title: "Life Biosciences ER-100 first-patient press wake #291 negative recheck - Jun 9 2026 first dose only; no second-patient or DSMB clearance disclosed"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-patient dosed press != second-patient or DSMB outcome."
+- id: deciduous-inkt-ind-still-absent-wake291
+  title: "Deciduous iNKT IND wake #291 negative recheck - deciduoustx.com still preclinical; US patent 12655171 Jun 2026 grant; no CT.gov IND/NCT in searched sources as of 2026-08-22"
+  url: https://www.deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent grant != IND != CT.gov. Site still preclinical messaging."
+- id: stl101-human-longevity-nct-still-absent-wake291
+  title: "STL-101 human longevity supplementation NCT wake #291 negative recheck - PLOS 2021 in-vitro; bioRxiv 713446 mouse queuine lifespan +15.3 percent; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-22"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse lifespan / in-vitro != human longevity supplementation NCT. Do not invent milligrams."
+- id: wake291-negatives
+  title: "Negatives wake #291 - ER-100 DSMB second-patient still opaque; Deciduous IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = ER-100 DSMB opacity + Deciduous patent!=IND + STL-101 mouse/in-vitro!=NCT."
