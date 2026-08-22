@@ -1469,3 +1469,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **EVERLAST Results still absent:** **Wake #289 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); protocol labels **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; **Konopka Lab** still recruitment copy. **COMPLETED ≠ Results Posted. Protocol dose ≠ outcome tables.**
 - **VITAL-H NCT / arm milligrams still absent:** **Wake #289 negative recheck** — Barshop listing + ARPA-H press; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-22**. **Press/listing ≠ NCT.**
 - **NTZ / B2M-CCL11 / RESTOR** negatives held.
+
+## Update (Ralph wake #290)
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #290 negative recheck** — Genah *Cell Death Differ* 2026 mouse post-IR only; Sewell *Immun Ageing* 2026 **not demonstrated** in controlled trials; TRIIM-X is GH/metformin/DHEA **not NTZ**. **Mouse != human aging NCT.**
+- **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #290 negative recheck** — review: **clinical trials for CCL11 currently vacant**; mechanism/senescence papers only. **CCL11 trials vacant** held.
+- **OASIS != VITAL-H fence held:** **Wake #290** — OASIS 4 **25 mg** / OASIS 1 **50 mg** obesity COMPLETED; **do not invent** VITAL-H arm milligrams.
+- **ER-100 / Deciduous / STL-101 / RESTOR / SHAPE / EVERLAST** negatives held.
