@@ -14256,3 +14256,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = CCL11 trials vacant + OASIS!=VITAL-H fence + ER-100 DSMB opacity."
+- id: deciduous-inkt-ind-still-absent-wake317
+  title: "Deciduous iNKT IND wake #317 negative recheck - site/company still preclinical; US20250381206A1 lineage; no ClinicalTrials.gov registration in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent/preclinical != IND or CT.gov. Do not invent milligrams."
+- id: stl101-human-longevity-nct-still-absent-wake317
+  title: "Stellate STL-101 human longevity NCT wake #317 negative recheck - PLOS One in-vitro STL-101; bioRxiv 713446 mouse queuine lifespan +15.3%; LARVOL STEL-101 product page; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro/mouse lifespan != human longevity supplementation NCT. Mouse != human NCT."
+- id: queuine-plasma-age-decline-unsettled-wake317
+  title: "Queuine plasma age-decline wake #317 - PLOS One Fig4 no significant age decline in healthy 50-90y plasma; vs bioRxiv 713446 circulating queuine decline claims = assay/cohort mismatch UNSETTLED"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat age curve != settle bioRxiv decline claims. Assay/cohort mismatch UNSETTLED."
+- id: sapience-st101-not-stellate-stl101-wake317
+  title: "Sapience lucicebtide ST101 NCT04478279 oncology fence wake #317 - ACTIVE_NOT_RECRUITING solid tumors/rGBM C/EBPb antagonist; != Stellate STL-101/STEL-101 queuine"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101/lucicebtide oncology NCT != Stellate STL-101 queuine longevity. Name collision fence held."
+- id: wake317-negatives
+  title: "Negatives wake #317 - Deciduous iNKT IND still absent; STL-101 human longevity NCT still absent; queuine plasma UNSETTLED; Sapience ST101 != Stellate STL-101"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = Deciduous patent!=IND + STL-101 no human NCT + queuine UNSETTLED + ST101 collision fence."

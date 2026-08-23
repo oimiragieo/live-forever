@@ -1632,3 +1632,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **OASIS != VITAL-H fence held:** **Wake #316** — OASIS 4 **NCT05564117** **25 mg** / OASIS 1 **NCT05035095** **50 mg** obesity COMPLETED; VITAL-H still press-only; **recruitment has not begun**; **no matching NCT as of 2026-08-23**. **Do not invent** VITAL-H arm milligrams.
 - **ER-100 DSMB second-patient still absent:** **Wake #316 negative recheck** — **NCT07290244** still **RECRUITING**; **no public second-patient or DSMB clearance**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
 - **Deciduous / STL-101 / RESTOR / SHAPE** negatives held.
+## Update (Ralph wake #317)
+- **Deciduous iNKT IND still absent:** **Wake #317 negative recheck** — company still preclinical; patents (**US20250381206A1** lineage); **no CT.gov** in searched sources as of **2026-08-23**. **Patent != IND.**
+- **STL-101 human longevity NCT still absent:** **Wake #317 negative recheck** — PLOS in-vitro + bioRxiv **713446** mouse queuine lifespan **+15.3%**; **no Stellate CT.gov longevity NCT**. **Mouse != human NCT.**
+- **Queuine plasma age-decline still UNSETTLED:** **Wake #317** — PLOS Fig4 **no significant age decline** vs bioRxiv decline claims; **assay/cohort mismatch UNSETTLED**.
+- **Sapience ST101 != Stellate STL-101 fence held:** **Wake #317** — **NCT04478279** lucicebtide/ST101 oncology **!=** Stellate queuine STL-101/STEL-101.
+- **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.
