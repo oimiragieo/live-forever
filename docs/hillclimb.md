@@ -2733,3 +2733,9 @@
 - RESTOR NCT06658093 adaptive OD milligrams still unpublished (still RECRUITING)
 - SHAPE NCT07275424 Results still absent; 80 mg/mL vial != daily SC milligrams
 - EVERLAST NCT05835999 COMPLETED but No Results Posted (0.5 mg/day / 5 mg/week protocol known)
+## Tick 358 - 2026-08-23 (VITAL-H / NTZ FOXN1 / B2M-CCL11 still absent)
+
+- Ralph wake #352: GOAL_MET; corpus 1869 -> 1875
+- VITAL-H NCT still absent (press/award only; recruitment has not begun)
+- NTZ FOXN1 human aging NCT still absent (Genah mouse post-IR + TEC in vitro only)
+- Selective CCL11/B2M aging depletion IND still absent (anti-CCL11 trials vacant)
