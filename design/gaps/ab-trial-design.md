@@ -1763,3 +1763,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **EVERLAST Results still absent:** **Wake #340 negative recheck** — **NCT05835999** **COMPLETED 2026-07-22**; protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; no Konopka preprint/abstract outcomes. **COMPLETED != Results.**
 - **Konopka page still stale:** **Wake #340** — lab page still recruitment copy despite COMPLETED registry. **Stale pages != Results.**
 - **VITAL-H / NTZ / B2M-CCL11** negatives held.
+## Update (Ralph wake #341)
+- **VITAL-H NCT / arm milligrams still absent:** **Wake #341 negative recheck** — ARPA-H/Barshop press; triad named; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-23**. **Press != NCT.**
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #341 negative recheck** — Genah **Cell Death Differ 2026** mouse post-IR only; Immunity Ageing 2026 review: FOXN1 restoration **not demonstrated** in controlled human trials; **no human aging NTZ FOXN1 NCT**. **Mouse != human aging NCT. Review != NCT.**
+- **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #341 negative recheck** — mechanism/review only; CCL11 clinical aging-depletion trials **vacant**; **GIANTS-1 NCT07363057** is **not** selective B2M/CCL11 depletion. **CCL11 trials vacant** held.
+- **OASIS / ER-100 / Deciduous** negatives held.
