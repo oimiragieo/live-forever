@@ -2787,3 +2787,9 @@
 - CCL11 clinical trials vacant; selective B2M/CCL11 aging depletion IND still absent
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams (VITAL-H NCT still absent)
 - ER-100 first patient dosed Jun 2026 but DSMB second-patient still opaque (ocular OSK != systemic)
+## Tick 367 - 2026-08-23 (Deciduous / STL-101 / ST101 collision)
+
+- Ralph wake #361: GOAL_MET; corpus 1923 -> 1929
+- Deciduous iNKT IND still absent (patent != CT.gov)
+- STL-101 still no human longevity NCT; bioRxiv 2026 animal/cell claims != NCT milligrams
+- ST101 != STL-101 fence held; queuine plasma age-decline UNSETTLED (PLOS flat vs bioRxiv decline)
