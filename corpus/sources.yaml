@@ -16560,3 +16560,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = mouse!=human NCT + trials vacant + OASIS!=VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake368
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #368 negative recheck - still RECRUITING; Life Bio first patient dosed Jun 2026 press; protocol requires 28-day sentinel + DSMB; no public second-patient or DSMB clearance outcome as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Sentinel design != published expansion outcome."
+- id: er100-ocular-not-systemic-fence-wake368
+  title: "ER-100 ocular OSK != systemic Finals fence wake #368 - NCT07290244 intravitreal AAV OSK + doxycycline activation for OAG/NAION; not a systemic aging Finals arm milligram"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Ocular optic-neuropathy FIH != systemic longevity milligrams."
+- id: deciduous-inkt-ind-still-absent-wake368
+  title: "Deciduous iNKT IND / CT.gov wake #368 negative recheck - company still preclinical senescent-cell iNKT activators; Nature Med 2021 + PMC8491998 lineage; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://www.deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: deciduous-preclinical-not-ind-fence-wake368
+  title: "Deciduous preclinical != IND fence wake #368 - CEO interview 2026 states pulmonary fibrosis first clinical target; IND-enabling studies planned; no public IND filing or CT.gov registration as of 2026-08-23"
+  url: https://sogevity.com/interview-with-robin-mansukhani-deciduous-therapeutics/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Preclinical mouse + interview != IND/CT.gov milligrams."
+- id: stl101-human-longevity-nct-still-absent-wake368
+  title: "STL-101 / queuine human longevity NCT wake #368 negative recheck - Stellate STL-101 still in-vitro neurodegeneration (PLOS One 2021); uM cell doses != human milligrams; bioRxiv 2026 animal/cell claims != NCT; no matching ClinicalTrials.gov longevity NCT as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro + preprint animal != human longevity NCT. Do not invent STL-101 human milligrams."
+- id: wake368-negatives
+  title: "Negatives wake #368 - ER-100 DSMB second-patient still absent; Deciduous iNKT IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = first-dose!=DSMB + patent!=IND + in-vitro!=human NCT."
