@@ -1499,3 +1499,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **OASIS != VITAL-H fence held:** **Wake #294** — OASIS 4 **25 mg** / OASIS 1 **50 mg** obesity COMPLETED (ECO2026 secondary still obesity); **do not invent** VITAL-H arm milligrams.
 - **ER-100 DSMB second-patient still absent:** **Wake #294 negative recheck** — **NCT07290244** still **RECRUITING**; Life Bio **Jun 9 2026** first-patient press only; **no public second-patient or DSMB clearance**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
 - **Deciduous / STL-101 / RESTOR / SHAPE / EVERLAST** negatives held.
+
+## Update (Ralph wake #295)
+- **Deciduous iNKT IND still absent:** **Wake #295 negative recheck** — site still preclinical; **US 12655171** Jun 2026 grant; **no CT.gov** in searched sources as of **2026-08-22**. **Patent != IND.**
+- **STL-101 human longevity NCT still absent:** **Wake #295 negative recheck** — PLOS in-vitro + bioRxiv **713446** mouse queuine lifespan **+15.3%**; **no Stellate CT.gov longevity NCT**. **Mouse != human NCT.**
+- **Queuine plasma age-decline still UNSETTLED:** **Wake #295** — PLOS flat vs bioRxiv decline; **assay/cohort mismatch UNSETTLED**. **Sapience ST101 (NCT04478279) != Stellate STL-101** fence held.
+- **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.
