@@ -17560,3 +17560,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = vial!=daily mg + COMPLETED!=Results + press!=NCT."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake389
+  title: "NTZ FOXN1 human aging NCT wake #389 negative recheck - Genah et al Cell Death Differ 2026 shows NTZ proteasome-inhibition FOXN1 induction in murine and human primary TECs and mouse post-IR thymic regeneration; no matching ClinicalTrials.gov aging/thymus NCT milligrams as of 2026-08-23"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR + in-vitro TEC != human aging NCT. Do not invent NTZ aging milligrams."
+- id: ntz-mouse-not-human-fence-wake389
+  title: "NTZ mouse post-IR != human aging NCT fence wake #389 - Genah 2026 positions NTZ as promising for age-related thymic atrophy but evidence remains mouse regeneration + human TEC in vitro; no aging FOXN1 ClinicalTrials.gov milligrams as of 2026-08-23"
+  url: https://link.springer.com/article/10.1038/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Promising mouse/pharmacology != human aging NCT milligrams."
+- id: ccl11-aging-trials-still-vacant-wake389
+  title: "CCL11 aging depletion clinical trials still vacant wake #389 - PMC11868897 review states anti-CCL11 clinical trials currently vacant; mouse neutralization only; no selective human aging depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse neutralization != human aging IND. CCL11 trials vacant."
+- id: b2m-ccl11-selective-ind-still-absent-wake389
+  title: "Selective B2M/CCL11 aging depletion IND wake #389 negative recheck - biomarker/review and mouse neutralization literature only; no matching ClinicalTrials.gov selective B2M or CCL11 aging-depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4019322/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Biomarker/review != human aging depletion IND. Do not invent milligrams."
+- id: oasis-not-vital-h-fence-wake389
+  title: "OASIS != VITAL-H fence wake #389 - OASIS 4 NCT05564117 oral semaglutide 25 mg COMPLETED obesity; OASIS 1 NCT05035095 50 mg COMPLETED obesity; VITAL-H still press-only with recruitment not begun; do not invent VITAL-H aging arm milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != VITAL-H aging arm milligrams."
+- id: wake389-negatives
+  title: "Negatives wake #389 - NTZ FOXN1 human aging NCT still absent; CCL11/B2M selective aging IND still absent; OASIS 25/50 != VITAL-H arm mg"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = mouse!=human NCT + trials vacant + OASIS!=VITAL-H."
