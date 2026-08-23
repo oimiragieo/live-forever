@@ -2727,3 +2727,9 @@
 - Deciduous iNKT IND still absent (preclinical + patent != CT.gov)
 - STL-101 human longevity NCT still absent (in-vitro/mouse only)
 - Queuine plasma age-decline UNSETTLED; ST101 != STL-101 fence held
+## Tick 357 - 2026-08-23 (RESTOR / SHAPE / EVERLAST still absent)
+
+- Ralph wake #351: GOAL_MET; corpus 1863 -> 1869
+- RESTOR NCT06658093 adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE NCT07275424 Results still absent; 80 mg/mL vial != daily SC milligrams
+- EVERLAST NCT05835999 COMPLETED but No Results Posted (0.5 mg/day / 5 mg/week protocol known)
