@@ -16848,3 +16848,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = recruiting!=published OD mg + vial!=daily mg + COMPLETED!=Results."
+- id: vital-h-nct-still-absent-wake374
+  title: "VITAL-H NCT wake #374 negative recheck - ARPA-H/Barshop/Volpi press and UT Health San Antonio news (Feb-Mar 2026) describe phase 3 hybrid trial (rapamycin, dapagliflozin, semaglutide; n~726 adults 60s) but state recruitment has not yet begun; no matching ClinicalTrials.gov NCT or protocol milligrams as of 2026-08-23"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT. Do not invent VITAL-H arm milligrams."
+- id: vital-h-recruitment-not-begun-fence-wake374
+  title: "VITAL-H recruitment not begun fence wake #374 - Barshop Institute clinical-trials page lists VITAL-H (PI Volpi) with interest-list signup only; ARPA-H award #4176 Feb 2026; no CT.gov registration as of 2026-08-23"
+  url: https://barshopinstitute.uthscsa.edu/clinical-trials/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Recruitment not begun != registered NCT. Press != protocol mg."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake374
+  title: "NTZ FOXN1 human aging NCT wake #374 negative recheck - Genah et al Cell Death Differ 2026 (published 2026-03-26) shows NTZ proteasome-inhibition FOXN1 induction in murine and human primary TECs and mouse post-IR thymic regeneration; no matching ClinicalTrials.gov aging/thymus NCT milligrams as of 2026-08-23"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR + in-vitro TEC != human aging NCT. Do not invent NTZ aging milligrams."
+- id: ntz-mouse-not-human-fence-wake374
+  title: "NTZ mouse != human aging fence wake #374 - Genah 2026 positions NTZ for cancer-related immunosuppression and age-related thymic atrophy preclinically; Genfit NCT07110441 is ACLF/healthy-volunteer PK != aging FOXN1; no human aging NCT milligrams as of 2026-08-23"
+  url: https://link.springer.com/article/10.1038/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Promising mouse/pharmacology != human aging NCT milligrams."
+- id: b2m-ccl11-selective-ind-still-absent-wake374
+  title: "Selective B2M/CCL11 aging depletion IND wake #374 negative recheck - reviews state anti-CCL11 clinical trials currently vacant (mouse neutralization only); B2M systemic-milieu literature preclinical; no matching ClinicalTrials.gov selective B2M/CCL11 aging-depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Biomarker/review != human aging depletion IND. Do not invent milligrams."
+- id: wake374-negatives
+  title: "Negatives wake #374 - VITAL-H NCT still absent; NTZ FOXN1 human aging NCT still absent; B2M/CCL11 selective aging IND still absent"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = press!=NCT + mouse!=human NCT + vacant anti-CCL11 trials."
