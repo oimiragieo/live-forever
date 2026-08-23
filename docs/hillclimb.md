@@ -2543,3 +2543,9 @@
 - OASIS 25/50 mg obesity != VITAL-H arm milligrams; VITAL-H NCT still absent as of 2026-08-23
 - ER-100 DSMB second-patient still opaque (still RECRUITING; ocular OSK != systemic)
 - Deciduous iNKT IND still absent (preclinical + patent != CT.gov)
+## Tick 327 - 2026-08-23 (STL-101 / queuine / RESTOR still absent)
+
+- Ralph wake #321: GOAL_MET; corpus 1697 -> 1702
+- STL-101 human longevity NCT still absent; Sapience ST101 != Stellate STL-101
+- Queuine plasma age-decline still UNSETTLED (PLOS flat vs bioRxiv decline)
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)

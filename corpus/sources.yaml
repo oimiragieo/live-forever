@@ -14416,3 +14416,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = OASIS!=VITAL-H fence + ER-100 DSMB opacity + Deciduous patent!=IND."
+- id: stl101-human-longevity-nct-still-absent-wake321
+  title: "Stellate STL-101 human longevity NCT wake #321 negative recheck - PLOS One in-vitro STL-101; bioRxiv 713446 mouse queuine lifespan +15.3%; LARVOL STEL-101 product page; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro/mouse lifespan != human longevity supplementation NCT. Mouse != human NCT."
+- id: queuine-plasma-age-decline-unsettled-wake321
+  title: "Queuine plasma age-decline wake #321 - PLOS One Fig4 no significant age decline in healthy 50-90y plasma; vs bioRxiv 713446 circulating queuine decline claims = assay/cohort mismatch UNSETTLED"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat age curve != settle bioRxiv decline claims. Assay/cohort mismatch UNSETTLED."
+- id: sapience-st101-not-stellate-stl101-wake321
+  title: "Sapience lucicebtide ST101 NCT04478279 oncology fence wake #321 - ACTIVE_NOT_RECRUITING solid tumors/rGBM C/EBPb antagonist; != Stellate STL-101/STEL-101 queuine"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101/lucicebtide oncology NCT != Stellate STL-101 queuine longevity. Name collision fence held."
+- id: restor-od-mg-still-absent-wake321
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #321 negative recheck - still RECRUITING; start 2026-03-04; last update ~Jun 2026; OD milligrams still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive dose-finding protocol language != published OD milligrams. Trial start != OD disclosed."
+- id: wake321-negatives
+  title: "Negatives wake #321 - STL-101 human longevity NCT still absent; queuine plasma UNSETTLED; Sapience ST101 != Stellate STL-101; RESTOR OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = STL-101 no human NCT + queuine UNSETTLED + ST101 collision fence + RESTOR OD opacity."
