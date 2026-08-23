@@ -15600,3 +15600,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = plasma-decline UNSETTLED + ST101 collision + RESTOR mg absent + SHAPE Results/vial fence."
+- id: everlast-results-still-absent-wake348
+  title: "EVERLAST NCT05835999 Results still absent wake #348 - COMPLETED 2026-07-22; protocol 0.5 mg/day and 5 mg/week everolimus known; No Results Posted; Konopka page still recruitment-facing as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol mg known; outcomes unpublished."
+- id: vital-h-nct-still-absent-wake348
+  title: "VITAL-H NCT still absent wake #348 - ARPA-H/Barshop/Volpi press only; recruitment has not begun; no matching ClinicalTrials.gov NCT in searched sources as of 2026-08-23"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT. Do not invent VITAL-H arm milligrams."
+- id: vital-h-press-not-protocol-mg-wake348
+  title: "VITAL-H press names drugs not protocol milligrams wake #348 - rapamycin/dapagliflozin/semaglutide named; 726 adults in 60s planned; no published arm milligrams; OASIS obesity doses != VITAL-H aging arms"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Drug names + N != protocol milligrams. OASIS != VITAL-H."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake348
+  title: "NTZ FOXN1 human aging NCT still absent wake #348 - Genah et al Cell Death Differ 2026 mouse post-IR thymic regeneration + human TEC in vitro; no human aging FOXN1 thymus NCT or milligrams in searched sources as of 2026-08-23"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR + human TEC in vitro != human aging NCT. Do not invent NTZ aging milligrams."
+- id: ntz-mouse-not-human-nct-fence-wake348
+  title: "NTZ mouse post-IR != human aging NCT fence wake #348 - Genah NTZ accelerates thymic recovery after radiation in mice; aging atrophy cited as rationale only; mouse != human protocol"
+  url: https://link.springer.com/article/10.1038/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse regenerative pharmacology != human aging FOXN1 NCT milligrams."
+- id: wake348-negatives
+  title: "Negatives wake #348 - EVERLAST Results absent; VITAL-H NCT absent; NTZ FOXN1 human NCT absent"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = EVERLAST Results absent + VITAL-H NCT absent + NTZ mouse!=human NCT."

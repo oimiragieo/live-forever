@@ -2709,3 +2709,9 @@
 - Queuine plasma age-decline UNSETTLED (PLOS flat vs bioRxiv decline); ST101 != STL-101 fence held
 - RESTOR NCT06658093 adaptive OD milligrams still unpublished (still RECRUITING)
 - SHAPE NCT07275424 Results still absent; 80 mg/mL vial != daily SC milligrams
+## Tick 354 - 2026-08-23 (EVERLAST / VITAL-H / NTZ FOXN1 still absent)
+
+- Ralph wake #348: GOAL_MET; corpus 1845 -> 1851
+- EVERLAST NCT05835999 COMPLETED but No Results Posted (0.5 mg/day / 5 mg/week protocol known)
+- VITAL-H NCT still absent (press/award only; recruitment has not begun)
+- NTZ FOXN1 human aging NCT still absent (Genah mouse post-IR + TEC in vitro only)
