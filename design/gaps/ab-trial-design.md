@@ -1768,3 +1768,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **NTZ FOXN1 human aging NCT still absent:** **Wake #341 negative recheck** — Genah **Cell Death Differ 2026** mouse post-IR only; Immunity Ageing 2026 review: FOXN1 restoration **not demonstrated** in controlled human trials; **no human aging NTZ FOXN1 NCT**. **Mouse != human aging NCT. Review != NCT.**
 - **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #341 negative recheck** — mechanism/review only; CCL11 clinical aging-depletion trials **vacant**; **GIANTS-1 NCT07363057** is **not** selective B2M/CCL11 depletion. **CCL11 trials vacant** held.
 - **OASIS / ER-100 / Deciduous** negatives held.
+## Update (Ralph wake #342)
+- **OASIS != VITAL-H fence held:** **Wake #342** — OASIS 4 **NCT05564117** **25 mg** / OASIS 1 **NCT05035095** **50 mg** obesity COMPLETED; VITAL-H still press-only; **recruitment has not begun**; **no matching NCT as of 2026-08-23**. **Do not invent** VITAL-H arm milligrams.
+- **ER-100 DSMB second-patient still absent:** **Wake #342 negative recheck** — **NCT07290244** still **RECRUITING**; **no public second-patient or DSMB clearance** as of **2026-08-23**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
+- **Deciduous iNKT IND still absent:** **Wake #342 negative recheck** — company still preclinical; **US12655171** / **WO2022187141** patent lineage; **no CT.gov** in searched sources as of **2026-08-23**. **Patent != IND.**
+- **RESTOR / SHAPE / EVERLAST** negatives held.
