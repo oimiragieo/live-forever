@@ -15840,3 +15840,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = VITAL-H NCT absent + NTZ mouse!=human + CCL11 trials vacant."
+- id: oasis-not-vital-h-fence-wake353
+  title: "OASIS != VITAL-H fence wake #353 - OASIS 4 NCT05564117 oral semaglutide 25 mg COMPLETED obesity; OASIS 1 NCT05035095 50 mg COMPLETED obesity; do not invent VITAL-H healthy-older arm milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != VITAL-H aging arm milligrams."
+- id: vital-h-nct-still-absent-oasis-recheck-wake353
+  title: "VITAL-H NCT still absent beside OASIS recheck wake #353 - ARPA-H/Barshop press only; recruitment has not begun; no matching NCT in searched sources as of 2026-08-23"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press != NCT. OASIS doses do not fill unpublished VITAL-H arm milligrams."
+- id: er100-dsmb-second-patient-still-absent-wake353
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #353 negative recheck - still RECRUITING; first patient dosed Jun 2026 press; no public second-patient or DSMB clearance outcome in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Ocular OSK AAV != systemic Finals."
+- id: er100-ocular-not-systemic-fence-wake353
+  title: "ER-100 ocular OSK != systemic Finals fence wake #353 - NCT07290244 intravitreal AAV OSK + doxycycline activation for OAG/NAION; not a systemic aging Finals arm"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Ocular optic-neuropathy FIH != systemic longevity milligrams."
+- id: deciduous-inkt-ind-still-absent-wake353
+  title: "Deciduous iNKT IND / CT.gov wake #353 negative recheck - company still preclinical; US20250381206 / WO2022187141 / IL305579A patent lineage; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: wake353-negatives
+  title: "Negatives wake #353 - OASIS 25/50 != VITAL-H arm mg; ER-100 DSMB second-patient still absent; Deciduous iNKT IND still absent"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS!=VITAL-H fence + first-dose!=DSMB + Deciduous patent!=IND."
