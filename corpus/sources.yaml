@@ -15888,3 +15888,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = OASIS!=VITAL-H fence + first-dose!=DSMB + Deciduous patent!=IND."
+- id: stl101-human-longevity-nct-still-absent-wake354
+  title: "STL-101 / queuine human longevity NCT wake #354 negative recheck - Stellate STL-101 still in-vitro/neurodegeneration (PLOS One 2021); uM cell doses != human milligrams; no matching ClinicalTrials.gov longevity NCT in searched sources as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro/mouse != human longevity NCT. Do not invent STL-101 human milligrams."
+- id: st101-not-stl101-fence-wake354
+  title: "ST101 != STL-101 name collision fence wake #354 - Sapience lucicebtide ST101 NCT04478279 oncology GBM ACTIVE_NOT_RECRUITING (ASCO 2026 update); Stellate STL-101 = synthesized queuine preclinical; do not conflate oncology IV peptide mg with queuine longevity milligrams"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "ST101 oncology peptide != STL-101 queuine. Name collision fence held."
+- id: queuine-plasma-age-decline-still-unsettled-wake354
+  title: "Queuine plasma age-decline still UNSETTLED wake #354 - PLOS One healthy-adult protective levels vs prior bioRxiv age-decline claims remain unreconciled; no human supplementation longevity NCT milligrams as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: medium
+  summary: "Plasma flat vs decline UNSETTLED. Do not invent supplementation milligrams."
+- id: restor-adaptive-od-mg-still-unpublished-wake354
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #354 negative recheck - still RECRUITING (start 2026-03-04); protocol describes adaptive dose-finding in milligrams but first enrolled cohort OD mg not publicly posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "RECRUITING + adaptive design != published OD milligrams. Do not invent RESTOR arm mg."
+- id: restor-recruiting-not-results-fence-wake354
+  title: "RESTOR recruiting != results fence wake #354 - NCT06658093 EARLY_PHASE1 UT Health SA / NIA; Aim1 open-label adaptive PK/PD then placebo-controlled daily vs intermittent; no Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Status RECRUITING != completed Results. Adaptive OD still unpublished."
+- id: wake354-negatives
+  title: "Negatives wake #354 - STL-101 human longevity NCT still absent; ST101!=STL-101 fence held; RESTOR adaptive OD mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = in-vitro!=human NCT + name-collision fence + recruiting!=published OD mg."
