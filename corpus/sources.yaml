@@ -13776,3 +13776,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = EVERLAST COMPLETED-no-Results + VITAL-H press!=NCT + NTZ mouse-only."
+- id: b2m-ccl11-aging-depletion-ind-still-absent-wake305
+  title: "Selective B2M/CCL11 aging-depletion IND wake #305 negative recheck - mechanism/BBB/senescence papers only; no selective B2M/CCL11 aging depletion human IND in searched sources as of 2026-08-22; GIANTS-1 NCT07363057 GI-102+GIB-7 != B2M/CCL11"
+  url: https://clinicaltrials.gov/study/NCT07363057
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adjacent immunosenescence combo NCT != selective B2M/CCL11 aging depletion IND. CCL11 trials vacant held."
+- id: oasis-vs-vital-h-fence-wake305
+  title: "OASIS 4 NCT05564117 25 mg and OASIS 1 NCT05035095 50 mg obesity COMPLETED wake #305 fence - do not invent VITAL-H aging arm milligrams; VITAL-H recruitment not begun; no matching NCT as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity oral 25/50 mg != invent VITAL-H healthy-older arm milligrams. OASIS != VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake305
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #305 negative recheck - still RECRUITING; Life Bio Jun 9 2026 first-patient press only; no public second-patient or DSMB clearance as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose press != DSMB clearance. Protocol DSMB language != public second-patient outcome. Ocular OSK != systemic Finals."
+- id: life-bio-er100-first-patient-only-wake305
+  title: "Life Biosciences Jun 9 2026 first ER-100 patient dosed press wake #305 - does not disclose second-patient or DSMB clearance"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-patient press != DSMB second-patient clearance."
+- id: wake305-negatives
+  title: "Negatives wake #305 - B2M/CCL11 aging IND still absent; OASIS 25/50 != VITAL-H arm mg; ER-100 DSMB second-patient still opaque"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = B2M/CCL11 mechanism!=IND + OASIS!=VITAL-H fence + ER-100 DSMB opacity."
