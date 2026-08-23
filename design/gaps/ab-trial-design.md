@@ -1605,3 +1605,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **VITAL-H NCT / arm milligrams still absent:** **Wake #311 negative recheck** — ARPA-H/Barshop press; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-22**. **Press ≠ NCT.**
 - **OASIS != VITAL-H fence held:** **Wake #311** — do not invent VITAL-H arm milligrams from OASIS obesity 25/50 mg.
 - **NTZ / B2M-CCL11 / ER-100 / Deciduous** negatives held.
+## Update (Ralph wake #312)
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #312 negative recheck** — Genah **Cell Death Differ 2026** mouse post-IR only; Sewell **Immun Ageing 2026** clinical benefits **not demonstrated**; **no human aging NTZ FOXN1 NCT** in searched sources as of **2026-08-22**. **Mouse ≠ human aging NCT.**
+- **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #312 negative recheck** — mechanism papers only; CCL11 clinical trials **vacant**; **GIANTS-1 NCT07363057** is **not** selective B2M/CCL11 depletion. **CCL11 trials vacant** held.
+- **OASIS != VITAL-H fence held:** **Wake #312** — OASIS 4 **NCT05564117** **25 mg** / OASIS 1 **NCT05035095** **50 mg** obesity COMPLETED; VITAL-H still press-only; **recruitment has not begun**; **no matching NCT as of 2026-08-22**. **Do not invent** VITAL-H arm milligrams.
+- **ER-100 / Deciduous / STL-101 / RESTOR** negatives held.
