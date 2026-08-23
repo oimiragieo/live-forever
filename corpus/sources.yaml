@@ -13696,3 +13696,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = ER-100 DSMB opacity + Deciduous patent!=IND + STL-101 no human NCT."
+- id: queuine-plasma-age-decline-unsettled-wake303
+  title: "Queuine plasma age-decline wake #303 - PLOS One Fig4 no significant age decline in healthy 50-90y plasma; vs bioRxiv 713446 decline claims = assay/cohort mismatch UNSETTLED"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat age curve != settle decline claims. Assay/cohort mismatch UNSETTLED."
+- id: sapience-st101-not-stellate-stl101-wake303
+  title: "Sapience ST101 NCT04478279 oncology C/EBPb antagonist wake #303 fence - ACTIVE_NOT_RECRUITING solid tumors/rGBM; not Stellate STL-101 queuine"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Sapience ST101 oncology NCT != Stellate STL-101 queuine longevity. Name collision fence held."
+- id: restor-od-mg-still-absent-wake303
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #303 negative recheck - still RECRUITING; start 2026-03-04; last update ~Jun 2026; OD milligrams still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive dose-finding protocol language != published OD milligrams. Trial start != OD disclosed."
+- id: shape-daily-mg-results-still-absent-wake303
+  title: "SHAPE NCT07275424 daily elamipretide milligrams and Results wake #303 negative recheck - still RECRUITING; 80 mg/mL vial only; No Results Posted; Marcinek lab recruitment page"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != daily SC protocol milligrams. RECRUITING != Results Posted."
+- id: wake303-negatives
+  title: "Negatives wake #303 - queuine plasma UNSETTLED; Sapience ST101 != Stellate STL-101; RESTOR OD mg still unpublished; SHAPE daily mg/Results still absent"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = queuine UNSETTLED + ST101 collision fence + RESTOR OD opacity + SHAPE vial!=daily-mg."
