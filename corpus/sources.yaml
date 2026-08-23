@@ -17232,3 +17232,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = COMPLETED!=Results + press!=NCT + mouse!=human NCT."
+- id: ccl11-aging-trials-still-vacant-wake382
+  title: "CCL11 aging depletion clinical trials still vacant wake #382 - PMC11868897 review states clinical trials for CCL11 are currently vacant; anti-CCL11 therapy feasibility shown in animal models only; no selective human aging depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse neutralization != human aging IND. CCL11 trials vacant."
+- id: b2m-ccl11-selective-ind-still-absent-wake382
+  title: "Selective B2M/CCL11 aging depletion IND wake #382 negative recheck - Villeda/Smith B2M+CCL11 parabiosis literature and BBB transport reviews remain biomarker/preclinical only; no matching ClinicalTrials.gov selective B2M or CCL11 aging-depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://purl.stanford.edu/ds267xt1780
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Biomarker/review != human aging depletion IND. Do not invent milligrams."
+- id: oasis-not-vital-h-fence-wake382
+  title: "OASIS != VITAL-H fence wake #382 - OASIS 4 NCT05564117 oral semaglutide 25 mg COMPLETED obesity; OASIS 1 NCT05035095 50 mg COMPLETED obesity (Lancet 2023); VITAL-H still press-only with recruitment not begun; do not invent VITAL-H aging arm milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != VITAL-H aging arm milligrams."
+- id: er100-dsmb-second-patient-still-absent-wake382
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #382 negative recheck - still RECRUITING; CT.gov last updated May 2026; protocol requires 28-day sentinel + DSMB before additional participants at each dose level; no public second-patient or DSMB clearance outcome as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Sentinel design != published expansion outcome."
+- id: er100-sentinel-design-not-outcome-fence-wake382
+  title: "ER-100 sentinel DSMB design != outcome fence wake #382 - NCT07290244 sequential OAG dose escalation then NAION expansion (up to 18 participants); DSMB review gates documented in protocol but no public cohort-expansion or second-patient safety outcome as of 2026-08-23"
+  url: https://www.trialstoday.org/trial/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Protocol DSMB gates != published outcomes. Ocular OSK != systemic Finals."
+- id: wake382-negatives
+  title: "Negatives wake #382 - CCL11/B2M selective aging IND still absent; OASIS 25/50 != VITAL-H arm mg; ER-100 DSMB second-patient still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = trials vacant + OASIS!=VITAL-H + sentinel!=DSMB outcome."
