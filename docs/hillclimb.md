@@ -2775,3 +2775,9 @@
 - ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
 - RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
 - SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
+## Tick 365 - 2026-08-23 (EVERLAST / VITAL-H / NTZ-FOXN1 still open)
+
+- Ralph wake #359: GOAL_MET; corpus 1911 -> 1917
+- EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)
+- VITAL-H still press-only; recruitment not begun; no matching NCT
+- NTZ FOXN1 still Genah mouse post-IR / in-vitro TEC; no human aging NCT milligrams
