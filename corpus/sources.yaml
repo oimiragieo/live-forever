@@ -15696,3 +15696,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = CCL11 trials vacant + OASIS!=VITAL-H fence + ER-100 DSMB opaque."
+- id: deciduous-inkt-ind-still-absent-wake350
+  title: "Deciduous iNKT IND / CT.gov wake #350 negative recheck - company still preclinical; US20250381206 / WO2022187141 / IL305579A patent lineage; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: deciduous-patent-not-ind-fence-wake350
+  title: "Deciduous patent != IND fence wake #350 - WO2022187141 / IL305579A / US20250381206 iNKT activator IP; IP != CT.gov registration"
+  url: https://patents.google.com/patent/IL305579A/en
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent bibliography != IND. Preclinical iNKT activator IP != human dosing protocol."
+- id: stl101-human-longevity-nct-still-absent-wake350
+  title: "STL-101 human longevity NCT still absent wake #350 - Stellate queuine in-vitro/mouse only; PLOS ONE 2021; bioRxiv 2026 lifespan mouse; no human longevity supplementation NCT in searched sources as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro/mouse != human longevity NCT. Do not invent STL-101 oral milligrams."
+- id: queuine-plasma-age-decline-unsettled-wake350
+  title: "Queuine plasma age-decline UNSETTLED wake #350 - PLOS ONE 2021 160 healthy 50-90y no age decline; bioRxiv 2026 reports circulating queuine declines with age; do not bank one arm as settled"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat vs bioRxiv decline = UNSETTLED. Corpus holds both; no forced reconciliation."
+- id: st101-stl101-name-collision-fence-wake350
+  title: "ST101 != STL-101 name collision fence wake #350 - Sapience lucicebtide ST101 NCT04478279 GBM oncology; Stellate STL-101 queuine neurodegeneration preclinical; do not merge trial IDs or milligrams"
+  url: https://sapiencetherapeutics.com/pipeline/lucicebtide/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "ST101 (Sapience C/EBPβ peptide GBM) != STL-101 (Stellate queuine). Name collision != same asset."
+- id: wake350-negatives
+  title: "Negatives wake #350 - Deciduous iNKT IND absent; STL-101 human NCT absent; queuine plasma UNSETTLED; ST101!=STL-101"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = Deciduous patent!=IND + STL-101 no human NCT + plasma-decline UNSETTLED + ST101 collision."
