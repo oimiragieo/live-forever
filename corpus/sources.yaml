@@ -14016,3 +14016,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = STL-101 no human NCT + queuine UNSETTLED + ST101 collision fence + RESTOR OD opacity."
+- id: shape-daily-mg-results-still-absent-wake311
+  title: "SHAPE NCT07275424 daily elamipretide mg / Results wake #311 negative recheck - still RECRUITING; Marcinek UW; 80 mg/mL vial concentration disclosed; daily SC protocol milligrams still unpublished; No Results Posted; PeptideStat Results posted Not reported"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != invent daily SC milligrams. RECRUITING + No Results Posted. Est. completion != Results."
+- id: everlast-results-still-absent-wake311
+  title: "EVERLAST NCT05835999 Results wake #311 negative recheck - still COMPLETED (completion 2026-07-22); protocol 0.5 mg/day and 5 mg/week known; No Results Posted; Konopka Lab page still recruitment copy"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Stale lab recruitment copy != manuscript. Protocol mg known; outcomes absent."
+- id: vital-h-nct-arm-mg-still-absent-wake311
+  title: "VITAL-H NCT / arm milligrams wake #311 negative recheck - ARPA-H award + Barshop/UT Health San Antonio press (Volpi); triad rapamycin/dapagliflozin/semaglutide named; recruitment has not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != CT.gov registration. Do not invent arm milligrams. Recruitment not begun."
+- id: oasis-not-vital-h-fence-wake311
+  title: "OASIS obesity oral semaglutide 25/50 mg != VITAL-H aging arm fence wake #311 - OASIS doses are disease obesity COMPLETED arms; do not invent VITAL-H healthy-older milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS != VITAL-H. Adjacency != invention of unpublished VITAL-H arm mg."
+- id: wake311-negatives
+  title: "Negatives wake #311 - SHAPE daily mg/Results still absent; EVERLAST Results still absent; VITAL-H NCT/arm mg still absent; OASIS != VITAL-H fence held"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = SHAPE vial!=daily + EVERLAST COMPLETED!=Results + VITAL-H press!=NCT + OASIS fence."

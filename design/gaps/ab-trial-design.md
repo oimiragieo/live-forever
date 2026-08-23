@@ -1599,3 +1599,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Sapience ST101 != Stellate STL-101 fence held:** **Wake #310** — **NCT04478279** Sapience oncology **!=** Stellate queuine STL-101.
 - **RESTOR adaptive OD milligrams still absent:** **Wake #310 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
 - **SHAPE / EVERLAST / VITAL-H** negatives held.
+## Update (Ralph wake #311)
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #311 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #311 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; **Konopka Lab** still recruitment copy. **COMPLETED ≠ Results Posted.**
+- **VITAL-H NCT / arm milligrams still absent:** **Wake #311 negative recheck** — ARPA-H/Barshop press; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-22**. **Press ≠ NCT.**
+- **OASIS != VITAL-H fence held:** **Wake #311** — do not invent VITAL-H arm milligrams from OASIS obesity 25/50 mg.
+- **NTZ / B2M-CCL11 / ER-100 / Deciduous** negatives held.
