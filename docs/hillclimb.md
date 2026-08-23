@@ -2937,3 +2937,9 @@
 - VITAL-H still press-only; recruitment not begun; no CT.gov NCT or protocol milligrams
 - NTZ FOXN1 Genah 2026 mouse post-IR + human TEC in vitro only; no human aging NCT milligrams
 - B2M/CCL11 selective aging depletion IND still absent; anti-CCL11 clinical trials vacant
+## Tick 392 - 2026-08-23 (OASIS≠VITAL-H / ER-100 / Deciduous still open)
+
+- Ralph wake #386: GOAL_MET; corpus 2073 -> 2079
+- OASIS 25/50 mg obesity COMPLETED; VITAL-H still press-only; no CT.gov NCT or aging arm milligrams
+- ER-100 still RECRUITING; sentinel+DSMB protocol only; no second-patient or cohort-expansion outcome
+- Deciduous iNKT still preclinical; patent lineage only; no IND or CT.gov registration

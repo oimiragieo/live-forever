@@ -17424,3 +17424,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = press!=NCT + mouse!=human NCT + vacant anti-CCL11 trials."
+- id: oasis-not-vital-h-fence-wake386
+  title: "OASIS != VITAL-H fence wake #386 - OASIS 4 NCT05564117 oral semaglutide 25 mg COMPLETED obesity; OASIS 1 NCT05035095 50 mg COMPLETED obesity (Lancet 2023); VITAL-H still press-only with recruitment not begun; do not invent VITAL-H aging arm milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != VITAL-H aging arm milligrams."
+- id: vital-h-nct-still-absent-oasis-recheck-wake386
+  title: "VITAL-H NCT still absent beside OASIS recheck wake #386 - ARPA-H award #4176 and Barshop press describe hybrid phase 3 (rapamycin, dapagliflozin, semaglutide) but recruitment has not begun; no matching CT.gov NCT or protocol milligrams as of 2026-08-23"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press != NCT. OASIS doses do not fill unpublished VITAL-H arm milligrams."
+- id: er100-dsmb-second-patient-still-absent-wake386
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #386 negative recheck - still RECRUITING; CT.gov last updated May 2026; protocol requires 28-day sentinel + DSMB before additional participants; no public second-patient or DSMB clearance outcome as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Sentinel design != published expansion outcome."
+- id: er100-ocular-not-systemic-fence-wake386
+  title: "ER-100 ocular OSK != systemic Finals fence wake #386 - NCT07290244 intravitreal AAV OSK + 8-week doxycycline activation for OAG/NAION optic neuropathies; not a systemic aging Finals arm milligram"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Ocular optic-neuropathy FIH != systemic longevity milligrams."
+- id: deciduous-inkt-ind-still-absent-wake386
+  title: "Deciduous iNKT IND / CT.gov wake #386 negative recheck - company still preclinical iNKT senolysis; US20250381206 / IL305579A patent lineage; fobi 2026 profile remains preclinical; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://www.deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: wake386-negatives
+  title: "Negatives wake #386 - OASIS 25/50 != VITAL-H arm mg; ER-100 DSMB second-patient still absent; Deciduous iNKT IND still absent"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS!=VITAL-H + sentinel!=DSMB outcome + patent!=IND."
