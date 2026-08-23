@@ -1505,3 +1505,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **STL-101 human longevity NCT still absent:** **Wake #295 negative recheck** — PLOS in-vitro + bioRxiv **713446** mouse queuine lifespan **+15.3%**; **no Stellate CT.gov longevity NCT**. **Mouse != human NCT.**
 - **Queuine plasma age-decline still UNSETTLED:** **Wake #295** — PLOS flat vs bioRxiv decline; **assay/cohort mismatch UNSETTLED**. **Sapience ST101 (NCT04478279) != Stellate STL-101** fence held.
 - **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.
+
+## Update (Ralph wake #296)
+- **RESTOR adaptive OD milligrams still absent:** **Wake #296 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #296 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #296 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; **Konopka Lab** still recruitment copy. **COMPLETED ≠ Results Posted.**
+- **VITAL-H / NTZ / B2M-CCL11** negatives held.
