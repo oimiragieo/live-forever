@@ -2943,3 +2943,9 @@
 - OASIS 25/50 mg obesity COMPLETED; VITAL-H still press-only; no CT.gov NCT or aging arm milligrams
 - ER-100 still RECRUITING; sentinel+DSMB protocol only; no second-patient or cohort-expansion outcome
 - Deciduous iNKT still preclinical; patent lineage only; no IND or CT.gov registration
+## Tick 393 - 2026-08-23 (STL-101 / ST101 collision / RESTOR still open)
+
+- Ralph wake #387: GOAL_MET; corpus 2079 -> 2085
+- STL-101 still in-vitro only; bioRxiv 2026 animal/cell claims != human longevity NCT milligrams
+- ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
