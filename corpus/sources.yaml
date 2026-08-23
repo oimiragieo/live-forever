@@ -15408,3 +15408,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = no human STL-101 NCT + plasma-decline UNSETTLED + ST101 collision fence + RESTOR mg absent."
+- id: shape-results-still-absent-wake344
+  title: "SHAPE NCT07275424 Results still absent wake #344 - still RECRUITING; Marcinek daily SC elamipretide 4 weeks; No Results Posted in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "RECRUITING != Results Posted. Do not invent efficacy outcomes."
+- id: shape-vial-not-daily-mg-fence-wake344
+  title: "SHAPE vial 80 mg/mL != daily SC milligrams fence wake #344 - CT.gov lists elamipretide 80 mg/mL multi-dose vial; daily subcutaneous milligrams unpublished; concentration != dose"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial mg/mL != daily SC mg. Do not invent daily elamipretide milligrams from vial strength."
+- id: everlast-results-still-absent-wake344
+  title: "EVERLAST NCT05835999 Results still absent wake #344 - COMPLETED 2026-07-22; protocol 0.5 mg/day and 5 mg/week everolimus known; No Results Posted; Konopka page still recruitment-facing as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol mg known; outcomes unpublished."
+- id: vital-h-nct-still-absent-wake344
+  title: "VITAL-H NCT still absent wake #344 - ARPA-H/Barshop/Volpi press only; recruitment has not begun; no matching ClinicalTrials.gov NCT in searched sources as of 2026-08-23"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT. Do not invent VITAL-H arm milligrams."
+- id: vital-h-press-not-protocol-mg-wake344
+  title: "VITAL-H press names drugs not protocol milligrams wake #344 - rapamycin/dapagliflozin/semaglutide named; 726 adults in 60s planned; no published arm milligrams; OASIS obesity doses != VITAL-H aging arms"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Drug names + N != protocol milligrams. OASIS != VITAL-H."
+- id: wake344-negatives
+  title: "Negatives wake #344 - SHAPE Results absent + vial!=daily mg; EVERLAST Results absent; VITAL-H NCT absent"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = SHAPE Results/vial fence + EVERLAST Results absent + VITAL-H NCT absent."

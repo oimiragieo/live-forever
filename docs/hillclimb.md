@@ -2685,3 +2685,9 @@
 - Queuine plasma age-decline UNSETTLED (PLOS flat vs bioRxiv decline)
 - ST101 != STL-101 name collision fence held (Sapience GBM vs Stellate queuine)
 - RESTOR NCT06658093 adaptive OD milligrams still unpublished (still RECRUITING)
+## Tick 350 - 2026-08-23 (SHAPE / EVERLAST / VITAL-H still absent)
+
+- Ralph wake #344: GOAL_MET; corpus 1821 -> 1827
+- SHAPE NCT07275424 Results still absent; 80 mg/mL vial != daily SC milligrams
+- EVERLAST NCT05835999 COMPLETED but No Results Posted (0.5 mg/day / 5 mg/week protocol known)
+- VITAL-H NCT still absent (press/award only; recruitment has not begun)
