@@ -15936,3 +15936,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = in-vitro!=human NCT + name-collision fence + recruiting!=published OD mg."
+- id: shape-daily-mg-still-unpublished-wake355
+  title: "SHAPE NCT07275424 daily elamipretide milligrams wake #355 negative recheck - still RECRUITING (Marcinek/UW); vial lists 80 mg/mL concentration; daily SC milligram dose not publicly posted; No Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial mg/mL != daily SC dose. Do not invent SHAPE daily milligrams."
+- id: shape-recruiting-not-results-fence-wake355
+  title: "SHAPE recruiting != Results fence wake #355 - NCT07275424 Phase 2a open-label daily SC elamipretide 4 weeks in older adults; estimated completion Apr 2026 but No Results Posted / Results not reported in searched mirrors as of 2026-08-23"
+  url: https://www.peptidestat.com/clinical-trials/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Status/estimated dates != Results Posted. Daily mg still opaque."
+- id: everlast-completed-not-results-wake355
+  title: "EVERLAST NCT05835999 COMPLETED != Results wake #355 negative recheck - COMPLETED 2026-07-22; protocol arms 0.5 mg/day and 5 mg/week everolimus known; No Results Posted / no Konopka preprint or abstract outcomes in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol mg known; outcome data still absent."
+- id: everlast-konopka-page-still-stale-wake355
+  title: "EVERLAST Konopka lab page still recruitment-stale wake #355 - page describes enrollment/compensation; does not post study results or outcome abstracts beside NCT05835999 COMPLETED status as of 2026-08-23"
+  url: https://konopkalab.medicine.wisc.edu/clinical-trials/everlast/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Lab recruitment page != Results. Do not invent EVERLAST outcome numbers."
+- id: vital-h-nct-still-absent-wake355
+  title: "VITAL-H NCT still absent wake #355 negative recheck - ARPA-H/Barshop/Volpi press (recruitment has not begun); no matching ClinicalTrials.gov NCT or protocol milligrams in searched sources as of 2026-08-23; OASIS oral semaglutide obesity mg != VITAL-H aging arm"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press != NCT. Do not invent VITAL-H arm milligrams from OASIS."
+- id: wake355-negatives
+  title: "Negatives wake #355 - SHAPE daily SC mg still unpublished (80 mg/mL vial only); EVERLAST COMPLETED != Results; VITAL-H NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = vial!=daily mg + COMPLETED!=Results + press!=NCT."

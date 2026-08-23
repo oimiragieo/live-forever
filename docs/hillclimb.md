@@ -2751,3 +2751,9 @@
 - STL-101 queuine still in-vitro only; no human longevity NCT milligrams
 - ST101 (Sapience lucicebtide oncology) != STL-101 (Stellate queuine); fence held
 - RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+## Tick 361 - 2026-08-23 (SHAPE / EVERLAST / VITAL-H still open)
+
+- Ralph wake #355: GOAL_MET; corpus 1887 -> 1893
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
+- EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)
+- VITAL-H still press-only; recruitment not begun; no matching NCT
