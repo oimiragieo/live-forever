@@ -17,9 +17,9 @@ A research codebase that ingests biology literature (Exa / arXiv / clinical gero
 ```
 corpus/          # papers, sources.yaml, reddit signals
 design/          # ultra-design + medicine pipeline + DNA-repair stack
-algorithms/      # damage-control simulators
-scripts/         # ingest + ralph loop helpers
-docs/            # loop status / hill-climb logs
+algorithms/      # damage-control, saturating-removal, portfolio-optimizer, trial-transparency
+scripts/         # ingest + ralph loop helpers + validators
+docs/            # loop status / hill-climb logs / ideation blueprints
 ```
 
 ## Quick start
@@ -27,7 +27,21 @@ docs/            # loop status / hill-climb logs
 ```powershell
 cd C:\dev\projects\live-forever
 pip install -r requirements-dev.txt
+
+# Run two-pathway damage control simulation
 python -m algorithms.damage_control --years 120 --plot-ascii
+
+# Run multi-species saturating removal & morbidity compression calculus
+python -m algorithms.saturating_removal --compare --species human
+
+# Evaluate or optimize intervention cocktail hallmark coverage
+python -m algorithms.portfolio_optimizer --eval vital_h_triad laromestrocel_msc sif001_gal3_mab progerinin
+python -m algorithms.portfolio_optimizer --optimize --max-size 4
+
+# Run clinical trial transparency & evidence delay audit
+python -m algorithms.trial_transparency --audit
+
+# Validate corpus, exit criteria, and test suite
 python scripts\status.py
 python scripts\validate_corpus.py
 pytest -q --cache-clear
@@ -37,14 +51,15 @@ Jr analysts: start at [`docs/reference/JR_ANALYST_RUNBOOK.md`](docs/reference/JR
 
 ## Research focus (2026-08-22)
 
-Paper spine + open-science moat (not another molecule review):
+Paper spine + open-science computational engine (not another molecule review):
 
 | Doc | Path |
 |-----|------|
 | **L0 control / instrumentation paper brief** | [`docs/ideation/paper-l0-control-instrumentation.md`](docs/ideation/paper-l0-control-instrumentation.md) |
+| **Computational engine architecture** | [`docs/ideation/geroscience-computational-engine-architecture.md`](docs/ideation/geroscience-computational-engine-architecture.md) |
 | **Related open tools** (pyaging, HAGR, ITP, …) — what we are **not** | [`docs/reference/related-open-tools.md`](docs/reference/related-open-tools.md) |
 | **Geroscience epistemics / negatives-bank seed** | [`design/gaps/geroscience-epistemics.md`](design/gaps/geroscience-epistemics.md) |
-| Design + plan | [`docs/superpowers/specs/2026-08-22-l0-paper-oss-design.md`](docs/superpowers/specs/2026-08-22-l0-paper-oss-design.md) |
+| **Design + plan** | [`docs/superpowers/specs/2026-08-22-l0-paper-oss-design.md`](docs/superpowers/specs/2026-08-22-l0-paper-oss-design.md) |
 
 Honesty: \(D(t)\) is an **operational model**; sex-split simulator \(D\) values are **illustrative** (not ITP-calibrated); `DRIVER_EDGES` are adjacency hypotheses, not a proven causal DAG; **COMPLETED ≠ Results**.
 
@@ -58,8 +73,8 @@ Agent rules: `AGENTS.md` · skill `live-forever-ralph-hillclimb`.
 
 | Doc | Path |
 |-----|------|
-| Latest CEO update | [`docs/reference/ceo-update-2026-08-22-eve.md`](docs/reference/ceo-update-2026-08-22-eve.md) (PM / AM siblings in same folder) |
+| Latest CEO update | [`docs/reference/ceo-update-2026-08-22-night.md`](docs/reference/ceo-update-2026-08-22-night.md) (eve / PM / AM siblings in same folder) |
 | Full backlog | [`docs/reference/BACKLOG.md`](docs/reference/BACKLOG.md) |
 | Sentinel board | [`docs/reference/SENTINEL_BOARD.md`](docs/reference/SENTINEL_BOARD.md) |
-| Lessons retained | eve (L26–L32) + PM (L19–L25) + AM (L11–L18) + foundation (L1–L10) under `docs/reference/lessons-learned-*.md` |
+| Lessons retained | night (L33–L39) + eve (L26–L32) + PM (L19–L25) + AM (L11–L18) + foundation (L1–L10) under `docs/reference/lessons-learned-*.md` |
 | Contributing | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
