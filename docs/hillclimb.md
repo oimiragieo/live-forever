@@ -2895,3 +2895,9 @@
 - NTZ FOXN1 Genah 2026 mouse post-IR + human TEC in vitro only; no human aging NCT milligrams
 - B2M/CCL11 selective aging depletion IND still absent; anti-CCL11 clinical trials vacant
 - OASIS 25/50 mg obesity COMPLETED; VITAL-H still press-only; no CT.gov NCT or aging arm milligrams
+## Tick 385 - 2026-08-23 (ER-100 / Deciduous / STL-101 still open)
+
+- Ralph wake #379: GOAL_MET; corpus 2031 -> 2037
+- ER-100 still RECRUITING; first patient dosed Jun 2026; DSMB second-patient outcome still absent
+- Deciduous iNKT still preclinical; patent lineage only; no IND or CT.gov registration
+- STL-101 still in-vitro only; bioRxiv animal/cell claims != human longevity NCT milligrams
