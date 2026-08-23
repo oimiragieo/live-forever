@@ -17376,3 +17376,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = recruiting!=published OD mg + vial!=daily mg + COMPLETED!=Results."
+- id: vital-h-nct-still-absent-wake385
+  title: "VITAL-H NCT wake #385 negative recheck - ARPA-H award #4176 and Barshop/Volpi press (Feb-Mar 2026) describe phase 3 hybrid trial (726 adults 60s; rapamycin, dapagliflozin, semaglutide) but state recruitment has not yet begun; no matching ClinicalTrials.gov NCT or protocol milligrams as of 2026-08-23"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award != NCT. Do not invent VITAL-H arm milligrams."
+- id: vital-h-recruitment-not-begun-fence-wake385
+  title: "VITAL-H recruitment not begun fence wake #385 - Barshop Institute clinical-trials page lists VITAL-H (PI Volpi) with interest-list signup only; ARPA-H PROSPR award Feb 2026; no CT.gov registration as of 2026-08-23"
+  url: https://barshopinstitute.uthscsa.edu/clinical-trials/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Recruitment not begun != registered NCT. Press != protocol mg."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake385
+  title: "NTZ FOXN1 human aging NCT wake #385 negative recheck - Genah et al Cell Death Differ 2026 shows NTZ proteasome-inhibition FOXN1 induction in murine and human primary TECs and mouse post-IR thymic regeneration; no matching ClinicalTrials.gov aging/thymus NCT milligrams as of 2026-08-23"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR + in-vitro TEC != human aging NCT. Do not invent NTZ aging milligrams."
+- id: ccl11-aging-trials-still-vacant-wake385
+  title: "CCL11 aging depletion clinical trials still vacant wake #385 - PMC11868897 review states anti-CCL11 clinical trials currently vacant; mouse neutralization only; no selective human aging depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11868897/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse neutralization != human aging IND. CCL11 trials vacant."
+- id: b2m-ccl11-selective-ind-still-absent-wake385
+  title: "Selective B2M/CCL11 aging depletion IND wake #385 negative recheck - Villeda/Smith B2M+CCL11 parabiosis literature and BBB transport reviews remain biomarker/preclinical only; no matching ClinicalTrials.gov selective B2M or CCL11 aging-depletion IND/NCT milligrams as of 2026-08-23"
+  url: https://purl.stanford.edu/ds267xt1780
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Biomarker/review != human aging depletion IND. Do not invent milligrams."
+- id: wake385-negatives
+  title: "Negatives wake #385 - VITAL-H NCT still absent; NTZ FOXN1 human aging NCT still absent; CCL11/B2M selective aging IND still absent"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = press!=NCT + mouse!=human NCT + vacant anti-CCL11 trials."

@@ -2931,3 +2931,9 @@
 - RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
 - SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
 - EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)
+## Tick 391 - 2026-08-23 (VITAL-H / NTZ-FOXN1 / B2M-CCL11 still open)
+
+- Ralph wake #385: GOAL_MET; corpus 2067 -> 2073
+- VITAL-H still press-only; recruitment not begun; no CT.gov NCT or protocol milligrams
+- NTZ FOXN1 Genah 2026 mouse post-IR + human TEC in vitro only; no human aging NCT milligrams
+- B2M/CCL11 selective aging depletion IND still absent; anti-CCL11 clinical trials vacant
