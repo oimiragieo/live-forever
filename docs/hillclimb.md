@@ -2462,3 +2462,10 @@
 - RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
 - SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted
 - EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka recruitment copy
+
+## Tick 314 - 2026-08-22 (VITAL-H / NTZ / B2M-CCL11 still absent)
+
+- Ralph wake #308: GOAL_MET; corpus 1632 -> 1637
+- VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
+- NTZ FOXN1: Genah mouse post-IR only; Sewell not-demonstrated; no human aging NCT
+- Selective B2M/CCL11 aging-depletion IND still absent (GIANTS-1 != B2M/CCL11)

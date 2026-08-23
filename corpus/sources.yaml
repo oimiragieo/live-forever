@@ -13896,3 +13896,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = RESTOR OD opacity + SHAPE vial!=daily-mg + EVERLAST COMPLETED-no-Results."
+- id: vital-h-nct-arm-mg-still-absent-wake308
+  title: "VITAL-H NCT and arm milligrams wake #308 negative recheck - ARPA-H/Barshop press; recruitment has not begun; no matching NCT in searched sources as of 2026-08-22"
+  url: https://news.uthscsa.edu/ut-san-antonio-to-lead-38-million-national-trial-testing-drugs-to-extend-healthspan/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press/award naming drugs != NCT registration or invent arm milligrams. Recruitment not begun."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake308
+  title: "Nitazoxanide FOXN1 human aging NCT wake #308 negative recheck - Genah Cell Death Differ 2026 mouse post-IR only; Sewell Immun Ageing 2026 review not-demonstrated; TRIIM-X != NTZ; no NTZ FOXN1 aging NCT in searched sources as of 2026-08-22"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR != human aging FOXN1 NCT. Review not-demonstrated corroborates absence. TRIIM-X GH/metformin/DHEA != NTZ."
+- id: sewell-thymic-restoration-not-demonstrated-wake308
+  title: "Sewell Immun Ageing 2026 thymic restoration review wake #308 - robust domain-specific clinical benefits not yet demonstrated in controlled trials"
+  url: https://link.springer.com/article/10.1186/s12979-026-00584-6
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Review not-demonstrated corroborates NTZ FOXN1 human aging NCT absence."
+- id: b2m-ccl11-aging-depletion-ind-still-absent-wake308
+  title: "Selective B2M/CCL11 aging-depletion IND wake #308 negative recheck - mechanism/BBB/senescence papers only; no selective B2M/CCL11 aging depletion human IND in searched sources as of 2026-08-22; GIANTS-1 NCT07363057 GI-102+GIB-7 != B2M/CCL11"
+  url: https://clinicaltrials.gov/study/NCT07363057
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adjacent immunosenescence combo NCT != selective B2M/CCL11 aging depletion IND. CCL11 trials vacant held."
+- id: wake308-negatives
+  title: "Negatives wake #308 - VITAL-H NCT/arm mg still absent; NTZ FOXN1 human aging NCT still absent; B2M/CCL11 aging IND still absent"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = VITAL-H press!=NCT + NTZ mouse-only + B2M/CCL11 mechanism!=IND."
