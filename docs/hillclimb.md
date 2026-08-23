@@ -2835,3 +2835,9 @@
 - ER-100 first patient dosed Jun 2026 but DSMB second-patient still opaque (ocular OSK != systemic)
 - Deciduous iNKT IND still absent (patent != CT.gov)
 - STL-101 still in-vitro only; no human longevity NCT milligrams
+## Tick 375 - 2026-08-23 (ST101 collision / RESTOR / SHAPE still open)
+
+- Ralph wake #369: GOAL_MET; corpus 1971 -> 1977
+- ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted

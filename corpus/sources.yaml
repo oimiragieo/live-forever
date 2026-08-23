@@ -16608,3 +16608,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = first-dose!=DSMB + patent!=IND + in-vitro!=human NCT."
+- id: st101-not-stl101-fence-wake369
+  title: "ST101 != STL-101 name collision fence wake #369 - Sapience lucicebtide ST101 NCT04478279 oncology GBM ACTIVE_NOT_RECRUITING (ASCO 2026 update); Stellate STL-101 = synthesized queuine preclinical; do not conflate oncology IV peptide mg with queuine longevity milligrams"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "ST101 oncology peptide != STL-101 queuine. Name collision fence held."
+- id: queuine-plasma-age-decline-still-unsettled-wake369
+  title: "Queuine plasma age-decline still UNSETTLED wake #369 - PLOS One 2021 healthy adults show no significant age decline (higher in women); bioRxiv 2026 claims circulating queuine declines with age; no supplementation longevity NCT milligrams as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: medium
+  summary: "Plasma flat vs decline UNSETTLED. Do not invent supplementation milligrams."
+- id: restor-adaptive-od-mg-still-unpublished-wake369
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #369 negative recheck - still RECRUITING (start 2026-03-04); protocol describes adaptive dose-finding in milligrams but first enrolled cohort OD mg not publicly posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "RECRUITING + adaptive design != published OD milligrams. Do not invent RESTOR arm mg."
+- id: restor-recruiting-not-results-fence-wake369
+  title: "RESTOR recruiting != results fence wake #369 - NCT06658093 EARLY_PHASE1 UT Health SA / NIA; Aim1 open-label adaptive PK/PD then placebo-controlled daily vs intermittent; no Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Status RECRUITING != completed Results. Adaptive OD still unpublished."
+- id: shape-daily-sc-mg-still-unpublished-wake369
+  title: "SHAPE NCT07275424 daily SC milligrams wake #369 negative recheck - still RECRUITING; supply lists 80 mg/mL vial concentration only; daily SC milligram dose not publicly posted; No Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial mg/mL != daily SC dose. RECRUITING != Results Posted."
+- id: wake369-negatives
+  title: "Negatives wake #369 - ST101!=STL-101 fence held; RESTOR adaptive OD mg still unpublished; SHAPE daily SC mg still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = name-collision fence + recruiting!=published OD mg + vial!=daily mg."
