@@ -16032,3 +16032,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = mouse!=human NCT + trials vacant + OASIS!=VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake357
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #357 negative recheck - still RECRUITING; protocol requires 28-day sentinel + DSMB before additional participants; no public second-patient or DSMB clearance outcome in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Sentinel design != published expansion outcome."
+- id: er100-ocular-not-systemic-fence-wake357
+  title: "ER-100 ocular OSK != systemic Finals fence wake #357 - NCT07290244 intravitreal AAV OSK + doxycycline activation for OAG/NAION; not a systemic aging Finals arm milligram"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Ocular optic-neuropathy FIH != systemic longevity milligrams."
+- id: deciduous-inkt-ind-still-absent-wake357
+  title: "Deciduous iNKT IND / CT.gov wake #357 negative recheck - company still preclinical senescent-cell iNKT activators; WO2022187141 / IL305579A patent lineage; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: deciduous-patent-not-ind-fence-wake357
+  title: "Deciduous patent != IND fence wake #357 - WO2022187141A1 / IL305579A compounds for activating iNKT to clear senescent cells; patent publication != public IND or NCT milligrams as of 2026-08-23"
+  url: https://patents.google.com/patent/WO2022187141A1/en
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent filing != ClinicalTrials.gov IND."
+- id: stl101-human-longevity-nct-still-absent-wake357
+  title: "STL-101 / queuine human longevity NCT wake #357 negative recheck - Stellate STL-101 still in-vitro neurodegeneration (PLOS One 2021); uM cell doses != human milligrams; no matching ClinicalTrials.gov longevity NCT as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro != human longevity NCT. Do not invent STL-101 human milligrams."
+- id: wake357-negatives
+  title: "Negatives wake #357 - ER-100 DSMB second-patient still absent; Deciduous iNKT IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = first-dose!=DSMB + patent!=IND + in-vitro!=human NCT."
