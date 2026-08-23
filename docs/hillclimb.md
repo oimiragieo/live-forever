@@ -2967,3 +2967,9 @@
 - ER-100 still RECRUITING; sentinel+DSMB protocol only; no second-patient or cohort-expansion outcome
 - Deciduous iNKT still preclinical; patent lineage only; no IND or CT.gov registration
 - STL-101 still in-vitro only; bioRxiv 2026 animal/cell claims != human longevity NCT milligrams
+## Tick 397 - 2026-08-23 (ST101 collision / RESTOR / SHAPE still open)
+
+- Ralph wake #391: GOAL_MET; corpus 2102 -> 2108
+- ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
