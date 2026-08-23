@@ -2811,3 +2811,9 @@
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams; VITAL-H NCT still absent
 - ER-100 first patient dosed Jun 2026 but DSMB second-patient still opaque (ocular OSK != systemic)
 - Deciduous iNKT IND still absent (patent != CT.gov)
+## Tick 371 - 2026-08-23 (STL-101 / ST101 collision / RESTOR still open)
+
+- Ralph wake #365: GOAL_MET; corpus 1947 -> 1953
+- STL-101 still in-vitro only; no human longevity NCT milligrams
+- ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
