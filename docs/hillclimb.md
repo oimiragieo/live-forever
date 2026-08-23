@@ -2919,3 +2919,9 @@
 - B2M/CCL11 selective aging depletion IND still absent; anti-CCL11 clinical trials vacant
 - OASIS 25/50 mg obesity COMPLETED; VITAL-H still press-only; no CT.gov NCT or aging arm milligrams
 - ER-100 still RECRUITING; sentinel+DSMB protocol only; no second-patient or cohort-expansion outcome
+## Tick 389 - 2026-08-23 (Deciduous / STL-101 / ST101 collision still open)
+
+- Ralph wake #383: GOAL_MET; corpus 2055 -> 2061
+- Deciduous iNKT still preclinical; patent lineage only; no IND or CT.gov registration
+- STL-101 still in-vitro only; bioRxiv animal/cell claims != human longevity NCT milligrams
+- ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
