@@ -1648,3 +1648,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **NTZ FOXN1 human aging NCT still absent:** **Wake #319 negative recheck** — Genah **Cell Death Differ 2026** mouse post-IR only; Sewell **not demonstrated**; **no human aging NTZ FOXN1 NCT**. **Mouse ≠ human aging NCT.**
 - **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #319 negative recheck** — mechanism papers only; CCL11 clinical trials **vacant**; **GIANTS-1 NCT07363057** is **not** selective B2M/CCL11 depletion. **CCL11 trials vacant** held.
 - **OASIS / ER-100 / Deciduous / STL-101** negatives held.
+## Update (Ralph wake #320)
+- **OASIS != VITAL-H fence held:** **Wake #320** — OASIS 4 **NCT05564117** **25 mg** / OASIS 1 **NCT05035095** **50 mg** obesity COMPLETED; VITAL-H still press-only; **recruitment has not begun**; **no matching NCT as of 2026-08-23**. **Do not invent** VITAL-H arm milligrams.
+- **ER-100 DSMB second-patient still absent:** **Wake #320 negative recheck** — **NCT07290244** still **RECRUITING**; **no public second-patient or DSMB clearance**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
+- **Deciduous iNKT IND still absent:** **Wake #320 negative recheck** — company still preclinical; patents (**US20250381206A1** lineage); **no CT.gov** in searched sources as of **2026-08-23**. **Patent != IND.**
+- **STL-101 / queuine / RESTOR / SHAPE** negatives held.

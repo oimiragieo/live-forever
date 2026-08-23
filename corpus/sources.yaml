@@ -14376,3 +14376,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = VITAL-H press!=NCT + NTZ mouse!=human NCT + CCL11 trials vacant."
+- id: oasis-not-vital-h-fence-wake320
+  title: "OASIS != VITAL-H fence wake #320 - OASIS 4 NCT05564117 oral semaglutide 25 mg COMPLETED obesity; OASIS 1 NCT05035095 50 mg COMPLETED obesity; ECO2026 secondary analysis does not invent VITAL-H healthy-older arm milligrams"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity 25/50 mg != VITAL-H aging arm milligrams. Adjacency != invention."
+- id: vital-h-nct-still-absent-oasis-recheck-wake320
+  title: "VITAL-H NCT still absent beside OASIS recheck wake #320 - ARPA-H/Barshop press only; recruitment has not begun; no matching NCT in searched sources as of 2026-08-23"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Press != NCT. OASIS doses do not fill unpublished VITAL-H arm milligrams."
+- id: er100-dsmb-second-patient-still-absent-wake320
+  title: "ER-100 NCT07290244 DSMB second-patient wake #320 negative recheck - still RECRUITING; sentinel/DSMB protocol language public; no public second-patient or DSMB clearance announcement"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance. Protocol DSMB gates != published second-patient outcome. Ocular OSK != systemic Finals."
+- id: deciduous-inkt-ind-still-absent-wake320
+  title: "Deciduous iNKT IND wake #320 negative recheck - site/company still preclinical; US20250381206A1 lineage; no ClinicalTrials.gov registration in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent/preclinical != IND or CT.gov. Do not invent milligrams."
+- id: wake320-negatives
+  title: "Negatives wake #320 - OASIS 25/50 != VITAL-H arm mg; VITAL-H NCT still absent; ER-100 DSMB second-patient still opaque; Deciduous iNKT IND still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS!=VITAL-H fence + ER-100 DSMB opacity + Deciduous patent!=IND."
