@@ -13936,3 +13936,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = VITAL-H press!=NCT + NTZ mouse-only + B2M/CCL11 mechanism!=IND."
+- id: oasis-vs-vital-h-fence-wake309
+  title: "OASIS 4 NCT05564117 25 mg and OASIS 1 NCT05035095 50 mg obesity COMPLETED wake #309 fence - do not invent VITAL-H aging arm milligrams; VITAL-H recruitment not begun; no matching NCT as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity oral 25/50 mg != invent VITAL-H healthy-older arm milligrams. OASIS != VITAL-H."
+- id: er100-dsmb-second-patient-still-absent-wake309
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #309 negative recheck - still RECRUITING; Life Bio Jun 9 2026 first-patient press only; no public second-patient or DSMB clearance as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose press != DSMB clearance. Protocol DSMB language != public second-patient outcome. Ocular OSK != systemic Finals."
+- id: deciduous-inkt-ind-still-absent-wake309
+  title: "Deciduous iNKT IND wake #309 negative recheck - site preclinical; US12655171 Jun 2026 patent; US20250381206A1 application; no ClinicalTrials.gov IND in searched sources as of 2026-08-22"
+  url: https://www.deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent/IP bibliography != IND or CT.gov. Patent != IND."
+- id: life-bio-er100-first-patient-only-wake309
+  title: "Life Biosciences Jun 9 2026 first ER-100 patient dosed press wake #309 - does not disclose second-patient or DSMB clearance"
+  url: https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First-patient press != DSMB second-patient clearance."
+- id: wake309-negatives
+  title: "Negatives wake #309 - OASIS 25/50 != VITAL-H arm mg; ER-100 DSMB second-patient still opaque; Deciduous iNKT IND still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = OASIS!=VITAL-H fence + ER-100 DSMB opacity + Deciduous patent!=IND."

@@ -2469,3 +2469,10 @@
 - VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
 - NTZ FOXN1: Genah mouse post-IR only; Sewell not-demonstrated; no human aging NCT
 - Selective B2M/CCL11 aging-depletion IND still absent (GIANTS-1 != B2M/CCL11)
+
+## Tick 315 - 2026-08-22 (OASIS!=VITAL-H / ER-100 DSMB / Deciduous still absent)
+
+- Ralph wake #309: GOAL_MET; corpus 1637 -> 1642
+- OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held; VITAL-H NCT still absent
+- ER-100 DSMB second-patient outcome still opaque (still RECRUITING; Jun 9 first dose only)
+- Deciduous iNKT IND still absent (patent Jun 2026 != IND)
