@@ -1622,3 +1622,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **RESTOR adaptive OD milligrams still absent:** **Wake #314 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
 - **SHAPE daily elamipretide mg / Results still absent:** **Wake #314 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
 - **EVERLAST / VITAL-H / NTZ / B2M-CCL11** negatives held.
+## Update (Ralph wake #315)
+- **EVERLAST Results still absent:** **Wake #315 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; **Konopka Lab** still recruitment copy. **COMPLETED ≠ Results Posted.**
+- **VITAL-H NCT / arm milligrams still absent:** **Wake #315 negative recheck** — ARPA-H/Barshop press; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-22**. **Press ≠ NCT.**
+- **NTZ FOXN1 human aging NCT still absent:** **Wake #315 negative recheck** — Genah **Cell Death Differ 2026** mouse post-IR only; Sewell **not demonstrated**; **no human aging NTZ FOXN1 NCT**. **Mouse ≠ human aging NCT.**
+- **B2M-CCL11 / OASIS / ER-100 / Deciduous** negatives held.
