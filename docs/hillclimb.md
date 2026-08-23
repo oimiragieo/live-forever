@@ -2555,3 +2555,9 @@
 - SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted (still RECRUITING)
 - EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka still recruitment copy
 - VITAL-H: no matching NCT in searched sources as of 2026-08-23; recruitment not begun
+## Tick 329 - 2026-08-23 (NTZ / B2M-CCL11 / OASIS!=VITAL-H still absent)
+
+- Ralph wake #323: GOAL_MET; corpus 1707 -> 1712
+- NTZ FOXN1: Genah mouse post-IR only; no human aging NCT
+- Selective B2M/CCL11 aging-depletion IND still absent (CCL11 trials vacant; GIANTS-1 != B2M/CCL11)
+- OASIS 25/50 mg obesity != VITAL-H arm milligrams; VITAL-H NCT still absent as of 2026-08-23
