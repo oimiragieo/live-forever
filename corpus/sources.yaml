@@ -14536,3 +14536,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = NTZ mouse!=human NCT + CCL11 trials vacant + OASIS!=VITAL-H fence."
+- id: er100-dsmb-second-patient-still-absent-wake324
+  title: "ER-100 NCT07290244 DSMB second-patient / cohort expansion wake #324 negative recheck - still RECRUITING; Life Bio first-patient-dosed Jun 2026 press; protocol sentinel+28d DSMB then 2 more at dose; no public second-patient or DSMB clearance in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "First dose != DSMB clearance for subsequent patients. Ocular OSK AAV != systemic Finals. Still RECRUITING."
+- id: er100-ocular-vg-dose-not-systemic-wake324
+  title: "ER-100 NCT07290244 OAG low/high dose vg/eye disclosed (aggregator mirrors) wake #324 - 2e11 and 6e11 vg/eye + doxycycline 56d activation; does not invent systemic OSK milligrams or DSMB second-patient outcome"
+  url: https://www.trialstoday.org/list/print/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: medium
+  summary: "Intravitreal vg/eye + ocular indication != invent systemic OSK dose or second-patient DSMB public outcome."
+- id: deciduous-inkt-ind-still-absent-wake324
+  title: "Deciduous iNKT IND / CT.gov wake #324 negative recheck - company site + fobi still preclinical; patent US20250381206A1 / WO2022187141 lineage; SAB/news 2026; no matching ClinicalTrials.gov in searched sources as of 2026-08-23"
+  url: https://deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent bibliography + preclinical company != IND/CT.gov. Do not invent human milligrams."
+- id: stl101-human-longevity-nct-still-absent-wake324
+  title: "STL-101 / Stellate queuine human longevity NCT wake #324 negative recheck - PLOS One in-vitro neuroprotection; bioRxiv 713446 mouse oral queuine lifespan +15.3%; LARVOL STEL-101 naming; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-23"
+  url: https://www.biorxiv.org/content/10.64898/2026.03.22.713446v1
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse lifespan != human longevity NCT or invent supplementation milligrams. Sapience ST101 NCT04478279 != Stellate STL-101."
+- id: wake324-negatives
+  title: "Negatives wake #324 - ER-100 DSMB second-patient still absent; Deciduous iNKT IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = ER-100 first-dose!=DSMB + Deciduous patent!=IND + STL-101 mouse!=human NCT."
