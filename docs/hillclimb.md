@@ -2420,3 +2420,10 @@
 - NTZ FOXN1: Genah mouse post-IR only; Sewell not-demonstrated; no human aging NCT
 - Selective B2M/CCL11 aging-depletion IND still absent (GIANTS-1 != B2M/CCL11)
 - OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held
+
+## Tick 308 - 2026-08-22 (ER-100 DSMB / Deciduous / STL-101 still absent)
+
+- Ralph wake #302: GOAL_MET; corpus 1602 -> 1607
+- ER-100 DSMB second-patient outcome still opaque (still RECRUITING; Jun 9 first dose only)
+- Deciduous iNKT IND still absent (patent Jun 2026 != IND)
+- STL-101 human longevity NCT still absent (PLOS in-vitro + bioRxiv mouse +15.3% != human NCT)

@@ -1542,3 +1542,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Selective B2M/CCL11 aging-depletion IND still absent:** **Wake #301 negative recheck** — mechanism papers only; **GIANTS-1 NCT07363057** (GI-102+GIB-7) is **not** selective B2M/CCL11 depletion. **CCL11 trials vacant** held.
 - **OASIS != VITAL-H fence held:** **Wake #301** — OASIS 4 **25 mg** / OASIS 1 **50 mg** obesity COMPLETED; **do not invent** VITAL-H arm milligrams; VITAL-H recruitment not begun; **no matching NCT as of 2026-08-22**.
 - **ER-100 / Deciduous / STL-101 / RESTOR** negatives held.
+
+## Update (Ralph wake #302)
+- **ER-100 DSMB second-patient still absent:** **Wake #302 negative recheck** — **NCT07290244** still **RECRUITING**; protocol sentinel + 28-day DSMB described; **no public second-patient or DSMB clearance**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
+- **Deciduous iNKT IND still absent:** **Wake #302 negative recheck** — site still preclinical; **US 12655171** Jun 2026 grant + **US20250381206A1**; Patsnap pipeline empty; **no CT.gov** in searched sources as of **2026-08-22**. **Patent != IND.**
+- **STL-101 human longevity NCT still absent:** **Wake #302 negative recheck** — PLOS in-vitro + bioRxiv **713446** mouse queuine lifespan **+15.3%**; **no Stellate CT.gov longevity NCT**. **Mouse != human NCT.** Queuine plasma PLOS-flat vs bioRxiv-decline remains **UNSETTLED**.
+- **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.

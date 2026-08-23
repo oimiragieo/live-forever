@@ -13656,3 +13656,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = NTZ mouse-only + B2M/CCL11 mechanism!=IND + OASIS!=VITAL-H fence."
+- id: er100-dsmb-second-patient-still-absent-wake302
+  title: "ER-100 NCT07290244 DSMB second-patient outcome wake #302 negative recheck - still RECRUITING; protocol sentinel+28d DSMB described; no public second-patient or DSMB clearance as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Protocol DSMB language != public second-patient clearance. First dose press != DSMB outcome. Ocular OSK != systemic Finals."
+- id: deciduous-inkt-ind-still-absent-wake302
+  title: "Deciduous iNKT IND wake #302 negative recheck - site preclinical; US12655171 Jun 2026 patent; US20250381206A1 application; Patsnap pipeline no data; no ClinicalTrials.gov IND in searched sources as of 2026-08-22"
+  url: https://www.deciduoustx.com/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Patent/IP bibliography != IND or CT.gov. Patent != IND."
+- id: stl101-human-longevity-nct-still-absent-wake302
+  title: "Stellate STL-101 human longevity NCT wake #302 negative recheck - PLOS One in-vitro; bioRxiv 713446 mouse queuine lifespan +15.3%; no Stellate CT.gov longevity NCT in searched sources as of 2026-08-22"
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "In-vitro/mouse lifespan != human longevity supplementation NCT or invent milligrams. Mouse != human NCT."
+- id: biorxiv-queuine-mouse-lifespan-not-human-nct-wake302
+  title: "bioRxiv 713446 queuine mouse lifespan +15.3% wake #302 - rodent/human plasma decline claims vs PLOS flat = UNSETTLED; does not invent Stellate human NCT"
+  url: https://doi.org/10.64898/2026.03.22.713446
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse lifespan and plasma-decline preprint != human longevity NCT. Assay/cohort mismatch vs PLOS remains UNSETTLED."
+- id: wake302-negatives
+  title: "Negatives wake #302 - ER-100 DSMB second-patient still opaque; Deciduous iNKT IND still absent; STL-101 human longevity NCT still absent"
+  url: https://clinicaltrials.gov/study/NCT07290244
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = ER-100 DSMB opacity + Deciduous patent!=IND + STL-101 no human NCT."
