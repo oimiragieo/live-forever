@@ -1718,3 +1718,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Sapience ST101 != Stellate STL-101 fence held:** **Wake #332** — **NCT04478279** lucicebtide/ST101 oncology **!=** Stellate queuine STL-101/STEL-101.
 - **RESTOR adaptive OD milligrams still absent:** **Wake #332 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
 - **SHAPE / EVERLAST / VITAL-H / NTZ** negatives held.
+## Update (Ralph wake #333)
+- **SHAPE daily SC milligrams / Results still absent:** **Wake #333 negative recheck** — **NCT07275424** still **RECRUITING**; vial **80 mg/mL** disclosed; **daily SC milligrams unpublished**; **No Results Posted** as of **2026-08-23**. **Conc != daily dose. Est. completion != Results.**
+- **EVERLAST Results still absent:** **Wake #333 negative recheck** — **NCT05835999** **COMPLETED 2026-07-22**; protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; no Konopka preprint/abstract outcomes. **COMPLETED != Results.**
+- **Konopka page still stale:** **Wake #333** — lab page still recruitment copy despite COMPLETED registry. **Stale pages != Results.**
+- **VITAL-H NCT / arm milligrams still absent:** **Wake #333 negative recheck** — ARPA-H/Barshop press; triad named; **recruitment has not begun**; **no matching NCT in searched sources as of 2026-08-23**. **Press != NCT.**
+- **NTZ / B2M-CCL11 / OASIS / ER-100** negatives held.
