@@ -2859,3 +2859,9 @@
 - Deciduous iNKT IND still absent (patent != CT.gov)
 - STL-101 still in-vitro only; no human longevity NCT milligrams
 - ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
+## Tick 379 - 2026-08-23 (RESTOR / SHAPE / EVERLAST still open)
+
+- Ralph wake #373: GOAL_MET; corpus 1995 -> 2001
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
+- EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)

@@ -16800,3 +16800,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = patent!=IND + in-vitro!=human NCT + name-collision fence."
+- id: restor-adaptive-od-mg-still-unpublished-wake373
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #373 negative recheck - still RECRUITING (start 2026-03-04); protocol describes adaptive dose-finding in milligrams but first enrolled cohort OD mg not publicly posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "RECRUITING + adaptive design != published OD milligrams. Do not invent RESTOR arm mg."
+- id: restor-recruiting-not-results-fence-wake373
+  title: "RESTOR recruiting != results fence wake #373 - NCT06658093 EARLY_PHASE1 UT Health SA / NIA; Aim1 open-label adaptive PK/PD then placebo-controlled daily vs intermittent; no Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Status RECRUITING != completed Results. Adaptive OD still unpublished."
+- id: shape-daily-sc-mg-still-unpublished-wake373
+  title: "SHAPE NCT07275424 daily SC milligrams wake #373 negative recheck - still RECRUITING; supply lists 80 mg/mL vial concentration only; daily SC milligram dose not publicly posted; No Results Posted as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial mg/mL != daily SC dose. RECRUITING != Results Posted."
+- id: shape-recruiting-not-results-fence-wake373
+  title: "SHAPE recruiting != results fence wake #373 - NCT07275424 Phase 2a open-label n~30 daily SC elamipretide x4 wk (Marcinek/Stealth); primary completion est 2026-03-15; No Results Posted as of 2026-08-23"
+  url: https://sites.uw.edu/marcinek/2025/10/15/shape-study-of-healthy-aging-and-physical-function-with-elamipretide/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Status RECRUITING != completed Results. 80 mg/mL != daily mg."
+- id: everlast-completed-not-results-wake373
+  title: "EVERLAST NCT05835999 COMPLETED != Results wake #373 negative recheck - COMPLETED 2026-07-22; protocol arms 0.5 mg/day and 5 mg/week everolimus known; No Results Posted; no Konopka preprint or outcome abstract in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol mg != outcome data."
+- id: wake373-negatives
+  title: "Negatives wake #373 - RESTOR adaptive OD mg still unpublished; SHAPE daily SC mg still unpublished; EVERLAST COMPLETED != Results"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = recruiting!=published OD mg + vial!=daily mg + COMPLETED!=Results."
