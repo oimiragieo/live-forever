@@ -1574,3 +1574,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Queuine plasma age-decline still UNSETTLED:** **Wake #306** — PLOS Fig4 **no significant age decline** vs bioRxiv decline claims; **assay/cohort mismatch UNSETTLED**.
 - **Sapience ST101 != Stellate STL-101 fence held:** **Wake #306** — **NCT04478279** Sapience oncology **!=** Stellate queuine STL-101.
 - **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.
+
+## Update (Ralph wake #307)
+- **RESTOR adaptive OD milligrams still absent:** **Wake #307 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
+- **SHAPE daily elamipretide mg / Results still absent:** **Wake #307 negative recheck** — **NCT07275424** still **RECRUITING**; **80 mg/mL vial ≠ daily SC protocol dose**; **No Results Posted**. **Vial mg/mL ≠ daily dose.**
+- **EVERLAST Results still absent:** **Wake #307 negative recheck** — **NCT05835999** still **COMPLETED** (**completion 2026-07-22**); protocol **0.5 mg/day** / **5 mg/week** known; **No Results Posted**; **Konopka Lab** still recruitment copy. **COMPLETED ≠ Results Posted.**
+- **VITAL-H / NTZ / B2M-CCL11 / OASIS** negatives held.
