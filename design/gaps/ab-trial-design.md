@@ -1734,3 +1734,9 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **Deciduous iNKT IND still absent:** **Wake #335 negative recheck** — company still preclinical; **US20250381206A1** / **US12655171** patent lineage; **no CT.gov** in searched sources as of **2026-08-23**. **Patent != IND.**
 - **STL-101 human longevity NCT still absent:** **Wake #335 negative recheck** — PLOS in-vitro only; Stellate still preclinical; **no Stellate CT.gov longevity NCT**. **In-vitro != human NCT. Do not invent supplementation milligrams.**
 - **RESTOR / SHAPE / EVERLAST / VITAL-H** negatives held.
+## Update (Ralph wake #336)
+- **Queuine plasma age-decline still UNSETTLED:** **Wake #336** — PLOS Fig4 **no significant age decline** vs bioRxiv **713446** decline claims; **assay/cohort mismatch UNSETTLED** as of **2026-08-23**.
+- **Sapience ST101 != Stellate STL-101 fence held:** **Wake #336** — **NCT04478279** lucicebtide/ST101 oncology **!=** Stellate queuine STL-101/STEL-101 (ASCO 2026 GBM updates reinforce oncology identity).
+- **RESTOR adaptive OD milligrams still absent:** **Wake #336 negative recheck** — **NCT06658093** still **RECRUITING**; **OD milligrams still unpublished**. **Protocol adaptive language != published OD.**
+- **SHAPE daily SC milligrams / Results still absent:** **Wake #336 negative recheck** — **NCT07275424** still **RECRUITING**; vial **80 mg/mL**; **daily SC milligrams unpublished**; **No Results Posted**. **Conc != daily dose. Est. completion != Results.**
+- **EVERLAST / VITAL-H / NTZ** negatives held.

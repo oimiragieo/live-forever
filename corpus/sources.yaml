@@ -15040,3 +15040,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = first-dose!=DSMB + Deciduous patent!=IND + STL-101 in-vitro!=human NCT."
+- id: queuine-plasma-age-unsettled-wake336
+  title: "Queuine plasma age-decline still UNSETTLED wake #336 - PLOS One Fig4 no significant age decline in healthy 50-90y plasma; prior bioRxiv 713446 claims circulating queuine declines with age; assay/cohort mismatch unresolved as of 2026-08-23"
+  url: https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0253216
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "PLOS flat vs bioRxiv decline = UNSETTLED. Do not invent human longevity supplementation milligrams from either paper."
+- id: sapience-st101-not-stellate-stl101-fence-wake336
+  title: "Sapience ST101/lucicebtide != Stellate STL-101 fence wake #336 - NCT04478279 Phase 1-2 GBM/oncology C/EBPbeta antagonist (Active not recruiting; ASCO 2026 updates); not Stellate queuine longevity"
+  url: https://clinicaltrials.gov/study/NCT04478279
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Name collision: Sapience lucicebtide ST101 oncology != Stellate STL-101/STEL-101 queuine. Do not equate NCTs."
+- id: restor-adaptive-od-mg-still-absent-wake336
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #336 negative recheck - still RECRUITING (UT Health San Antonio / NIA); protocol adaptive OD language; no published first-cohort OD milligrams in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Protocol adaptive dose-finding language != published OD milligrams. Still RECRUITING."
+- id: shape-daily-sc-mg-still-absent-wake336
+  title: "SHAPE NCT07275424 daily SC elamipretide milligrams wake #336 negative recheck - still RECRUITING (Marcinek/UW + Stealth); vial 80 mg/mL disclosed; daily SC milligrams unpublished; Results not posted in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial concentration 80 mg/mL != invent daily SC milligrams. Still RECRUITING; No Results Posted."
+- id: shape-results-still-absent-wake336
+  title: "SHAPE NCT07275424 Results still absent wake #336 - PeptideStat Results posted Not reported; estimated primary completion Mar 2026; Est. completion != Results; still RECRUITING as of 2026-08-23"
+  url: https://www.peptidestat.com/clinical-trials/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Estimated primary-completion date != posted results tables. Conc != daily dose."
+- id: wake336-negatives
+  title: "Negatives wake #336 - queuine plasma age UNSETTLED; Sapience ST101 != Stellate STL-101; RESTOR OD mg still absent; SHAPE 80 mg/mL != daily SC / No Results"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = plasma assay mismatch + ST101 name collision + RESTOR OD unpublished + SHAPE conc!=daily dose."

@@ -2635,3 +2635,10 @@
 - ER-100 DSMB second-patient still opaque (still RECRUITING; ocular OSK != systemic)
 - Deciduous iNKT IND still absent (preclinical + patent != CT.gov)
 - STL-101 human longevity NCT still absent; Sapience ST101 != Stellate STL-101
+## Tick 342 - 2026-08-23 (queuine / RESTOR / SHAPE still absent)
+
+- Ralph wake #336: GOAL_MET; corpus 1775 -> 1781
+- Queuine plasma age-decline still UNSETTLED (PLOS flat vs bioRxiv decline)
+- Sapience ST101 != Stellate STL-101 fence held
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted (still RECRUITING)
