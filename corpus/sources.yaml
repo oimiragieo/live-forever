@@ -15224,3 +15224,51 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = patent!=IND + in-vitro!=human NCT + plasma assay mismatch + ST101 name collision."
+- id: restor-adaptive-od-mg-still-absent-wake340
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #340 negative recheck - still RECRUITING (UT Health San Antonio / NIA); protocol adaptive OD language; no published first-cohort OD milligrams in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Protocol adaptive dose-finding language != published OD milligrams. Still RECRUITING."
+- id: shape-daily-sc-mg-still-absent-wake340
+  title: "SHAPE NCT07275424 daily SC elamipretide milligrams wake #340 negative recheck - still RECRUITING (Marcinek/UW + Stealth); vial 80 mg/mL disclosed; daily SC milligrams unpublished; Results not posted in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial concentration 80 mg/mL != invent daily SC milligrams. Still RECRUITING; No Results Posted."
+- id: shape-results-still-absent-wake340
+  title: "SHAPE NCT07275424 Results still absent wake #340 - PeptideStat Results posted Not reported; estimated primary completion Mar 2026; Est. completion != Results; still RECRUITING as of 2026-08-23"
+  url: https://www.peptidestat.com/clinical-trials/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Estimated primary-completion date != posted results tables. Conc != daily dose."
+- id: everlast-results-still-absent-wake340
+  title: "EVERLAST NCT05835999 Results still absent wake #340 - CT.gov COMPLETED 2026-07-22; protocol 0.5 mg/day and 5 mg/week known; No Results Posted; no Konopka preprint/abstract outcomes in searched sources as of 2026-08-23"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Protocol arm milligrams known; outcome tables absent."
+- id: everlast-konopka-stale-recruitment-wake340
+  title: "EVERLAST Konopka lab page still recruitment copy wake #340 - konopkalab.medicine.wisc.edu/clinical-trials/everlast still invites 55-80 enrollment language despite CT.gov COMPLETED Jul 2026; Stale pages != Results as of 2026-08-23"
+  url: https://konopkalab.medicine.wisc.edu/clinical-trials/everlast/
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Lab recruitment copy lags COMPLETED registry status. Do not invent outcome milligrams or efficacy claims."
+- id: wake340-negatives
+  title: "Negatives wake #340 - RESTOR OD mg still absent; SHAPE 80 mg/mL != daily SC / No Results; EVERLAST COMPLETED != Results / Konopka stale"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = RESTOR OD unpublished + SHAPE conc!=daily dose + EVERLAST COMPLETED!=Results."
