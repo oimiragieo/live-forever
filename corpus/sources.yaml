@@ -14296,3 +14296,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = Deciduous patent!=IND + STL-101 no human NCT + queuine UNSETTLED + ST101 collision fence."
+- id: restor-od-mg-still-absent-wake318
+  title: "RESTOR NCT06658093 adaptive OD milligrams wake #318 negative recheck - still RECRUITING; start 2026-03-04; last update ~Jun 2026; OD milligrams still unpublished"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adaptive dose-finding protocol language != published OD milligrams. Trial start != OD disclosed."
+- id: shape-daily-mg-results-still-absent-wake318
+  title: "SHAPE NCT07275424 daily elamipretide mg / Results wake #318 negative recheck - still RECRUITING; 80 mg/mL vial concentration disclosed; daily SC protocol milligrams still unpublished; No Results Posted"
+  url: https://clinicaltrials.gov/study/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Vial 80 mg/mL != invent daily SC milligrams. RECRUITING + No Results Posted."
+- id: everlast-results-still-absent-wake318
+  title: "EVERLAST NCT05835999 Results wake #318 negative recheck - still COMPLETED (completion 2026-07-22); protocol 0.5 mg/day and 5 mg/week known; No Results Posted; Konopka Lab page still recruitment copy"
+  url: https://clinicaltrials.gov/study/NCT05835999
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "COMPLETED != Results Posted. Stale lab recruitment copy != manuscript. Protocol mg known; outcomes absent."
+- id: shape-est-completion-not-results-wake318
+  title: "SHAPE NCT07275424 estimated primary completion Mar 2026 / study completion Apr 2026 != Results Posted wake #318 - PeptideStat Results posted Not reported; still RECRUITING on CT.gov"
+  url: https://www.peptidestat.com/clinical-trials/NCT07275424
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Est. completion != Results Posted. Do not invent daily SC milligrams from vial conc."
+- id: wake318-negatives
+  title: "Negatives wake #318 - RESTOR OD mg still unpublished; SHAPE daily mg/Results still absent; EVERLAST Results still absent"
+  url: https://clinicaltrials.gov/study/NCT06658093
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = RESTOR OD opacity + SHAPE vial!=daily + EVERLAST COMPLETED!=Results."

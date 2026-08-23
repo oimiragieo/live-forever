@@ -2525,3 +2525,9 @@
 - Deciduous iNKT IND still absent (preclinical + patent != CT.gov)
 - STL-101 human longevity NCT still absent; Sapience ST101 != Stellate STL-101
 - Queuine plasma age-decline still UNSETTLED (PLOS flat vs bioRxiv decline)
+## Tick 324 - 2026-08-23 (RESTOR / SHAPE / EVERLAST still absent)
+
+- Ralph wake #318: GOAL_MET; corpus 1682 -> 1687
+- RESTOR adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE: 80 mg/mL vial != daily SC mg; No Results Posted (still RECRUITING)
+- EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka still recruitment copy
