@@ -13616,3 +13616,43 @@ sources:
   - clinical
   confidence: high
   summary: "Climb = SHAPE vial!=daily-mg + EVERLAST COMPLETED-no-Results + VITAL-H press!=NCT."
+- id: ntz-foxn1-human-aging-nct-still-absent-wake301
+  title: "Nitazoxanide FOXN1 human aging NCT wake #301 negative recheck - Genah Cell Death Differ 2026 mouse post-IR only; Sewell Immun Ageing 2026 review not-demonstrated; TRIIM-X != NTZ; no NTZ FOXN1 aging NCT in searched sources as of 2026-08-22"
+  url: https://www.nature.com/articles/s41418-026-01724-7
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Mouse post-IR != human aging FOXN1 NCT. Review not-demonstrated corroborates absence. TRIIM-X GH/metformin/DHEA != NTZ."
+- id: sewell-thymic-restoration-not-demonstrated-wake301
+  title: "Sewell Immun Ageing 2026 thymic restoration review wake #301 - robust domain-specific clinical benefits not yet demonstrated in controlled trials"
+  url: https://link.springer.com/article/10.1186/s12979-026-00584-6
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Review not-demonstrated corroborates NTZ FOXN1 human aging NCT absence."
+- id: b2m-ccl11-aging-depletion-ind-still-absent-wake301
+  title: "Selective B2M/CCL11 aging-depletion IND wake #301 negative recheck - mechanism/BBB/senescence papers only; no selective B2M/CCL11 aging depletion human IND in searched sources as of 2026-08-22; GIANTS-1 NCT07363057 GI-102+GIB-7 != B2M/CCL11"
+  url: https://clinicaltrials.gov/study/NCT07363057
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Adjacent immunosenescence combo NCT != selective B2M/CCL11 aging depletion IND. CCL11 trials vacant held."
+- id: oasis-vs-vital-h-fence-wake301
+  title: "OASIS 4 NCT05564117 25 mg and OASIS 1 NCT05035095 50 mg obesity COMPLETED wake #301 fence - do not invent VITAL-H aging arm milligrams; VITAL-H recruitment not begun; no matching NCT as of 2026-08-22"
+  url: https://clinicaltrials.gov/study/NCT05564117
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "OASIS obesity oral 25/50 mg != invent VITAL-H healthy-older arm milligrams. OASIS != VITAL-H."
+- id: wake301-negatives
+  title: "Negatives wake #301 - NTZ FOXN1 human aging NCT still absent; B2M/CCL11 aging IND still absent; OASIS 25/50 != VITAL-H arm mg"
+  url: https://arpa-h.gov/explore-funding/awards/4176
+  year: 2026
+  topics:
+  - clinical
+  confidence: high
+  summary: "Climb = NTZ mouse-only + B2M/CCL11 mechanism!=IND + OASIS!=VITAL-H fence."
