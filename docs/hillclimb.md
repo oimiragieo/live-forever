@@ -2949,3 +2949,9 @@
 - STL-101 still in-vitro only; bioRxiv 2026 animal/cell claims != human longevity NCT milligrams
 - ST101 lucicebtide oncology != STL-101 queuine; fence held; queuine plasma age-decline UNSETTLED
 - RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+## Tick 394 - 2026-08-23 (SHAPE / EVERLAST / VITAL-H still open)
+
+- Ralph wake #388: GOAL_MET; corpus 2084 -> 2090
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
+- EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)
+- VITAL-H still press-only; recruitment not begun; no CT.gov NCT or protocol milligrams
