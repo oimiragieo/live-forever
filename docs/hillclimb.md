@@ -2715,3 +2715,9 @@
 - EVERLAST NCT05835999 COMPLETED but No Results Posted (0.5 mg/day / 5 mg/week protocol known)
 - VITAL-H NCT still absent (press/award only; recruitment has not begun)
 - NTZ FOXN1 human aging NCT still absent (Genah mouse post-IR + TEC in vitro only)
+## Tick 355 - 2026-08-23 (B2M-CCL11 / OASIS!=VITAL-H / ER-100)
+
+- Ralph wake #349: GOAL_MET; corpus 1851 -> 1857
+- Selective CCL11/B2M aging depletion IND still absent (anti-CCL11 trials vacant)
+- OASIS 25/50 mg obesity != VITAL-H arm milligrams; VITAL-H NCT still absent
+- ER-100 DSMB second-patient still opaque (still RECRUITING; ocular OSK != systemic)
