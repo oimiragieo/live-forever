@@ -1773,3 +1773,8 @@ De-risk-first is not optional rhetoric — CHIP clinics already operationalize t
 - **ER-100 DSMB second-patient still absent:** **Wake #342 negative recheck** — **NCT07290244** still **RECRUITING**; **no public second-patient or DSMB clearance** as of **2026-08-23**. **First dose != DSMB clearance. Ocular OSK != systemic Finals.**
 - **Deciduous iNKT IND still absent:** **Wake #342 negative recheck** — company still preclinical; **US12655171** / **WO2022187141** patent lineage; **no CT.gov** in searched sources as of **2026-08-23**. **Patent != IND.**
 - **RESTOR / SHAPE / EVERLAST** negatives held.
+## Update (Ralph wake #343)
+- **STL-101 human longevity NCT still absent:** **Wake #343 negative recheck** — Stellate **STL-101** remains **in-vitro/mouse** (PLOS ONE 2021; bioRxiv 2026 lifespan); **no human longevity supplementation NCT** in searched sources as of **2026-08-23**. **In-vitro uM != human oral mg.**
+- **Queuine plasma age-decline UNSETTLED:** **Wake #343** — PLOS ONE 2021 (**160** healthy **50–90y**, **no age decline**) vs bioRxiv 2026 (**circulating queuine declines with age**). **Do not bank one arm as settled.**
+- **ST101 != STL-101 fence held:** **Wake #343** — Sapience **lucicebtide ST101** **NCT04478279** (GBM oncology) **!=** Stellate **STL-101** (queuine). **Name collision != same asset or milligrams.**
+- **RESTOR adaptive OD mg still unpublished:** **Wake #343 negative recheck** — **NCT06658093** still **RECRUITING** (start **2026-03-04**); adaptive stepwise OD protocol; **no first-enrolled cohort milligrams published** as of **2026-08-23**.
