@@ -2793,3 +2793,9 @@
 - Deciduous iNKT IND still absent (patent != CT.gov)
 - STL-101 still no human longevity NCT; bioRxiv 2026 animal/cell claims != NCT milligrams
 - ST101 != STL-101 fence held; queuine plasma age-decline UNSETTLED (PLOS flat vs bioRxiv decline)
+## Tick 368 - 2026-08-23 (RESTOR / SHAPE / EVERLAST still open)
+
+- Ralph wake #362: GOAL_MET; corpus 1929 -> 1935
+- RESTOR NCT06658093 still RECRUITING; adaptive OD mg unpublished
+- SHAPE still RECRUITING; 80 mg/mL vial != daily SC milligrams; No Results Posted
+- EVERLAST COMPLETED Jul 2026 but No Results Posted (0.5 mg/d and 5 mg/wk protocol only)
