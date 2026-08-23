@@ -2703,3 +2703,9 @@
 - ER-100 DSMB second-patient still opaque (still RECRUITING; ocular OSK != systemic)
 - Deciduous iNKT IND still absent (preclinical + patent != CT.gov)
 - STL-101 human longevity NCT still absent (in-vitro/mouse only)
+## Tick 353 - 2026-08-23 (queuine plasma / RESTOR / SHAPE still absent)
+
+- Ralph wake #347: GOAL_MET; corpus 1839 -> 1845
+- Queuine plasma age-decline UNSETTLED (PLOS flat vs bioRxiv decline); ST101 != STL-101 fence held
+- RESTOR NCT06658093 adaptive OD milligrams still unpublished (still RECRUITING)
+- SHAPE NCT07275424 Results still absent; 80 mg/mL vial != daily SC milligrams
