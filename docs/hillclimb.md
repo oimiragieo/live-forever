@@ -2364,3 +2364,10 @@
 - EVERLAST: COMPLETED Jul 2026; No Results Posted; Konopka recruitment copy
 - VITAL-H: no matching NCT in searched sources as of 2026-08-22; recruitment not begun
 - NTZ FOXN1: Genah mouse post-IR only; Sewell not-demonstrated; no human aging NCT
+
+## Tick 300 - 2026-08-22 (B2M-CCL11 / OASIS!=VITAL-H / ER-100 DSMB still absent)
+
+- Ralph wake #294: GOAL_MET; corpus 1561 -> 1566
+- Selective B2M/CCL11 aging-depletion IND still absent (CCL11 trials vacant)
+- OASIS 25/50 mg obesity != VITAL-H aging arm milligrams fence held
+- ER-100 DSMB second-patient outcome still opaque (Jun 9 first dose only; still RECRUITING)
